@@ -1,0 +1,89 @@
+{
+  "status": "PASS_SCOPED_LOCAL_AUDIT; NEM_ROW_COMPARISON_OPEN",
+  "date": "2026-10-09",
+  "checks": [
+    "62 unique employment-ranked issue rows; weights reconcile; leading-zero codes retained",
+    "529 memberships and covered scores reproduced from cached XLSX and official hierarchy",
+    "923 ratings equal complete data-level domain; missing 93 codes equal official non-data-level list",
+    "four original acquisition SHA-256 hashes agree",
+    "both age-band baseline and available-specialty coverage match cached reports",
+    "no tracked pre-existing file differs from base 6ff6250; primary data hashes preserved",
+    "new artifacts below 2 MiB; no national/HMDA source opened; no model estimated",
+    "Python source syntax compiles; no new package dependency",
+    "Complete additive Git diff reviewed; source-domain policy, byte caps and authorization gates inspected; whitespace repaired"
+  ],
+  "literature_check": "Primary official PDFs/author materials reviewed; comparable and non-comparable statistics separated",
+  "open_limits": [
+    "NEM row edges and historical workbook vintage unverified after HTTP 403",
+    "Treasury coverage weighting unspecified",
+    "Residual/specialty representation unapproved; national coverage not observed"
+  ],
+  "new_artifact_bytes_before_this_receipt": 144291,
+  "artifacts": [
+    {
+      "path": "audit/phase3_controller_report.md",
+      "bytes": 4085,
+      "sha256": "44066c433a94b323bee0904a6b0933da669145cd23645d0f31eb8f9f44035d4e"
+    },
+    {
+      "path": "audit/phase3_onet_non_data_codes.json",
+      "bytes": 1934,
+      "sha256": "641dfbc82d61e11641f38d09509d9974e80b4386fd1dcd9f0b45fb2a4102ef5f"
+    },
+    {
+      "path": "audit/phase3_resource_preflight.json",
+      "bytes": 1768,
+      "sha256": "9418ee3f2cbb2f630fa869f1bd7eb154529a7629277708a7fbdb478b8375bbfe"
+    },
+    {
+      "path": "docs/exposure_measurement_risk.md",
+      "bytes": 6693,
+      "sha256": "e09f7469aa1d9178c94e367a76628e5b0e7d3d895ffa9598c289097041454826"
+    },
+    {
+      "path": "docs/literature_matching_benchmarks.md",
+      "bytes": 5959,
+      "sha256": "0946b41fb2daee9c35cbff42bc5da1fcc2c3b605f76963d2301c7adc53cd5dad"
+    },
+    {
+      "path": "docs/occupation_concordance_alternatives.md",
+      "bytes": 6632,
+      "sha256": "ce9d7433986e9578a792d2d564e7b823a559fd1d2bed891ef31a97d3d287e4de"
+    },
+    {
+      "path": "docs/occupation_unmatched_root_causes.md",
+      "bytes": 6713,
+      "sha256": "84d5c8b87c4b9e1e302952589e091c81d76aa1aaee3089ad2b808e37b5d7f218"
+    },
+    {
+      "path": "docs/phase3_resource_safe_plan.md",
+      "bytes": 7519,
+      "sha256": "2b5f3e966e16f61f6caa13a5e4d41283a336adeb57a05a9afb7b5c47b2f3a0a6"
+    },
+    {
+      "path": "results/feasibility/occupation_resolution_priorities.csv",
+      "bytes": 78759,
+      "sha256": "761358e3bf815017986ceebb7d6ff022e72c248e3163a363ea812964f6206948"
+    },
+    {
+      "path": "results/feasibility/phase3_cached_audit.json",
+      "bytes": 3592,
+      "sha256": "e4331ff47b35f27937fb230b765e65f4dd074b94da8527be487814d45bc08da0"
+    },
+    {
+      "path": "results/feasibility/phase3_metadata_acquisition.json",
+      "bytes": 1487,
+      "sha256": "944e56d887e2eff8d28236d7e439e26c7b4fed5ce006505d02073555d870583f"
+    },
+    {
+      "path": "scripts/phase3/acquire_small_metadata.py",
+      "bytes": 3711,
+      "sha256": "384c18550c4ba3fc8f59886805cb42d509734fe914556748b1f58839cb9eee23"
+    },
+    {
+      "path": "scripts/phase3/audit_cached_occupations.py",
+      "bytes": 15439,
+      "sha256": "938984d0d903b8b2c13f996dab34dc24e7b7383b7ff421f9a120eae5d29a2688"
+    }
+  ]
+}

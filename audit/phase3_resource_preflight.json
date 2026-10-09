@@ -1,0 +1,47 @@
+{
+  "recorded_at": "2026-10-09T17:17:22.708826+08:00",
+  "physical_ram_bytes": 17179869184,
+  "initial_df_available_kib": 56000000,
+  "initial_memory_pressure_free_percent": 45,
+  "initial_load_averages": [
+    9.64,
+    9.13,
+    6.57
+  ],
+  "later_df_available_kib": 53426696,
+  "later_memory_pressure_free_percent": 43,
+  "later_load_averages": [
+    19.93,
+    11.3,
+    7.95
+  ],
+  "later_swap_used_mib": 2.12,
+  "threshold_source": "/Users/zhenghuiqu/Desktop/Finance/task002_polymarket_corrected_replay_20261008_v1_local/runs/full_D_dual/code/run_corrected_replay_v5.py",
+  "threshold_source_sha256": "b348f897c618e2287a387994d2a5197a3294d0489c8630b9be3c26bb03724677",
+  "observed_thresholds_gib": {
+    "launch_gate": 40,
+    "hard_stop": 25,
+    "controlled_projected_safe_stop": 48,
+    "temporary_reserve": 1.64194,
+    "output_reserve": 2
+  },
+  "other_project_next_batch_requirement": "UNKNOWN_NOT_INSPECTED",
+  "custom_memory_threshold": "NOT_FOUND_IN_SCOPED_CONSTANT_INSPECTION; not proof of absence",
+  "other_project_files_modified": false,
+  "processes_changed": false,
+  "new_packages": 0,
+  "new_accepted_source_bytes": 0,
+  "no_national_or_hmda_download": true,
+  "phase_a_budget": {
+    "audit_rss_ceiling_bytes": 134217728,
+    "new_repository_artifacts_ceiling_bytes": 2097152,
+    "inline_receipt_ceiling_bytes": 1048576,
+    "per_metadata_file_cap_bytes": 262144,
+    "max_successful_metadata_payload_bytes": 524288,
+    "jobs": 1,
+    "downloads": "sequential only"
+  },
+  "disk_free_bytes_end_snapshot": 54886400000,
+  "memory_pressure_end_snapshot": "The system has 17179869184 (1048576 pages with a page size of 16384).\nSystem-wide memory free percentage: 51%",
+  "load_end_snapshot": "17:17  2 users, load averages: 50.56 27.28 17.66"
+}

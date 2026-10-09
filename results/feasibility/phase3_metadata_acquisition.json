@@ -1,0 +1,40 @@
+[
+  {
+    "name": "phase3_nem_onet.xlsx",
+    "url": "https://www.bls.gov/emp/classifications-crosswalks/nem-onet-to-soc-crosswalk.xlsx",
+    "cap_bytes": 262144,
+    "retrieved_at_utc": "2026-10-09T09:02:30.734489+00:00",
+    "outcome": "NOT_ACQUIRED",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "phase3_nem_acs.xlsx",
+    "url": "https://www.bls.gov/emp/classifications-crosswalks/nem-occcode-acs-crosswalk.xlsx",
+    "cap_bytes": 262144,
+    "retrieved_at_utc": "2026-10-09T09:02:32.078116+00:00",
+    "outcome": "NOT_ACQUIRED",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "phase3_nem_onet.xlsx",
+    "url": "https://www.bls.gov/emp/classifications-crosswalks/nem-onet-to-soc-crosswalk.xlsx",
+    "cap_bytes": 262144,
+    "backend": "curl_cffi_chrome",
+    "retrieved_at_utc": "2026-10-09T09:03:42.152819+00:00",
+    "status": 403,
+    "final_url": "https://www.bls.gov/emp/classifications-crosswalks/nem-onet-to-soc-crosswalk.xlsx",
+    "outcome": "NOT_ACQUIRED",
+    "error": "HTTP Error 403: "
+  },
+  {
+    "name": "phase3_nem_acs.xlsx",
+    "url": "https://www.bls.gov/emp/classifications-crosswalks/nem-occcode-acs-crosswalk.xlsx",
+    "cap_bytes": 262144,
+    "backend": "curl_cffi_chrome",
+    "retrieved_at_utc": "2026-10-09T09:03:47.142807+00:00",
+    "status": 403,
+    "final_url": "https://www.bls.gov/emp/classifications-crosswalks/nem-occcode-acs-crosswalk.xlsx",
+    "outcome": "NOT_ACQUIRED",
+    "error": "HTTP Error 403: "
+  }
+]
