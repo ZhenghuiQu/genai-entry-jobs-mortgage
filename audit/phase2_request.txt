@@ -1,0 +1,298 @@
+# ROLE: Senior Research Data Engineer and Independent Reproducibility Auditor
+
+Project: Generative AI, Entry-Level Employment, and US Mortgage Markets
+
+Repository:
+https://github.com/ZhenghuiQu/genai-entry-jobs-mortgage
+
+Current local feasibility commit: `3f363bc`
+
+The Day 1–2 feasibility audit has been completed. Recommendation C was issued because the occupational exposure construction, certain geographic definitions, and research-document provenance remain unresolved.
+
+Your assignment is **Phase 2: Occupational Exposure Repair, Research Provenance Integration, and Geographic Design Resolution**.
+
+This is a targeted continuation of the existing research. Do not restart the project, repeat the literature review, or begin treatment-effect estimation.
+
+## 1. Required capabilities and skills
+
+Use available skills for:
+
+- Official statistical-data validation and schema auditing;
+- Occupational taxonomy and concordance construction;
+- Reproducible Python and DuckDB processing;
+- Data-quality assessment;
+- Git and GitHub history preservation;
+- Econometric design validation;
+- Research-source and decision provenance.
+
+Inspect available skills before execution and report which were actually used. Do not claim unavailable skills were invoked.
+
+## 2. First: Reconcile the existing research repository
+
+The previous agent could not access the original private GitHub repository.
+
+Before making substantive changes:
+
+1. Inspect the local Git status, branches, remotes, and commit history.
+2. Check GitHub authentication.
+3. Access the existing repository without overwriting its history.
+4. Compare the remote repository with the local feasibility project.
+5. Integrate feasibility scripts, five Markdown reports, structured test records, and manifests.
+6. Preserve the original local commit `3f363bc` where safely possible.
+7. Never force-push, rewrite existing commits, delete unrelated files, or overwrite earlier literature reviews.
+
+Prefer a reviewed branch and clean cherry-pick when histories and changes permit. If conflicts or unrelated histories make cherry-picking unsafe, perform an additive file integration and record the original commit hash in the provenance manifest.
+
+Identify whether the following original documents are actually accessible:
+
+- Research assignment PDF;
+- Independent GPT literature review;
+- Independent Claude literature review;
+- Complete GPT–Claude cross-review;
+- Separate Claude-only state-level audit.
+
+Do not fabricate missing documents.
+
+If unavailable locally, report the missing files and continue with verified technical tasks. Do not block occupational concordance work merely because a literature document is missing.
+
+## 3. Highest priority: Repair the occupation crosswalk
+
+The previous feasibility audit reported:
+
+- Eloundou source pinned to commit `0471612fef3cc22b74fb884d27bff9dbd3770582`;
+- 923 O*NET-SOC ratings;
+- 798 scored detailed SOC groups;
+- Delaware weighted coverage of 71.178% for ages 22–34;
+- Delaware weighted coverage of 71.530% for ages 25–34;
+- 107 unmatched young-worker occupation groups.
+
+These are results from the earlier audit, not independently revalidated facts for this run.
+
+Reuse and audit the existing scripts and source files rather than rebuilding everything unnecessarily.
+
+### 3.1 Construct the complete official hierarchy
+
+Use authoritative Census, BLS, and O*NET documentation to establish:
+
+O*NET-SOC 2019 → SOC 2018 → ACS PUMS occupation groups.
+
+Distinguish:
+
+- Detailed SOC occupations;
+- Broad SOC occupations;
+- Minor occupational groups;
+- Major occupational groups;
+- Census composite occupations;
+- X/Y occupation groups;
+- Terminal "All Other" categories;
+- Occupations without exposure ratings.
+
+For every ACS occupation group, preserve:
+
+- Original PUMS code;
+- Official occupation description;
+- Complete documented SOC membership;
+- Corresponding rated SOC members;
+- Unrated members;
+- Source documentation;
+- Mapping status;
+- Aggregation rule;
+- Ambiguity status.
+
+Do not infer composite membership solely from a shared code prefix.
+
+Resolve broad SOC groups through official hierarchy definitions, not approximate string matching.
+
+Investigate the previously flagged `40-9095` member. Do not silently modify an official-source anomaly without authoritative support.
+
+### 3.2 Define within-occupation-group aggregation
+
+The previous diagnostic used equal means across O*NET children and detailed SOC members.
+
+Evaluate whether more defensible weights are available.
+
+If internal employment weights are not available, use a transparent primary aggregation rule and explicitly describe its assumptions.
+
+Never label an equal-member average as employment-weighted.
+
+Prespecify at least one alternative aggregation method to evaluate measurement sensitivity.
+
+### 3.3 Handle unmatched occupations
+
+Separate:
+
+A. Matchable through additional official hierarchy expansion;
+
+B. Unrated detailed SOC occupations;
+
+C. Ambiguous composite groups;
+
+D. Missing or invalid occupation identifiers;
+
+E. Genuine source inconsistencies.
+
+Do not assign zero exposure to an unmatched occupation merely because its score is unavailable.
+
+Do not exclude unmatched employment from coverage denominators.
+
+Because original exposure ratings are bounded between zero and one, calculate conservative lower and upper bounds for exposure when unscored employment remains.
+
+Evaluate whether unmatched employment could materially change geographic exposure rankings.
+
+### 3.4 Validate employment-weighted coverage
+
+Recompute exposure construction for Delaware first.
+
+Then extend validation to the national ACS PUMS 2015–2019 population, using reproducible programmatic downloads.
+
+Report separately:
+
+- Ages 22–34;
+- Ages 25–34;
+- Individual survey years;
+- National weighted coverage;
+- State-level coverage;
+- Proposed CZ-level coverage;
+- Coverage by major occupational group;
+- Coverage of employment in high-exposure occupations;
+- Distribution of unresolved employment weights.
+
+Use the appropriate ACS person weights and retain fractional PUMA-to-CZ allocation factors.
+
+Do not treat the original 98% coverage target as a universal statistical rule. Report whether that prespecified target is achieved, but distinguish technical mapping success from measurement validity.
+
+Do not lower an acceptance threshold after inspecting mortgage outcomes.
+
+## 4. Geographic design resolution
+
+Retain CZ as the provisional preferred geography and State as the geographic fallback.
+
+Review the established Dorn county-to-CZ and PUMA-to-CZ mappings.
+
+Resolve the remaining issues:
+
+- Connecticut's 2024–2025 planning-region changes;
+- Historical county-code renames;
+- Broomfield's approximate historical assignment;
+- Missing county identifiers;
+- County/state inconsistencies;
+- Cross-state commuting zones;
+- Effects of excluding a state on partial CZ coverage.
+
+For Connecticut, compare two explicitly defined options:
+
+A. A documented official geographic bridge;
+
+B. Consistent exclusion of Connecticut across all years.
+
+Do not assign new planning-region codes to old counties arbitrarily.
+
+Report the empirical coverage consequences of each technically valid option before recommending a primary geographic policy.
+
+Do not use treatment-effect estimates to choose geography.
+
+## 5. Dataset and design integrity
+
+Preserve the established provisional empirical design:
+
+- HMDA activity years 2018–2025;
+- Primary mortgage ages 25–34 versus 35–44;
+- Pre/post timing around 2023;
+- Recorded home-purchase mortgage applications;
+- Age-based PPML triple differences;
+- Dynamic event-study companion;
+- Explicitly descriptive interpretation unless identification is defended.
+
+Reconcile the difference between the original reviews' treatment windows and the full cross-review's recommended primary comparison of 2018–2019 versus 2023–2025.
+
+Do not silently change the primary pre-period or reference year.
+
+Prepare a decision table showing the competing specifications, source documents, arguments and required author approval.
+
+No outcome coefficients, significance tests, or treatment-effect regressions are authorized in this stage.
+
+## 6. Resource discipline
+
+The previous report observed approximately:
+
+- 7.69 GB of compressed HMDA snapshots;
+- 53.05 GB of expanded HMDA CSV files;
+- 16 GiB RAM;
+- 65.4 GB free disk at the time of testing.
+
+Do not assume these resource measurements are still current.
+
+Recheck available storage before downloading national ACS files.
+
+Use streaming processing and retain only necessary derived aggregates.
+
+Do not download or expand all HMDA snapshot files for this phase.
+
+## 7. Deliverables
+
+Update the original five feasibility documents rather than creating a second contradictory set.
+
+Create additional English Markdown files:
+
+`docs/occupation_mapping_resolution.md`
+
+`docs/national_exposure_coverage.md`
+
+`docs/geographic_design_resolution.md`
+
+`docs/research_provenance_integration.md`
+
+`docs/phase2_decision_register.md`
+
+Create auditable machine-readable mapping and diagnostic outputs:
+
+`results/feasibility/occupation_mapping_final.csv`
+
+`results/feasibility/unmatched_employment_by_group.csv`
+
+`results/feasibility/exposure_coverage_by_geography.csv`
+
+`results/feasibility/exposure_sensitivity.csv`
+
+`results/feasibility/phase2_gate_status.json`
+
+The filenames are output contracts; do not label an unresolved mapping "final" in its metadata or status.
+
+For each feasibility gate report:
+
+- Evidence observed;
+- Exact source and version;
+- Test procedure;
+- Validation statistics;
+- PASS/FAIL/OPEN status;
+- Remaining uncertainty;
+- Implication for the primary design.
+
+Preserve source manifests and test logs.
+
+Commit the implementation and audit records to the existing repository only after reviewing the Git diff and confirming no unrelated data or credentials are included.
+
+## 8. Final stopping condition
+
+At completion, recommend exactly one outcome:
+
+**A — CZ exposure construction and geographic linkage are sufficiently validated for full implementation.**
+
+**B — CZ remains infeasible under the project constraints, but a specified State-level or alternative-exposure design has been validated and can proceed.**
+
+**C — Critical exposure or provenance dependencies remain unresolved.**
+
+For each recommendation, clearly distinguish methodological validity, technical feasibility, and research-time constraints.
+
+Do not select the design based on the sign or significance of mortgage-market coefficients.
+
+Stop after completing this phase and provide a concise controller report with:
+
+1. Repository integration status;
+2. Occupational coverage before and after repair;
+3. Geographic coverage and unresolved cases;
+4. Recommended primary design;
+5. Remaining dependencies;
+6. Exact next implementation step.
+
+Do not begin full national HMDA regressions or paper writing without further authorization.

@@ -1,5 +1,13 @@
 # Day 1–2 Feasibility Gate Report
 
+<!-- PHASE2 BEGIN -->
+## Current Phase 2 update — 2026-10-09 (Asia/Shanghai)
+
+Current recommendation remains **C**, now supported by Phase 2 evidence: official hierarchy and CT bridge pass, DE coverage improves but fails the retained project target, national acquisition returns 403, and original repository/document access remains unresolved. The authoritative gate records are `phase2_gate_status.json`; see [decisions](phase2_decision_register.md), [occupation](occupation_mapping_resolution.md), [geography](geographic_design_resolution.md), [provenance](research_provenance_integration.md).
+
+The Day 1–2 evidence below is preserved historically; current Phase 2 findings supersede its occupation/CT/provenance conclusions where explicitly stated. No outcome estimation was authorized.
+
+<!-- PHASE2 END -->
 Date: 2026-10-09 (Asia/Shanghai). Scope: Day 1–2 feasibility only. Retrieval timestamps are UTC in the source manifest.
 
 ## Recommendation

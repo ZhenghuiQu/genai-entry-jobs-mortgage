@@ -1,0 +1,39 @@
+[
+  {
+    "id": "phase2_soc_official_web_extract.txt",
+    "url": "https://www.bls.gov/soc/2018/soc_structure_2018.pdf",
+    "version": "November 2017 reference January 2018",
+    "local_artifact_path": "audit/phase2_soc_official_web_extract.txt",
+    "registered_at_utc": "2026-10-09T03:46:27.194452+00:00",
+    "retrieval_mode": "web tool complete line extracts",
+    "hash_scope": "local extracted text representation; not original PDF/TXT bytes",
+    "source_lines": 1556,
+    "bytes": 96262,
+    "sha256": "e5604967bd961d59bf60100276fd77936a95647b15996078f2e6c41e728c7249",
+    "format_note": "Trimmed trailing blank line only; same source line content"
+  },
+  {
+    "id": "phase2_ct_relationship_web_records.txt",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2022/acs22_cousub22_blkgrp20_st09.txt",
+    "version": "ACS22 county subdivision to 2020 block group",
+    "local_artifact_path": "audit/phase2_ct_relationship_web_records.txt",
+    "registered_at_utc": "2026-10-09T03:43:51.295225+00:00",
+    "retrieval_mode": "web tool complete line extracts",
+    "hash_scope": "local extracted text representation; not original PDF/TXT bytes",
+    "source_lines": 2751,
+    "bytes": 412392,
+    "sha256": "75c92d99bec3602b15f8c7485842d975e3a33f3beaedf2044609fa561eb19d8c"
+  },
+  {
+    "id": "phase2_ct_tract_web_records.txt",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2022/acs22_cousub22_tract22_st09.txt",
+    "version": "ACS22 county subdivision to 2022 tract",
+    "local_artifact_path": "audit/phase2_ct_tract_web_records.txt",
+    "registered_at_utc": "2026-10-09T03:43:51.295945+00:00",
+    "retrieval_mode": "web tool complete line extracts",
+    "hash_scope": "local extracted text representation; not original PDF/TXT bytes",
+    "source_lines": 907,
+    "bytes": 141870,
+    "sha256": "d9ea60fe4e7c315de3e014192354f239f3ab515236128d6dac4345adb99919f0"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "document": "Research assignment PDF",
+    "availability": "MISSING in scoped local search; remote inaccessible"
+  },
+  {
+    "document": "Independent GPT review",
+    "availability": "MISSING"
+  },
+  {
+    "document": "Independent Claude review",
+    "availability": "AVAILABLE: eight literature/*.md files, original hashes revalidated"
+  },
+  {
+    "document": "Complete GPT–Claude cross-review",
+    "availability": "MISSING; treatment-window recommendation known only from current user instruction"
+  },
+  {
+    "document": "Separate Claude-only State audit",
+    "availability": "MISSING; distinct from available independent Claude review"
+  }
+]

@@ -1,0 +1,1797 @@
+2018 SOC Structure (https://www.bls.gov/soc/2018/soc_structure_2018.pdf)
+citeturn6view0 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 44; Source: open({"ref_id":"https://www.bls.gov/soc/2018/soc_structure_2018.pdf","lineno":0}); Total lines: 1556
+L0@P0: U.S. Bureau of Labor Statistics
+L1@P0: On behalf of the Office of Management and Budget (OMB) and the Standard Occupational Classification Policy Committee (SOCPC)
+L2@P0: November 2017 (for reference year January 2018)
+L3@P0: ***This is the final structure for the 2018 SOC. Questions should be emailed to soc@bls.gov***
+L4@P0: Major Group Minor Group Broad Group Detailed Occupation
+L5@P0: 11-0000 Management Occupations
+L6@P0: 11-1000 Top Executives
+L7@P0: 11-1010 Chief Executives
+L8@P0: 11-1011 Chief Executives
+L9@P0: 11-1020 General and Operations Managers
+L10@P0: 11-1021 General and Operations Managers
+L11@P0: 11-1030 Legislators
+L12@P0: 11-1031 Legislators
+L13@P0: 11-2000 Advertising, Marketing, Promotions, Public Relations, and Sales Managers
+L14@P0: 11-2010 Advertising and Promotions Managers
+L15@P0: 11-2011 Advertising and Promotions Managers
+L16@P0: 11-2020 Marketing and Sales Managers
+L17@P0: 11-2021 Marketing Managers
+L18@P0: 11-2022 Sales Managers
+L19@P0: 11-2030 Public Relations and Fundraising Managers
+L20@P0: 11-2032 Public Relations Managers
+L21@P0: 11-2033 Fundraising Managers
+L22@P0: 11-3000 Operations Specialties Managers
+L23@P0: 11-3010 Administrative Services and Facilities Managers
+L24@P0: 11-3012 Administrative Services Managers
+L25@P0: 11-3013 Facilities Managers
+L26@P0: 11-3020 Computer and Information Systems Managers
+L27@P0: 11-3021 Computer and Information Systems Managers
+L28@P0: 11-3030 Financial Managers
+L29@P0: 11-3031 Financial Managers
+L30@P0: 11-3050 Industrial Production Managers
+L31@P0: 11-3051 Industrial Production Managers
+L32@P0-1: 1Major Group Minor Group Broad Group Detailed Occupation
+L33@P1: 11-3060 Purchasing Managers
+L34@P1: 11-3061 Purchasing Managers
+L35@P1: 11-3070 Transportation, Storage, and Distribution Managers
+L36@P1: 11-3071 Transportation, Storage, and Distribution Managers
+L37@P1: 11-3110 Compensation and Benefits Managers
+L38@P1: 11-3111 Compensation and Benefits Managers
+L39@P1: 11-3120 Human Resources Managers
+L40@P1: 11-3121 Human Resources Managers
+L41@P1: 11-3130 Training and Development Managers
+L42@P1: 11-3131 Training and Development Managers
+L43@P1: 11-9000 Other Management Occupations
+L44@P1: 11-9010 Farmers, Ranchers, and Other Agricultural Managers
+L45@P1: 11-9013 Farmers, Ranchers, and Other Agricultural Managers
+L46@P1: 11-9020 Construction Managers
+L47@P1: 11-9021 Construction Managers
+L48@P1: 11-9030 Education and Childcare Administrators
+L49@P1: 11-9031 Education and Childcare Administrators, Preschool and Daycare
+L50@P1: 11-9032 Education Administrators, Kindergarten through Secondary
+L51@P1: 11-9033 Education Administrators, Postsecondary
+L52@P1: 11-9039 Education Administrators, All Other
+L53@P1: 11-9040 Architectural and Engineering Managers
+L54@P1: 11-9041 Architectural and Engineering Managers
+L55@P1: 11-9050 Food Service Managers
+L56@P1: 11-9051 Food Service Managers
+L57@P1: 11-9070 Entertainment and Recreation Managers
+L58@P1: 11-9071 Gambling Managers
+L59@P1: 11-9072 Entertainment and Recreation Managers, Except Gambling
+L60@P1: 11-9080 Lodging Managers
+L61@P1: 11-9081 Lodging Managers
+L62@P1: 11-9110 Medical and Health Services Managers
+L63@P1: 11-9111 Medical and Health Services Managers
+L64@P1: 11-9120 Natural Sciences Managers
+L65@P1: 11-9121 Natural Sciences Managers
+L66@P1: 11-9130 Postmasters and Mail Superintendents
+L67@P1-2: 2Major Group Minor Group Broad Group Detailed Occupation
+L68@P2: 11-9131 Postmasters and Mail Superintendents
+L69@P2: 11-9140 Property, Real Estate, and Community Association Managers
+L70@P2: 11-9141 Property, Real Estate, and Community Association Managers
+L71@P2: 11-9150 Social and Community Service Managers
+L72@P2: 11-9151 Social and Community Service Managers
+L73@P2: 11-9160 Emergency Management Directors
+L74@P2: 11-9161 Emergency Management Directors
+L75@P2: 11-9170 Personal Service Managers
+L76@P2: 11-9171 Funeral Home Managers
+L77@P2: 11-9179 Personal Service Managers, All Other
+L78@P2: 11-9190 Miscellaneous Managers
+L79@P2: 11-9199 Managers, All Other
+L80@P2: 13-0000 Business and Financial Operations Occupations
+L81@P2: 13-1000 Business Operations Specialists
+L82@P2: 13-1010 Agents and Business Managers of Artists, Performers, and Athletes
+L83@P2: 13-1011 Agents and Business Managers of Artists, Performers, and Athletes
+L84@P2: 13-1020 Buyers and Purchasing Agents
+L85@P2: 13-1021 Buyers and Purchasing Agents, Farm Products
+L86@P2: 13-1022 Wholesale and Retail Buyers, Except Farm Products
+L87@P2: 13-1023 Purchasing Agents, Except Wholesale, Retail, and Farm Products
+L88@P2: 13-1030 Claims Adjusters, Appraisers, Examiners, and Investigators
+L89@P2: 13-1031 Claims Adjusters, Examiners, and Investigators
+L90@P2: 13-1032 Insurance Appraisers, Auto Damage
+L91@P2: 13-1040 Compliance Officers
+L92@P2: 13-1041 Compliance Officers
+L93@P2: 13-1050 Cost Estimators
+L94@P2: 13-1051 Cost Estimators
+L95@P2: 13-1070 Human Resources Workers
+L96@P2: 13-1071 Human Resources Specialists
+L97@P2: 13-1074 Farm Labor Contractors
+L98@P2: 13-1075 Labor Relations Specialists
+L99@P2: 13-1080 Logisticians and Project Management Specialists
+L100@P2: 13-1081 Logisticians
+L101@P2: 13-1082 Project Management Specialists
+L102@P2-3: 3Major Group Minor Group Broad Group Detailed Occupation
+L103@P3: 13-1110 Management Analysts
+L104@P3: 13-1111 Management Analysts
+L105@P3: 13-1120 Meeting, Convention, and Event Planners
+L106@P3: 13-1121 Meeting, Convention, and Event Planners
+L107@P3: 13-1130 Fundraisers
+L108@P3: 13-1131 Fundraisers
+L109@P3: 13-1140 Compensation, Benefits, and Job Analysis Specialists
+L110@P3: 13-1141 Compensation, Benefits, and Job Analysis Specialists
+L111@P3: 13-1150 Training and Development Specialists
+L112@P3: 13-1151 Training and Development Specialists
+L113@P3: 13-1160 Market Research Analysts and Marketing Specialists
+L114@P3: 13-1161 Market Research Analysts and Marketing Specialists
+L115@P3: 13-1190 Miscellaneous Business Operations Specialists
+L116@P3: 13-1199 Business Operations Specialists, All Other
+L117@P3: 13-2000 Financial Specialists
+L118@P3: 13-2010 Accountants and Auditors
+L119@P3: 13-2011 Accountants and Auditors
+L120@P3: 13-2020 Property Appraisers and Assessors
+L121@P3: 13-2022 Appraisers of Personal and Business Property
+L122@P3: 13-2023 Appraisers and Assessors of Real Estate
+L123@P3: 13-2030 Budget Analysts
+L124@P3: 13-2031 Budget Analysts
+L125@P3: 13-2040 Credit Analysts
+L126@P3: 13-2041 Credit Analysts
+L127@P3: 13-2050 Financial Analysts and Advisors
+L128@P3: 13-2051 Financial and Investment Analysts
+L129@P3: 13-2052 Personal Financial Advisors
+L130@P3: 13-2053 Insurance Underwriters
+L131@P3: 13-2054 Financial Risk Specialists
+L132@P3: 13-2060 Financial Examiners
+L133@P3: 13-2061 Financial Examiners
+L134@P3: 13-2070 Credit Counselors and Loan Officers
+L135@P3: 13-2071 Credit Counselors
+L136@P3: 13-2072 Loan Officers
+L137@P3-4: 4Major Group Minor Group Broad Group Detailed Occupation
+L138@P4: 13-2080 Tax Examiners, Collectors and Preparers, and Revenue Agents
+L139@P4: 13-2081 Tax Examiners and Collectors, and Revenue Agents
+L140@P4: 13-2082 Tax Preparers
+L141@P4: 13-2090 Miscellaneous Financial Specialists
+L142@P4: 13-2099 Financial Specialists, All Other
+L143@P4: 15-0000 Computer and Mathematical Occupations
+L144@P4: 15-1200 Computer Occupations
+L145@P4: 15-1210 Computer and Information Analysts
+L146@P4: 15-1211 Computer Systems Analysts
+L147@P4: 15-1212 Information Security Analysts
+L148@P4: 15-1220 Computer and Information Research Scientists
+L149@P4: 15-1221 Computer and Information Research Scientists
+L150@P4: 15-1230 Computer Support Specialists
+L151@P4: 15-1231 Computer Network Support Specialists
+L152@P4: 15-1232 Computer User Support Specialists
+L153@P4: 15-1240 Database and Network Administrators and Architects
+L154@P4: 15-1241 Computer Network Architects
+L155@P4: 15-1242 Database Administrators
+L156@P4: 15-1243 Database Architects
+L157@P4: 15-1244 Network and Computer Systems Administrators
+L158@P4: 15-1250 Software and Web Developers, Programmers, and Testers
+L159@P4: 15-1251 Computer Programmers
+L160@P4: 15-1252 Software Developers
+L161@P4: 15-1253 Software Quality Assurance Analysts and Testers
+L162@P4: 15-1254 Web Developers
+L163@P4: 15-1255 Web and Digital Interface Designers
+L164@P4: 15-1290 Miscellaneous Computer Occupations
+L165@P4: 15-1299 Computer Occupations, All Other
+L166@P4: 15-2000 Mathematical Science Occupations
+L167@P4: 15-2010 Actuaries
+L168@P4: 15-2011 Actuaries
+L169@P4: 15-2020 Mathematicians
+L170@P4: 15-2021 Mathematicians
+L171@P4: 15-2030 Operations Research Analysts
+L172@P4-5: 5Major Group Minor Group Broad Group Detailed Occupation
+L173@P5: 15-2031 Operations Research Analysts
+L174@P5: 15-2040 Statisticians
+L175@P5: 15-2041 Statisticians
+L176@P5: 15-2050 Data Scientists
+L177@P5: 15-2051 Data Scientists
+L178@P5: 15-2090 Miscellaneous Mathematical Science Occupations
+L179@P5: 15-2099 Mathematical Science Occupations, All Other
+L180@P5: 17-0000 Architecture and Engineering Occupations
+L181@P5: 17-1000 Architects, Surveyors, and Cartographers
+L182@P5: 17-1010 Architects, Except Naval
+L183@P5: 17-1011 Architects, Except Landscape and Naval
+L184@P5: 17-1012 Landscape Architects
+L185@P5: 17-1020 Surveyors, Cartographers, and Photogrammetrists
+L186@P5: 17-1021 Cartographers and Photogrammetrists
+L187@P5: 17-1022 Surveyors
+L188@P5: 17-2000 Engineers
+L189@P5: 17-2010 Aerospace Engineers
+L190@P5: 17-2011 Aerospace Engineers
+L191@P5: 17-2020 Agricultural Engineers
+L192@P5: 17-2021 Agricultural Engineers
+L193@P5: 17-2030 Bioengineers and Biomedical Engineers
+L194@P5: 17-2031 Bioengineers and Biomedical Engineers
+L195@P5: 17-2040 Chemical Engineers
+L196@P5: 17-2041 Chemical Engineers
+L197@P5: 17-2050 Civil Engineers
+L198@P5: 17-2051 Civil Engineers
+L199@P5: 17-2060 Computer Hardware Engineers
+L200@P5: 17-2061 Computer Hardware Engineers
+L201@P5: 17-2070 Electrical and Electronics Engineers
+L202@P5: 17-2071 Electrical Engineers
+L203@P5: 17-2072 Electronics Engineers, Except Computer
+L204@P5: 17-2080 Environmental Engineers
+L205@P5: 17-2081 Environmental Engineers
+L206@P5: 17-2110 Industrial Engineers, Including Health and Safety
+L207@P5-6: 6Major Group Minor Group Broad Group Detailed Occupation
+L208@P6: 17-2111 Health and Safety Engineers, Except Mining Safety Engineers and Inspectors
+L209@P6: 17-2112 Industrial Engineers
+L210@P6: 17-2120 Marine Engineers and Naval Architects
+L211@P6: 17-2121 Marine Engineers and Naval Architects
+L212@P6: 17-2130 Materials Engineers
+L213@P6: 17-2131 Materials Engineers
+L214@P6: 17-2140 Mechanical Engineers
+L215@P6: 17-2141 Mechanical Engineers
+L216@P6: 17-2150 Mining and Geological Engineers, Including Mining Safety Engineers
+L217@P6: 17-2151 Mining and Geological Engineers, Including Mining Safety Engineers
+L218@P6: 17-2160 Nuclear Engineers
+L219@P6: 17-2161 Nuclear Engineers
+L220@P6: 17-2170 Petroleum Engineers
+L221@P6: 17-2171 Petroleum Engineers
+L222@P6: 17-2190 Miscellaneous Engineers
+L223@P6: 17-2199 Engineers, All Other
+L224@P6: 17-3000 Drafters, Engineering Technicians, and Mapping Technicians
+L225@P6: 17-3010 Drafters
+L226@P6: 17-3011 Architectural and Civil Drafters
+L227@P6: 17-3012 Electrical and Electronics Drafters
+L228@P6: 17-3013 Mechanical Drafters
+L229@P6: 17-3019 Drafters, All Other
+L230@P6: 17-3020 Engineering Technologists and Technicians, Except Drafters
+L231@P6: 17-3021 Aerospace Engineering and Operations Technologists and Technicians
+L232@P6: 17-3022 Civil Engineering Technologists and Technicians
+L233@P6: 17-3023 Electrical and Electronic Engineering Technologists and Technicians
+L234@P6: 17-3024 Electro-Mechanical and Mechatronics Technologists and Technicians
+L235@P6: 17-3025 Environmental Engineering Technologists and Technicians
+L236@P6: 17-3026 Industrial Engineering Technologists and Technicians
+L237@P6: 17-3027 Mechanical Engineering Technologists and Technicians
+L238@P6: 17-3028 Calibration Technologists and Technicians
+L239@P6: 17-3029 Engineering Technologists and Technicians, Except Drafters, All Other
+L240@P6: 17-3030 Surveying and Mapping Technicians
+L241@P6: 17-3031 Surveying and Mapping Technicians
+L242@P6-7: 7Major Group Minor Group Broad Group Detailed Occupation
+L243@P7: 19-0000 Life, Physical, and Social Science Occupations
+L244@P7: 19-1000 Life Scientists
+L245@P7: 19-1010 Agricultural and Food Scientists
+L246@P7: 19-1011 Animal Scientists
+L247@P7: 19-1012 Food Scientists and Technologists
+L248@P7: 19-1013 Soil and Plant Scientists
+L249@P7: 19-1020 Biological Scientists
+L250@P7: 19-1021 Biochemists and Biophysicists
+L251@P7: 19-1022 Microbiologists
+L252@P7: 19-1023 Zoologists and Wildlife Biologists
+L253@P7: 19-1029 Biological Scientists, All Other
+L254@P7: 19-1030 Conservation Scientists and Foresters
+L255@P7: 19-1031 Conservation Scientists
+L256@P7: 19-1032 Foresters
+L257@P7: 19-1040 Medical Scientists
+L258@P7: 19-1041 Epidemiologists
+L259@P7: 19-1042 Medical Scientists, Except Epidemiologists
+L260@P7: 19-1090 Miscellaneous Life Scientists
+L261@P7: 19-1099 Life Scientists, All Other
+L262@P7: 19-2000 Physical Scientists
+L263@P7: 19-2010 Astronomers and Physicists
+L264@P7: 19-2011 Astronomers
+L265@P7: 19-2012 Physicists
+L266@P7: 19-2020 Atmospheric and Space Scientists
+L267@P7: 19-2021 Atmospheric and Space Scientists
+L268@P7: 19-2030 Chemists and Materials Scientists
+L269@P7: 19-2031 Chemists
+L270@P7: 19-2032 Materials Scientists
+L271@P7: 19-2040 Environmental Scientists and Geoscientists
+L272@P7: 19-2041 Environmental Scientists and Specialists, Including Health
+L273@P7: 19-2042 Geoscientists, Except Hydrologists and Geographers
+L274@P7: 19-2043 Hydrologists
+L275@P7: 19-2090 Miscellaneous Physical Scientists
+L276@P7: 19-2099 Physical Scientists, All Other
+L277@P7-8: 8Major Group Minor Group Broad Group Detailed Occupation
+L278@P8: 19-3000 Social Scientists and Related Workers
+L279@P8: 19-3010 Economists
+L280@P8: 19-3011 Economists
+L281@P8: 19-3020 Survey Researchers
+L282@P8: 19-3022 Survey Researchers
+L283@P8: 19-3030 Psychologists
+L284@P8: 19-3032 Industrial-Organizational Psychologists
+L285@P8: 19-3033 Clinical and Counseling Psychologists
+L286@P8: 19-3034 School Psychologists
+L287@P8: 19-3039 Psychologists, All Other
+L288@P8: 19-3040 Sociologists
+L289@P8: 19-3041 Sociologists
+L290@P8: 19-3050 Urban and Regional Planners
+L291@P8: 19-3051 Urban and Regional Planners
+L292@P8: 19-3090 Miscellaneous Social Scientists and Related Workers
+L293@P8: 19-3091 Anthropologists and Archeologists
+L294@P8: 19-3092 Geographers
+L295@P8: 19-3093 Historians
+L296@P8: 19-3094 Political Scientists
+L297@P8: 19-3099 Social Scientists and Related Workers, All Other
+L298@P8: 19-4000 Life, Physical, and Social Science Technicians
+L299@P8: 19-4010 Agricultural and Food Science Technicians
+L300@P8: 19-4012 Agricultural Technicians
+L301@P8: 19-4013 Food Science Technicians
+L302@P8: 19-4020 Biological Technicians
+L303@P8: 19-4021 Biological Technicians
+L304@P8: 19-4030 Chemical Technicians
+L305@P8: 19-4031 Chemical Technicians
+L306@P8: 19-4040 Environmental Science and Geoscience Technicians
+L307@P8: 19-4042 Environmental Science and Protection Technicians, Including Health
+L308@P8: 19-4043 Geological Technicians, Except Hydrologic Technicians
+L309@P8: 19-4044 Hydrologic Technicians
+L310@P8: 19-4050 Nuclear Technicians
+L311@P8: 19-4051 Nuclear Technicians
+L312@P8-9: 9Major Group Minor Group Broad Group Detailed Occupation
+L313@P9: 19-4060 Social Science Research Assistants
+L314@P9: 19-4061 Social Science Research Assistants
+L315@P9: 19-4070 Forest and Conservation Technicians
+L316@P9: 19-4071 Forest and Conservation Technicians
+L317@P9: 19-4090 Miscellaneous Life, Physical, and Social Science Technicians
+L318@P9: 19-4092 Forensic Science Technicians
+L319@P9: 19-4099 Life, Physical, and Social Science Technicians, All Other
+L320@P9: 19-5000 Occupational Health and Safety Specialists and Technicians
+L321@P9: 19-5010 Occupational Health and Safety Specialists and Technicians
+L322@P9: 19-5011 Occupational Health and Safety Specialists
+L323@P9: 19-5012 Occupational Health and Safety Technicians
+L324@P9: 21-0000 Community and Social Service Occupations
+L325@P9: 21-1000 Counselors, Social Workers, and Other Community and Social Service Specialists
+L326@P9: 21-1010 Counselors
+L327@P9: 21-1011 Substance Abuse and Behavioral Disorder Counselors
+L328@P9: 21-1012 Educational, Guidance, and Career Counselors and Advisors
+L329@P9: 21-1013 Marriage and Family Therapists
+L330@P9: 21-1014 Mental Health Counselors
+L331@P9: 21-1015 Rehabilitation Counselors
+L332@P9: 21-1019 Counselors, All Other
+L333@P9: 21-1020 Social Workers
+L334@P9: 21-1021 Child, Family, and School Social Workers
+L335@P9: 21-1022 Healthcare Social Workers
+L336@P9: 21-1023 Mental Health and Substance Abuse Social Workers
+L337@P9: 21-1029 Social Workers, All Other
+L338@P9: 21-1090 Miscellaneous Community and Social Service Specialists
+L339@P9: 21-1091 Health Education Specialists
+L340@P9: 21-1092 Probation Officers and Correctional Treatment Specialists
+L341@P9: 21-1093 Social and Human Service Assistants
+L342@P9: 21-1094 Community Health Workers
+L343@P9: 21-1099 Community and Social Service Specialists, All Other
+L344@P9: 21-2000 Religious Workers
+L345@P9: 21-2010 Clergy
+L346@P9: 21-2011 Clergy
+L347@P9-10: 10Major Group Minor Group Broad Group Detailed Occupation
+L348@P10: 21-2020 Directors, Religious Activities and Education
+L349@P10: 21-2021 Directors, Religious Activities and Education
+L350@P10: 21-2090 Miscellaneous Religious Workers
+L351@P10: 21-2099 Religious Workers, All Other
+L352@P10: 23-0000 Legal Occupations
+L353@P10: 23-1000 Lawyers, Judges, and Related Workers
+L354@P10: 23-1010 Lawyers and Judicial Law Clerks
+L355@P10: 23-1011 Lawyers
+L356@P10: 23-1012 Judicial Law Clerks
+L357@P10: 23-1020 Judges, Magistrates, and Other Judicial Workers
+L358@P10: 23-1021 Administrative Law Judges, Adjudicators, and Hearing Officers
+L359@P10: 23-1022 Arbitrators, Mediators, and Conciliators
+L360@P10: 23-1023 Judges, Magistrate Judges, and Magistrates
+L361@P10: 23-2000 Legal Support Workers
+L362@P10: 23-2010 Paralegals and Legal Assistants
+L363@P10: 23-2011 Paralegals and Legal Assistants
+L364@P10: 23-2090 Miscellaneous Legal Support Workers
+L365@P10: 23-2093 Title Examiners, Abstractors, and Searchers
+L366@P10: 23-2099 Legal Support Workers, All Other
+L367@P10: 25-0000 Educational Instruction and Library Occupations
+L368@P10: 25-1000 Postsecondary Teachers
+L369@P10: 25-1010 Business Teachers, Postsecondary
+L370@P10: 25-1011 Business Teachers, Postsecondary
+L371@P10: 25-1020 Math and Computer Science Teachers, Postsecondary
+L372@P10: 25-1021 Computer Science Teachers, Postsecondary
+L373@P10: 25-1022 Mathematical Science Teachers, Postsecondary
+L374@P10: 25-1030 Engineering and Architecture Teachers, Postsecondary
+L375@P10: 25-1031 Architecture Teachers, Postsecondary
+L376@P10: 25-1032 Engineering Teachers, Postsecondary
+L377@P10: 25-1040 Life Sciences Teachers, Postsecondary
+L378@P10: 25-1041 Agricultural Sciences Teachers, Postsecondary
+L379@P10: 25-1042 Biological Science Teachers, Postsecondary
+L380@P10: 25-1043 Forestry and Conservation Science Teachers, Postsecondary
+L381@P10: 25-1050 Physical Sciences Teachers, Postsecondary
+L382@P10-11: 11Major Group Minor Group Broad Group Detailed Occupation
+L383@P11: 25-1051 Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+L384@P11: 25-1052 Chemistry Teachers, Postsecondary
+L385@P11: 25-1053 Environmental Science Teachers, Postsecondary
+L386@P11: 25-1054 Physics Teachers, Postsecondary
+L387@P11: 25-1060 Social Sciences Teachers, Postsecondary
+L388@P11: 25-1061 Anthropology and Archeology Teachers, Postsecondary
+L389@P11: 25-1062 Area, Ethnic, and Cultural Studies Teachers, Postsecondary
+L390@P11: 25-1063 Economics Teachers, Postsecondary
+L391@P11: 25-1064 Geography Teachers, Postsecondary
+L392@P11: 25-1065 Political Science Teachers, Postsecondary
+L393@P11: 25-1066 Psychology Teachers, Postsecondary
+L394@P11: 25-1067 Sociology Teachers, Postsecondary
+L395@P11: 25-1069 Social Sciences Teachers, Postsecondary, All Other
+L396@P11: 25-1070 Health Teachers, Postsecondary
+L397@P11: 25-1071 Health Specialties Teachers, Postsecondary
+L398@P11: 25-1072 Nursing Instructors and Teachers, Postsecondary
+L399@P11: 25-1080 Education and Library Science Teachers, Postsecondary
+L400@P11: 25-1081 Education Teachers, Postsecondary
+L401@P11: 25-1082 Library Science Teachers, Postsecondary
+L402@P11: 25-1110 Law, Criminal Justice, and Social Work Teachers, Postsecondary
+L403@P11: 25-1111 Criminal Justice and Law Enforcement Teachers, Postsecondary
+L404@P11: 25-1112 Law Teachers, Postsecondary
+L405@P11: 25-1113 Social Work Teachers, Postsecondary
+L406@P11: 25-1120 Arts, Communications, History, and Humanities Teachers, Postsecondary
+L407@P11: 25-1121 Art, Drama, and Music Teachers, Postsecondary
+L408@P11: 25-1122 Communications Teachers, Postsecondary
+L409@P11: 25-1123 English Language and Literature Teachers, Postsecondary
+L410@P11: 25-1124 Foreign Language and Literature Teachers, Postsecondary
+L411@P11: 25-1125 History Teachers, Postsecondary
+L412@P11: 25-1126 Philosophy and Religion Teachers, Postsecondary
+L413@P11: 25-1190 Miscellaneous Postsecondary Teachers
+L414@P11: 25-1192 Family and Consumer Sciences Teachers, Postsecondary
+L415@P11: 25-1193 Recreation and Fitness Studies Teachers, Postsecondary
+L416@P11: 25-1194 Career/Technical Education Teachers, Postsecondary
+L417@P11-12: 12Major Group Minor Group Broad Group Detailed Occupation
+L418@P12: 25-1199
+L419@P12: 25-2000
+L420@P12: 25-2010
+L421@P12: 25-2011
+L422@P12: 25-2012
+L423@P12: 25-2020
+L424@P12: 25-2021
+L425@P12: 25-2022
+L426@P12: 25-2023
+L427@P12: 25-2030
+L428@P12: 25-2031
+L429@P12: 25-2032
+L430@P12: 25-2050
+L431@P12: 25-2051
+L432@P12: 25-2055
+L433@P12: 25-2056
+L434@P12: 25-2057
+L435@P12: 25-2058
+L436@P12: 25-2059
+L437@P12: 25-3000
+L438@P12: 25-3010
+L439@P12: 25-3011
+L440@P12: Postsecondary Teachers, All Other
+L441@P12: Preschool, Elementary, Middle, Secondary, and Special Education Teachers
+L442@P12: Preschool and Kindergarten Teachers
+L443@P12: Preschool Teachers, Except Special Education
+L444@P12: Kindergarten Teachers, Except Special Education
+L445@P12: Elementary and Middle School Teachers
+L446@P12: Elementary School Teachers, Except Special Education
+L447@P12: Middle School Teachers, Except Special and Career/Technical Education
+L448@P12: Career/Technical Education Teachers, Middle School
+L449@P12: Secondary School Teachers
+L450@P12: Secondary School Teachers, Except Special and Career/Technical Education
+L451@P12: Career/Technical Education Teachers, Secondary School
+L452@P12: Special Education Teachers
+L453@P12: Special Education Teachers, Preschool
+L454@P12: Special Education Teachers, Kindergarten
+L455@P12: Special Education Teachers, Elementary School
+L456@P12: Special Education Teachers, Middle School
+L457@P12: Special Education Teachers, Secondary School
+L458@P12: Special Education Teachers, All Other
+L459@P12: Other Teachers and Instructors
+L460@P12: Adult Basic Education, Adult Secondary Education, and English as a Second Language
+L461@P12: Instructors
+L462@P12: Adult Basic Education, Adult Secondary Education, and English as a Second Language
+L463@P12: Instructors
+L464@P12: 25-3020 Self-Enrichment Teachers
+L465@P12: 25-3021 Self-Enrichment Teachers
+L466@P12: 25-3030 Substitute Teachers, Short-Term
+L467@P12: 25-3031 Substitute Teachers, Short-Term
+L468@P12: 25-3040 Tutors
+L469@P12: 25-3041 Tutors
+L470@P12: 25-3090 Miscellaneous Teachers and Instructors
+L471@P12: 25-3099 Teachers and Instructors, All Other
+L472@P12: 25-4000 Librarians, Curators, and Archivists
+L473@P12-13: 13Major Group Minor Group Broad Group Detailed Occupation
+L474@P13: 25-4010 Archivists, Curators, and Museum Technicians
+L475@P13: 25-4011 Archivists
+L476@P13: 25-4012 Curators
+L477@P13: 25-4013 Museum Technicians and Conservators
+L478@P13: 25-4020 Librarians and Media Collections Specialists
+L479@P13: 25-4022 Librarians and Media Collections Specialists
+L480@P13: 25-4030 Library Technicians
+
+
+2018 SOC Structure (https://www.bls.gov/soc/2018/soc_structure_2018.pdf)
+citeturn9view0 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 44; Source: open({"ref_id":"https://www.bls.gov/soc/2018/soc_structure_2018.pdf","lineno":450}); Total lines: 1556
+L307@P8: 19-4042 Environmental Science and Protection Technicians, Including Health
+L308@P8: 19-4043 Geological Technicians, Except Hydrologic Technicians
+L309@P8: 19-4044 Hydrologic Technicians
+L310@P8: 19-4050 Nuclear Technicians
+L311@P8: 19-4051 Nuclear Technicians
+L312@P8-9: 9Major Group Minor Group Broad Group Detailed Occupation
+L313@P9: 19-4060 Social Science Research Assistants
+L314@P9: 19-4061 Social Science Research Assistants
+L315@P9: 19-4070 Forest and Conservation Technicians
+L316@P9: 19-4071 Forest and Conservation Technicians
+L317@P9: 19-4090 Miscellaneous Life, Physical, and Social Science Technicians
+L318@P9: 19-4092 Forensic Science Technicians
+L319@P9: 19-4099 Life, Physical, and Social Science Technicians, All Other
+L320@P9: 19-5000 Occupational Health and Safety Specialists and Technicians
+L321@P9: 19-5010 Occupational Health and Safety Specialists and Technicians
+L322@P9: 19-5011 Occupational Health and Safety Specialists
+L323@P9: 19-5012 Occupational Health and Safety Technicians
+L324@P9: 21-0000 Community and Social Service Occupations
+L325@P9: 21-1000 Counselors, Social Workers, and Other Community and Social Service Specialists
+L326@P9: 21-1010 Counselors
+L327@P9: 21-1011 Substance Abuse and Behavioral Disorder Counselors
+L328@P9: 21-1012 Educational, Guidance, and Career Counselors and Advisors
+L329@P9: 21-1013 Marriage and Family Therapists
+L330@P9: 21-1014 Mental Health Counselors
+L331@P9: 21-1015 Rehabilitation Counselors
+L332@P9: 21-1019 Counselors, All Other
+L333@P9: 21-1020 Social Workers
+L334@P9: 21-1021 Child, Family, and School Social Workers
+L335@P9: 21-1022 Healthcare Social Workers
+L336@P9: 21-1023 Mental Health and Substance Abuse Social Workers
+L337@P9: 21-1029 Social Workers, All Other
+L338@P9: 21-1090 Miscellaneous Community and Social Service Specialists
+L339@P9: 21-1091 Health Education Specialists
+L340@P9: 21-1092 Probation Officers and Correctional Treatment Specialists
+L341@P9: 21-1093 Social and Human Service Assistants
+L342@P9: 21-1094 Community Health Workers
+L343@P9: 21-1099 Community and Social Service Specialists, All Other
+L344@P9: 21-2000 Religious Workers
+L345@P9: 21-2010 Clergy
+L346@P9: 21-2011 Clergy
+L347@P9-10: 10Major Group Minor Group Broad Group Detailed Occupation
+L348@P10: 21-2020 Directors, Religious Activities and Education
+L349@P10: 21-2021 Directors, Religious Activities and Education
+L350@P10: 21-2090 Miscellaneous Religious Workers
+L351@P10: 21-2099 Religious Workers, All Other
+L352@P10: 23-0000 Legal Occupations
+L353@P10: 23-1000 Lawyers, Judges, and Related Workers
+L354@P10: 23-1010 Lawyers and Judicial Law Clerks
+L355@P10: 23-1011 Lawyers
+L356@P10: 23-1012 Judicial Law Clerks
+L357@P10: 23-1020 Judges, Magistrates, and Other Judicial Workers
+L358@P10: 23-1021 Administrative Law Judges, Adjudicators, and Hearing Officers
+L359@P10: 23-1022 Arbitrators, Mediators, and Conciliators
+L360@P10: 23-1023 Judges, Magistrate Judges, and Magistrates
+L361@P10: 23-2000 Legal Support Workers
+L362@P10: 23-2010 Paralegals and Legal Assistants
+L363@P10: 23-2011 Paralegals and Legal Assistants
+L364@P10: 23-2090 Miscellaneous Legal Support Workers
+L365@P10: 23-2093 Title Examiners, Abstractors, and Searchers
+L366@P10: 23-2099 Legal Support Workers, All Other
+L367@P10: 25-0000 Educational Instruction and Library Occupations
+L368@P10: 25-1000 Postsecondary Teachers
+L369@P10: 25-1010 Business Teachers, Postsecondary
+L370@P10: 25-1011 Business Teachers, Postsecondary
+L371@P10: 25-1020 Math and Computer Science Teachers, Postsecondary
+L372@P10: 25-1021 Computer Science Teachers, Postsecondary
+L373@P10: 25-1022 Mathematical Science Teachers, Postsecondary
+L374@P10: 25-1030 Engineering and Architecture Teachers, Postsecondary
+L375@P10: 25-1031 Architecture Teachers, Postsecondary
+L376@P10: 25-1032 Engineering Teachers, Postsecondary
+L377@P10: 25-1040 Life Sciences Teachers, Postsecondary
+L378@P10: 25-1041 Agricultural Sciences Teachers, Postsecondary
+L379@P10: 25-1042 Biological Science Teachers, Postsecondary
+L380@P10: 25-1043 Forestry and Conservation Science Teachers, Postsecondary
+L381@P10: 25-1050 Physical Sciences Teachers, Postsecondary
+L382@P10-11: 11Major Group Minor Group Broad Group Detailed Occupation
+L383@P11: 25-1051 Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+L384@P11: 25-1052 Chemistry Teachers, Postsecondary
+L385@P11: 25-1053 Environmental Science Teachers, Postsecondary
+L386@P11: 25-1054 Physics Teachers, Postsecondary
+L387@P11: 25-1060 Social Sciences Teachers, Postsecondary
+L388@P11: 25-1061 Anthropology and Archeology Teachers, Postsecondary
+L389@P11: 25-1062 Area, Ethnic, and Cultural Studies Teachers, Postsecondary
+L390@P11: 25-1063 Economics Teachers, Postsecondary
+L391@P11: 25-1064 Geography Teachers, Postsecondary
+L392@P11: 25-1065 Political Science Teachers, Postsecondary
+L393@P11: 25-1066 Psychology Teachers, Postsecondary
+L394@P11: 25-1067 Sociology Teachers, Postsecondary
+L395@P11: 25-1069 Social Sciences Teachers, Postsecondary, All Other
+L396@P11: 25-1070 Health Teachers, Postsecondary
+L397@P11: 25-1071 Health Specialties Teachers, Postsecondary
+L398@P11: 25-1072 Nursing Instructors and Teachers, Postsecondary
+L399@P11: 25-1080 Education and Library Science Teachers, Postsecondary
+L400@P11: 25-1081 Education Teachers, Postsecondary
+L401@P11: 25-1082 Library Science Teachers, Postsecondary
+L402@P11: 25-1110 Law, Criminal Justice, and Social Work Teachers, Postsecondary
+L403@P11: 25-1111 Criminal Justice and Law Enforcement Teachers, Postsecondary
+L404@P11: 25-1112 Law Teachers, Postsecondary
+L405@P11: 25-1113 Social Work Teachers, Postsecondary
+L406@P11: 25-1120 Arts, Communications, History, and Humanities Teachers, Postsecondary
+L407@P11: 25-1121 Art, Drama, and Music Teachers, Postsecondary
+L408@P11: 25-1122 Communications Teachers, Postsecondary
+L409@P11: 25-1123 English Language and Literature Teachers, Postsecondary
+L410@P11: 25-1124 Foreign Language and Literature Teachers, Postsecondary
+L411@P11: 25-1125 History Teachers, Postsecondary
+L412@P11: 25-1126 Philosophy and Religion Teachers, Postsecondary
+L413@P11: 25-1190 Miscellaneous Postsecondary Teachers
+L414@P11: 25-1192 Family and Consumer Sciences Teachers, Postsecondary
+L415@P11: 25-1193 Recreation and Fitness Studies Teachers, Postsecondary
+L416@P11: 25-1194 Career/Technical Education Teachers, Postsecondary
+L417@P11-12: 12Major Group Minor Group Broad Group Detailed Occupation
+L418@P12: 25-1199
+L419@P12: 25-2000
+L420@P12: 25-2010
+L421@P12: 25-2011
+L422@P12: 25-2012
+L423@P12: 25-2020
+L424@P12: 25-2021
+L425@P12: 25-2022
+L426@P12: 25-2023
+L427@P12: 25-2030
+L428@P12: 25-2031
+L429@P12: 25-2032
+L430@P12: 25-2050
+L431@P12: 25-2051
+L432@P12: 25-2055
+L433@P12: 25-2056
+L434@P12: 25-2057
+L435@P12: 25-2058
+L436@P12: 25-2059
+L437@P12: 25-3000
+L438@P12: 25-3010
+L439@P12: 25-3011
+L440@P12: Postsecondary Teachers, All Other
+L441@P12: Preschool, Elementary, Middle, Secondary, and Special Education Teachers
+L442@P12: Preschool and Kindergarten Teachers
+L443@P12: Preschool Teachers, Except Special Education
+L444@P12: Kindergarten Teachers, Except Special Education
+L445@P12: Elementary and Middle School Teachers
+L446@P12: Elementary School Teachers, Except Special Education
+L447@P12: Middle School Teachers, Except Special and Career/Technical Education
+L448@P12: Career/Technical Education Teachers, Middle School
+L449@P12: Secondary School Teachers
+L450@P12: Secondary School Teachers, Except Special and Career/Technical Education
+L451@P12: Career/Technical Education Teachers, Secondary School
+L452@P12: Special Education Teachers
+L453@P12: Special Education Teachers, Preschool
+L454@P12: Special Education Teachers, Kindergarten
+L455@P12: Special Education Teachers, Elementary School
+L456@P12: Special Education Teachers, Middle School
+L457@P12: Special Education Teachers, Secondary School
+L458@P12: Special Education Teachers, All Other
+L459@P12: Other Teachers and Instructors
+L460@P12: Adult Basic Education, Adult Secondary Education, and English as a Second Language
+L461@P12: Instructors
+L462@P12: Adult Basic Education, Adult Secondary Education, and English as a Second Language
+L463@P12: Instructors
+L464@P12: 25-3020 Self-Enrichment Teachers
+L465@P12: 25-3021 Self-Enrichment Teachers
+L466@P12: 25-3030 Substitute Teachers, Short-Term
+L467@P12: 25-3031 Substitute Teachers, Short-Term
+L468@P12: 25-3040 Tutors
+L469@P12: 25-3041 Tutors
+L470@P12: 25-3090 Miscellaneous Teachers and Instructors
+L471@P12: 25-3099 Teachers and Instructors, All Other
+L472@P12: 25-4000 Librarians, Curators, and Archivists
+L473@P12-13: 13Major Group Minor Group Broad Group Detailed Occupation
+L474@P13: 25-4010 Archivists, Curators, and Museum Technicians
+L475@P13: 25-4011 Archivists
+L476@P13: 25-4012 Curators
+L477@P13: 25-4013 Museum Technicians and Conservators
+L478@P13: 25-4020 Librarians and Media Collections Specialists
+L479@P13: 25-4022 Librarians and Media Collections Specialists
+L480@P13: 25-4030 Library Technicians
+L481@P13: 25-4031 Library Technicians
+L482@P13: 25-9000 Other Educational Instruction and Library Occupations
+L483@P13: 25-9020 Farm and Home Management Educators
+L484@P13: 25-9021 Farm and Home Management Educators
+L485@P13: 25-9030 Instructional Coordinators
+L486@P13: 25-9031 Instructional Coordinators
+L487@P13: 25-9040 Teaching Assistants
+L488@P13: 25-9042 Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special
+L489@P13: Education
+L490@P13: 25-9043 Teaching Assistants, Special Education
+L491@P13: 25-9044 Teaching Assistants, Postsecondary
+L492@P13: 25-9049 Teaching Assistants, All Other
+L493@P13: 25-9090 Miscellaneous Educational Instruction and Library Workers
+L494@P13: 25-9099 Educational Instruction and Library Workers, All Other
+L495@P13: 27-0000 Arts, Design, Entertainment, Sports, and Media Occupations
+L496@P13: 27-1000 Art and Design Workers
+L497@P13: 27-1010 Artists and Related Workers
+L498@P13: 27-1011 Art Directors
+L499@P13: 27-1012 Craft Artists
+L500@P13: 27-1013 Fine Artists, Including Painters, Sculptors, and Illustrators
+L501@P13: 27-1014 Special Effects Artists and Animators
+L502@P13: 27-1019 Artists and Related Workers, All Other
+L503@P13: 27-1020 Designers
+L504@P13: 27-1021 Commercial and Industrial Designers
+L505@P13: 27-1022 Fashion Designers
+L506@P13: 27-1023 Floral Designers
+L507@P13: 27-1024 Graphic Designers
+L508@P13-14: 14Major Group Minor Group Broad Group Detailed Occupation
+L509@P14: 27-1025 Interior Designers
+L510@P14: 27-1026 Merchandise Displayers and Window Trimmers
+L511@P14: 27-1027 Set and Exhibit Designers
+L512@P14: 27-1029 Designers, All Other
+L513@P14: 27-2000 Entertainers and Performers, Sports and Related Workers
+L514@P14: 27-2010 Actors, Producers, and Directors
+L515@P14: 27-2011 Actors
+L516@P14: 27-2012 Producers and Directors
+L517@P14: 27-2020 Athletes, Coaches, Umpires, and Related Workers
+L518@P14: 27-2021 Athletes and Sports Competitors
+L519@P14: 27-2022 Coaches and Scouts
+L520@P14: 27-2023 Umpires, Referees, and Other Sports Officials
+L521@P14: 27-2030 Dancers and Choreographers
+L522@P14: 27-2031 Dancers
+L523@P14: 27-2032 Choreographers
+L524@P14: 27-2040 Musicians, Singers, and Related Workers
+L525@P14: 27-2041 Music Directors and Composers
+L526@P14: 27-2042 Musicians and Singers
+L527@P14: 27-2090 Miscellaneous Entertainers and Performers, Sports and Related Workers
+L528@P14: 27-2091 Disc Jockeys, Except Radio
+L529@P14: 27-2099 Entertainers and Performers, Sports and Related Workers, All Other
+L530@P14: 27-3000 Media and Communication Workers
+L531@P14: 27-3010 Broadcast Announcers and Radio Disc Jockeys
+L532@P14: 27-3011 Broadcast Announcers and Radio Disc Jockeys
+L533@P14: 27-3020 News Analysts, Reporters and Journalists
+L534@P14: 27-3023 News Analysts, Reporters, and Journalists
+L535@P14: 27-3030 Public Relations Specialists
+L536@P14: 27-3031 Public Relations Specialists
+L537@P14: 27-3040 Writers and Editors
+L538@P14: 27-3041 Editors
+L539@P14: 27-3042 Technical Writers
+L540@P14: 27-3043 Writers and Authors
+L541@P14: 27-3090 Miscellaneous Media and Communication Workers
+L542@P14: 27-3091 Interpreters and Translators
+L543@P14-15: 15Major Group Minor Group Broad Group Detailed Occupation
+L544@P15: 27-3092 Court Reporters and Simultaneous Captioners
+L545@P15: 27-3099 Media and Communication Workers, All Other
+L546@P15: 27-4000 Media and Communication Equipment Workers
+L547@P15: 27-4010 Broadcast, Sound, and Lighting Technicians
+L548@P15: 27-4011 Audio and Video Technicians
+L549@P15: 27-4012 Broadcast Technicians
+L550@P15: 27-4014 Sound Engineering Technicians
+L551@P15: 27-4015 Lighting Technicians
+L552@P15: 27-4020 Photographers
+L553@P15: 27-4021 Photographers
+L554@P15: 27-4030 Television, Video, and Film Camera Operators and Editors
+L555@P15: 27-4031 Camera Operators, Television, Video, and Film
+L556@P15: 27-4032 Film and Video Editors
+L557@P15: 27-4090 Miscellaneous Media and Communication Equipment Workers
+L558@P15: 27-4099 Media and Communication Equipment Workers, All Other
+L559@P15: 29-0000 Healthcare Practitioners and Technical Occupations
+L560@P15: 29-1000 Healthcare Diagnosing or Treating Practitioners
+L561@P15: 29-1010 Chiropractors
+L562@P15: 29-1011 Chiropractors
+L563@P15: 29-1020 Dentists
+L564@P15: 29-1021 Dentists, General
+L565@P15: 29-1022 Oral and Maxillofacial Surgeons
+L566@P15: 29-1023 Orthodontists
+L567@P15: 29-1024 Prosthodontists
+L568@P15: 29-1029 Dentists, All Other Specialists
+L569@P15: 29-1030 Dietitians and Nutritionists
+L570@P15: 29-1031 Dietitians and Nutritionists
+L571@P15: 29-1040 Optometrists
+L572@P15: 29-1041 Optometrists
+L573@P15: 29-1050 Pharmacists
+L574@P15: 29-1051 Pharmacists
+L575@P15: 29-1070 Physician Assistants
+L576@P15: 29-1071 Physician Assistants
+L577@P15: 29-1080 Podiatrists
+L578@P15-16: 16Major Group Minor Group Broad Group Detailed Occupation
+L579@P16: 29-1081 Podiatrists
+L580@P16: 29-1120 Therapists
+L581@P16: 29-1122 Occupational Therapists
+L582@P16: 29-1123 Physical Therapists
+L583@P16: 29-1124 Radiation Therapists
+L584@P16: 29-1125 Recreational Therapists
+L585@P16: 29-1126 Respiratory Therapists
+L586@P16: 29-1127 Speech-Language Pathologists
+L587@P16: 29-1128 Exercise Physiologists
+L588@P16: 29-1129 Therapists, All Other
+L589@P16: 29-1130 Veterinarians
+L590@P16: 29-1131 Veterinarians
+L591@P16: 29-1140 Registered Nurses
+L592@P16: 29-1141 Registered Nurses
+L593@P16: 29-1150 Nurse Anesthetists
+L594@P16: 29-1151 Nurse Anesthetists
+L595@P16: 29-1160 Nurse Midwives
+L596@P16: 29-1161 Nurse Midwives
+L597@P16: 29-1170 Nurse Practitioners
+L598@P16: 29-1171 Nurse Practitioners
+L599@P16: 29-1180 Audiologists
+L600@P16: 29-1181 Audiologists
+L601@P16: 29-1210 Physicians
+L602@P16: 29-1211 Anesthesiologists
+L603@P16: 29-1212 Cardiologists
+L604@P16: 29-1213 Dermatologists
+L605@P16: 29-1214 Emergency Medicine Physicians
+L606@P16: 29-1215 Family Medicine Physicians
+L607@P16: 29-1216 General Internal Medicine Physicians
+L608@P16: 29-1217 Neurologists
+L609@P16: 29-1218 Obstetricians and Gynecologists
+L610@P16: 29-1221 Pediatricians, General
+L611@P16: 29-1222 Physicians, Pathologists
+L612@P16: 29-1223 Psychiatrists
+L613@P16-17: 17Major Group Minor Group Broad Group Detailed Occupation
+L614@P17: 29-1224 Radiologists
+L615@P17: 29-1229 Physicians, All Other
+L616@P17: 29-1240 Surgeons
+L617@P17: 29-1241 Ophthalmologists, Except Pediatric
+L618@P17: 29-1242 Orthopedic Surgeons, Except Pediatric
+L619@P17: 29-1243 Pediatric Surgeons
+L620@P17: 29-1249 Surgeons, All Other
+L621@P17: 29-1290 Miscellaneous Healthcare Diagnosing or Treating Practitioners
+L622@P17: 29-1291 Acupuncturists
+L623@P17: 29-1292 Dental Hygienists
+L624@P17: 29-1299 Healthcare Diagnosing or Treating Practitioners, All Other
+L625@P17: 29-2000 Health Technologists and Technicians
+L626@P17: 29-2010 Clinical Laboratory Technologists and Technicians
+L627@P17: 29-2011 Medical and Clinical Laboratory Technologists
+L628@P17: 29-2012 Medical and Clinical Laboratory Technicians
+L629@P17: 29-2030 Diagnostic Related Technologists and Technicians
+L630@P17: 29-2031 Cardiovascular Technologists and Technicians
+L631@P17: 29-2032 Diagnostic Medical Sonographers
+L632@P17: 29-2033 Nuclear Medicine Technologists
+L633@P17: 29-2034 Radiologic Technologists and Technicians
+L634@P17: 29-2035 Magnetic Resonance Imaging Technologists
+L635@P17: 29-2036 Medical Dosimetrists
+L636@P17: 29-2040 Emergency Medical Technicians and Paramedics
+L637@P17: 29-2042 Emergency Medical Technicians
+L638@P17: 29-2043 Paramedics
+L639@P17: 29-2050 Health Practitioner Support Technologists and Technicians
+L640@P17: 29-2051 Dietetic Technicians
+L641@P17: 29-2052 Pharmacy Technicians
+L642@P17: 29-2053 Psychiatric Technicians
+L643@P17: 29-2055 Surgical Technologists
+L644@P17: 29-2056 Veterinary Technologists and Technicians
+L645@P17: 29-2057 Ophthalmic Medical Technicians
+L646@P17: 29-2060 Licensed Practical and Licensed Vocational Nurses
+L647@P17: 29-2061 Licensed Practical and Licensed Vocational Nurses
+L648@P17-18: 18Major Group Minor Group Broad Group Detailed Occupation
+L649@P18: 29-2070 Medical Records Specialists
+L650@P18: 29-2072 Medical Records Specialists
+L651@P18: 29-2080 Opticians, Dispensing
+L652@P18: 29-2081 Opticians, Dispensing
+L653@P18: 29-2090 Miscellaneous Health Technologists and Technicians
+L654@P18: 29-2091 Orthotists and Prosthetists
+L655@P18: 29-2092 Hearing Aid Specialists
+L656@P18: 29-2099 Health Technologists and Technicians, All Other
+L657@P18: 29-9000 Other Healthcare Practitioners and Technical Occupations
+L658@P18: 29-9020 Health Information Technologists and Medical Registrars
+L659@P18: 29-9021 Health Information Technologists and Medical Registrars
+L660@P18: 29-9090 Miscellaneous Health Practitioners and Technical Workers
+L661@P18: 29-9091 Athletic Trainers
+L662@P18: 29-9092 Genetic Counselors
+L663@P18: 29-9093 Surgical Assistants
+L664@P18: 29-9099 Healthcare Practitioners and Technical Workers, All Other
+L665@P18: 31-0000 Healthcare Support Occupations
+L666@P18: 31-1100 Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric
+L667@P18: 31-1120 Home Health and Personal Care Aides
+L668@P18: 31-1121 Home Health Aides
+L669@P18: 31-1122 Personal Care Aides
+L670@P18: 31-1130 Nursing Assistants, Orderlies, and Psychiatric Aides
+L671@P18: 31-1131 Nursing Assistants
+L672@P18: 31-1132 Orderlies
+L673@P18: 31-1133 Psychiatric Aides
+L674@P18: 31-2000 Occupational Therapy and Physical Therapist Assistants and Aides
+L675@P18: 31-2010 Occupational Therapy Assistants and Aides
+L676@P18: 31-2011 Occupational Therapy Assistants
+L677@P18: 31-2012 Occupational Therapy Aides
+L678@P18: 31-2020 Physical Therapist Assistants and Aides
+L679@P18: 31-2021 Physical Therapist Assistants
+L680@P18: 31-2022 Physical Therapist Aides
+L681@P18: 31-9000 Other Healthcare Support Occupations
+L682@P18: 31-9010 Massage Therapists
+L683@P18-19: 19Major Group Minor Group Broad Group Detailed Occupation
+L684@P19: 31-9011 Massage Therapists
+L685@P19: 31-9090 Miscellaneous Healthcare Support Occupations
+L686@P19: 31-9091 Dental Assistants
+L687@P19: 31-9092 Medical Assistants
+L688@P19: 31-9093 Medical Equipment Preparers
+L689@P19: 31-9094 Medical Transcriptionists
+L690@P19: 31-9095 Pharmacy Aides
+L691@P19: 31-9096 Veterinary Assistants and Laboratory Animal Caretakers
+L692@P19: 31-9097 Phlebotomists
+L693@P19: 31-9099 Healthcare Support Workers, All Other
+L694@P19: 33-0000 Protective Service Occupations
+L695@P19: 33-1000 Supervisors of Protective Service Workers
+L696@P19: 33-1010 First-Line Supervisors of Law Enforcement Workers
+L697@P19: 33-1011 First-Line Supervisors of Correctional Officers
+L698@P19: 33-1012 First-Line Supervisors of Police and Detectives
+L699@P19: 33-1020 First-Line Supervisors of Firefighting and Prevention Workers
+L700@P19: 33-1021 First-Line Supervisors of Firefighting and Prevention Workers
+L701@P19: 33-1090 Miscellaneous First-Line Supervisors, Protective Service Workers
+L702@P19: 33-1091 First-Line Supervisors of Security Workers
+L703@P19: 33-1099 First-Line Supervisors of Protective Service Workers, All Other
+L704@P19: 33-2000 Firefighting and Prevention Workers
+L705@P19: 33-2010 Firefighters
+L706@P19: 33-2011 Firefighters
+L707@P19: 33-2020 Fire Inspectors
+L708@P19: 33-2021 Fire Inspectors and Investigators
+L709@P19: 33-2022 Forest Fire Inspectors and Prevention Specialists
+L710@P19: 33-3000 Law Enforcement Workers
+L711@P19: 33-3010 Bailiffs, Correctional Officers, and Jailers
+L712@P19: 33-3011 Bailiffs
+L713@P19: 33-3012 Correctional Officers and Jailers
+L714@P19: 33-3020 Detectives and Criminal Investigators
+L715@P19: 33-3021 Detectives and Criminal Investigators
+L716@P19: 33-3030 Fish and Game Wardens
+L717@P19: 33-3031 Fish and Game Wardens
+L718@P19-20: 20Major Group Minor Group Broad Group Detailed Occupation
+L719@P20: 33-3040 Parking Enforcement Workers
+L720@P20: 33-3041 Parking Enforcement Workers
+L721@P20: 33-3050 Police Officers
+L722@P20: 33-3051 Police and Sheriff’s Patrol Officers
+L723@P20: 33-3052 Transit and Railroad Police
+L724@P20: 33-9000 Other Protective Service Workers
+L725@P20: 33-9010 Animal Control Workers
+L726@P20: 33-9011 Animal Control Workers
+L727@P20: 33-9020 Private Detectives and Investigators
+L728@P20: 33-9021 Private Detectives and Investigators
+L729@P20: 33-9030 Security Guards and Gambling Surveillance Officers
+L730@P20: 33-9031 Gambling Surveillance Officers and Gambling Investigators
+L731@P20: 33-9032 Security Guards
+L732@P20: 33-9090 Miscellaneous Protective Service Workers
+L733@P20: 33-9091 Crossing Guards and Flaggers
+L734@P20: 33-9092 Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+L735@P20: 33-9093 Transportation Security Screeners
+L736@P20: 33-9094 School Bus Monitors
+L737@P20: 33-9099 Protective Service Workers, All Other
+L738@P20: 35-0000 Food Preparation and Serving Related Occupations
+L739@P20: 35-1000 Supervisors of Food Preparation and Serving Workers
+L740@P20: 35-1010 Supervisors of Food Preparation and Serving Workers
+L741@P20: 35-1011 Chefs and Head Cooks
+L742@P20: 35-1012 First-Line Supervisors of Food Preparation and Serving Workers
+L743@P20: 35-2000 Cooks and Food Preparation Workers
+L744@P20: 35-2010 Cooks
+L745@P20: 35-2011 Cooks, Fast Food
+L746@P20: 35-2012 Cooks, Institution and Cafeteria
+L747@P20: 35-2013 Cooks, Private Household
+L748@P20: 35-2014 Cooks, Restaurant
+L749@P20: 35-2015 Cooks, Short Order
+L750@P20: 35-2019 Cooks, All Other
+L751@P20: 35-2020 Food Preparation Workers
+L752@P20: 35-2021 Food Preparation Workers
+L753@P20-21: 21Major Group Minor Group Broad Group Detailed Occupation
+L754@P21: 35-3000 Food and Beverage Serving Workers
+L755@P21: 35-3010 Bartenders
+L756@P21: 35-3011 Bartenders
+L757@P21: 35-3020 Fast Food and Counter Workers
+L758@P21: 35-3023 Fast Food and Counter Workers
+L759@P21: 35-3030 Waiters and Waitresses
+L760@P21: 35-3031 Waiters and Waitresses
+L761@P21: 35-3040 Food Servers, Nonrestaurant
+L762@P21: 35-3041 Food Servers, Nonrestaurant
+L763@P21: 35-9000 Other Food Preparation and Serving Related Workers
+L764@P21: 35-9010 Dining Room and Cafeteria Attendants and Bartender Helpers
+L765@P21: 35-9011 Dining Room and Cafeteria Attendants and Bartender Helpers
+L766@P21: 35-9020 Dishwashers
+L767@P21: 35-9021 Dishwashers
+L768@P21: 35-9030 Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+L769@P21: 35-9031 Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+L770@P21: 35-9090 Miscellaneous Food Preparation and Serving Related Workers
+L771@P21: 35-9099 Food Preparation and Serving Related Workers, All Other
+L772@P21: 37-0000 Building and Grounds Cleaning and Maintenance Occupations
+L773@P21: 37-1000 Supervisors of Building and Grounds Cleaning and Maintenance Workers
+L774@P21: 37-1010 First-Line Supervisors of Building and Grounds Cleaning and Maintenance Workers
+L775@P21: 37-1011 First-Line Supervisors of Housekeeping and Janitorial Workers
+
+
+2018 SOC Structure (https://www.bls.gov/soc/2018/soc_structure_2018.pdf)
+citeturn8view0 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 44; Source: open({"ref_id":"https://www.bls.gov/soc/2018/soc_structure_2018.pdf","lineno":900}); Total lines: 1556
+L761@P21: 35-3040 Food Servers, Nonrestaurant
+L762@P21: 35-3041 Food Servers, Nonrestaurant
+L763@P21: 35-9000 Other Food Preparation and Serving Related Workers
+L764@P21: 35-9010 Dining Room and Cafeteria Attendants and Bartender Helpers
+L765@P21: 35-9011 Dining Room and Cafeteria Attendants and Bartender Helpers
+L766@P21: 35-9020 Dishwashers
+L767@P21: 35-9021 Dishwashers
+L768@P21: 35-9030 Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+L769@P21: 35-9031 Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+L770@P21: 35-9090 Miscellaneous Food Preparation and Serving Related Workers
+L771@P21: 35-9099 Food Preparation and Serving Related Workers, All Other
+L772@P21: 37-0000 Building and Grounds Cleaning and Maintenance Occupations
+L773@P21: 37-1000 Supervisors of Building and Grounds Cleaning and Maintenance Workers
+L774@P21: 37-1010 First-Line Supervisors of Building and Grounds Cleaning and Maintenance Workers
+L775@P21: 37-1011 First-Line Supervisors of Housekeeping and Janitorial Workers
+L776@P21: 37-1012 First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+L777@P21: 37-2000 Building Cleaning and Pest Control Workers
+L778@P21: 37-2010 Building Cleaning Workers
+L779@P21: 37-2011 Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+L780@P21: 37-2012 Maids and Housekeeping Cleaners
+L781@P21: 37-2019 Building Cleaning Workers, All Other
+L782@P21: 37-2020 Pest Control Workers
+L783@P21: 37-2021 Pest Control Workers
+L784@P21: 37-3000 Grounds Maintenance Workers
+L785@P21: 37-3010 Grounds Maintenance Workers
+L786@P21: 37-3011 Landscaping and Groundskeeping Workers
+L787@P21: 37-3012 Pesticide Handlers, Sprayers, and Applicators, Vegetation
+L788@P21-22: 22Major Group Minor Group Broad Group Detailed Occupation
+L789@P22: 37-3013 Tree Trimmers and Pruners
+L790@P22: 37-3019 Grounds Maintenance Workers, All Other
+L791@P22: 39-0000 Personal Care and Service Occupations
+L792@P22: 39-1000 Supervisors of Personal Care and Service Workers
+L793@P22: 39-1010 First-Line Supervisors of Entertainment and Recreation Workers
+L794@P22: 39-1013 First-Line Supervisors of Gambling Services Workers
+L795@P22: 39-1014 First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services
+L796@P22: 39-1020 First-Line Supervisors of Personal Service Workers
+L797@P22: 39-1022 First-Line Supervisors of Personal Service Workers
+L798@P22: 39-2000 Animal Care and Service Workers
+L799@P22: 39-2010 Animal Trainers
+L800@P22: 39-2011 Animal Trainers
+L801@P22: 39-2020 Animal Caretakers
+L802@P22: 39-2021 Animal Caretakers
+L803@P22: 39-3000 Entertainment Attendants and Related Workers
+L804@P22: 39-3010 Gambling Services Workers
+L805@P22: 39-3011 Gambling Dealers
+L806@P22: 39-3012 Gambling and Sports Book Writers and Runners
+L807@P22: 39-3019 Gambling Service Workers, All Other
+L808@P22: 39-3020 Motion Picture Projectionists
+L809@P22: 39-3021 Motion Picture Projectionists
+L810@P22: 39-3030 Ushers, Lobby Attendants, and Ticket Takers
+L811@P22: 39-3031 Ushers, Lobby Attendants, and Ticket Takers
+L812@P22: 39-3090 Miscellaneous Entertainment Attendants and Related Workers
+L813@P22: 39-3091 Amusement and Recreation Attendants
+L814@P22: 39-3092 Costume Attendants
+L815@P22: 39-3093 Locker Room, Coatroom, and Dressing Room Attendants
+L816@P22: 39-3099 Entertainment Attendants and Related Workers, All Other
+L817@P22: 39-4000 Funeral Service Workers
+L818@P22: 39-4010 Embalmers and Crematory Operators
+L819@P22: 39-4011 Embalmers
+L820@P22: 39-4012 Crematory Operators
+L821@P22: 39-4020 Funeral Attendants
+L822@P22: 39-4021 Funeral Attendants
+L823@P22-23: 23Major Group Minor Group Broad Group Detailed Occupation
+L824@P23: 39-4030 Morticians, Undertakers, and Funeral Arrangers
+L825@P23: 39-4031 Morticians, Undertakers, and Funeral Arrangers
+L826@P23: 39-5000 Personal Appearance Workers
+L827@P23: 39-5010 Barbers, Hairdressers, Hairstylists and Cosmetologists
+L828@P23: 39-5011 Barbers
+L829@P23: 39-5012 Hairdressers, Hairstylists, and Cosmetologists
+L830@P23: 39-5090 Miscellaneous Personal Appearance Workers
+L831@P23: 39-5091 Makeup Artists, Theatrical and Performance
+L832@P23: 39-5092 Manicurists and Pedicurists
+L833@P23: 39-5093 Shampooers
+L834@P23: 39-5094 Skincare Specialists
+L835@P23: 39-6000 Baggage Porters, Bellhops, and Concierges
+L836@P23: 39-6010 Baggage Porters, Bellhops, and Concierges
+L837@P23: 39-6011 Baggage Porters and Bellhops
+L838@P23: 39-6012 Concierges
+L839@P23: 39-7000 Tour and Travel Guides
+L840@P23: 39-7010 Tour and Travel Guides
+L841@P23: 39-7011 Tour Guides and Escorts
+L842@P23: 39-7012 Travel Guides
+L843@P23: 39-9000 Other Personal Care and Service Workers
+L844@P23: 39-9010 Childcare Workers
+L845@P23: 39-9011 Childcare Workers
+L846@P23: 39-9030 Recreation and Fitness Workers
+L847@P23: 39-9031 Exercise Trainers and Group Fitness Instructors
+L848@P23: 39-9032 Recreation Workers
+L849@P23: 39-9040 Residential Advisors
+L850@P23: 39-9041 Residential Advisors
+L851@P23: 39-9090 Miscellaneous Personal Care and Service Workers
+L852@P23: 39-9099 Personal Care and Service Workers, All Other
+L853@P23: 41-0000 Sales and Related Occupations
+L854@P23: 41-1000 Supervisors of Sales Workers
+L855@P23: 41-1010 First-Line Supervisors of Sales Workers
+L856@P23: 41-1011 First-Line Supervisors of Retail Sales Workers
+L857@P23: 41-1012 First-Line Supervisors of Non-Retail Sales Workers
+L858@P23-24: 24Major Group Minor Group Broad Group Detailed Occupation
+L859@P24: 41-2000 Retail Sales Workers
+L860@P24: 41-2010 Cashiers
+L861@P24: 41-2011 Cashiers
+L862@P24: 41-2012 Gambling Change Persons and Booth Cashiers
+L863@P24: 41-2020 Counter and Rental Clerks and Parts Salespersons
+L864@P24: 41-2021 Counter and Rental Clerks
+L865@P24: 41-2022 Parts Salespersons
+L866@P24: 41-2030 Retail Salespersons
+L867@P24: 41-2031 Retail Salespersons
+L868@P24: 41-3000 Sales Representatives, Services
+L869@P24: 41-3010 Advertising Sales Agents
+L870@P24: 41-3011 Advertising Sales Agents
+L871@P24: 41-3020 Insurance Sales Agents
+L872@P24: 41-3021 Insurance Sales Agents
+L873@P24: 41-3030 Securities, Commodities, and Financial Services Sales Agents
+L874@P24: 41-3031 Securities, Commodities, and Financial Services Sales Agents
+L875@P24: 41-3040 Travel Agents
+L876@P24: 41-3041 Travel Agents
+L877@P24: 41-3090 Miscellaneous Sales Representatives, Services
+L878@P24: 41-3091 Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel
+L879@P24: 41-4000 Sales Representatives, Wholesale and Manufacturing
+L880@P24: 41-4010 Sales Representatives, Wholesale and Manufacturing
+L881@P24: 41-4011 Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+L882@P24: 41-4012 Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+L883@P24: 41-9000 Other Sales and Related Workers
+L884@P24: 41-9010 Models, Demonstrators, and Product Promoters
+L885@P24: 41-9011 Demonstrators and Product Promoters
+L886@P24: 41-9012 Models
+L887@P24: 41-9020 Real Estate Brokers and Sales Agents
+L888@P24: 41-9021 Real Estate Brokers
+L889@P24: 41-9022 Real Estate Sales Agents
+L890@P24: 41-9030 Sales Engineers
+L891@P24-25: 25Major Group Minor Group Broad Group Detailed Occupation
+L892@P25: 41-9031 Sales Engineers
+L893@P25: 41-9040 Telemarketers
+L894@P25: 41-9041 Telemarketers
+L895@P25: 41-9090 Miscellaneous Sales and Related Workers
+L896@P25: 41-9091 Door-to-Door Sales Workers, News and Street Vendors, and Related Workers
+L897@P25: 41-9099 Sales and Related Workers, All Other
+L898@P25: 43-0000 Office and Administrative Support Occupations
+L899@P25: 43-1000 Supervisors of Office and Administrative Support Workers
+L900@P25: 43-1010 First-Line Supervisors of Office and Administrative Support Workers
+L901@P25: 43-1011 First-Line Supervisors of Office and Administrative Support Workers
+L902@P25: 43-2000 Communications Equipment Operators
+L903@P25: 43-2010 Switchboard Operators, Including Answering Service
+L904@P25: 43-2011 Switchboard Operators, Including Answering Service
+L905@P25: 43-2020 Telephone Operators
+L906@P25: 43-2021 Telephone Operators
+L907@P25: 43-2090 Miscellaneous Communications Equipment Operators
+L908@P25: 43-2099 Communications Equipment Operators, All Other
+L909@P25: 43-3000 Financial Clerks
+L910@P25: 43-3010 Bill and Account Collectors
+L911@P25: 43-3011 Bill and Account Collectors
+L912@P25: 43-3020 Billing and Posting Clerks
+L913@P25: 43-3021 Billing and Posting Clerks
+L914@P25: 43-3030 Bookkeeping, Accounting, and Auditing Clerks
+L915@P25: 43-3031 Bookkeeping, Accounting, and Auditing Clerks
+L916@P25: 43-3040 Gambling Cage Workers
+L917@P25: 43-3041 Gambling Cage Workers
+L918@P25: 43-3050 Payroll and Timekeeping Clerks
+L919@P25: 43-3051 Payroll and Timekeeping Clerks
+L920@P25: 43-3060 Procurement Clerks
+L921@P25: 43-3061 Procurement Clerks
+L922@P25: 43-3070 Tellers
+L923@P25: 43-3071 Tellers
+L924@P25: 43-3090 Miscellaneous Financial Clerks
+L925@P25: 43-3099 Financial Clerks, All Other
+L926@P25-26: 26Major Group Minor Group Broad Group Detailed Occupation
+L927@P26: 43-4000 Information and Record Clerks
+L928@P26: 43-4010 Brokerage Clerks
+L929@P26: 43-4011 Brokerage Clerks
+L930@P26: 43-4020 Correspondence Clerks
+L931@P26: 43-4021 Correspondence Clerks
+L932@P26: 43-4030 Court, Municipal, and License Clerks
+L933@P26: 43-4031 Court, Municipal, and License Clerks
+L934@P26: 43-4040 Credit Authorizers, Checkers, and Clerks
+L935@P26: 43-4041 Credit Authorizers, Checkers, and Clerks
+L936@P26: 43-4050 Customer Service Representatives
+L937@P26: 43-4051 Customer Service Representatives
+L938@P26: 43-4060 Eligibility Interviewers, Government Programs
+L939@P26: 43-4061 Eligibility Interviewers, Government Programs
+L940@P26: 43-4070 File Clerks
+L941@P26: 43-4071 File Clerks
+L942@P26: 43-4080 Hotel, Motel, and Resort Desk Clerks
+L943@P26: 43-4081 Hotel, Motel, and Resort Desk Clerks
+L944@P26: 43-4110 Interviewers, Except Eligibility and Loan
+L945@P26: 43-4111 Interviewers, Except Eligibility and Loan
+L946@P26: 43-4120 Library Assistants, Clerical
+L947@P26: 43-4121 Library Assistants, Clerical
+L948@P26: 43-4130 Loan Interviewers and Clerks
+L949@P26: 43-4131 Loan Interviewers and Clerks
+L950@P26: 43-4140 New Accounts Clerks
+L951@P26: 43-4141 New Accounts Clerks
+L952@P26: 43-4150 Order Clerks
+L953@P26: 43-4151 Order Clerks
+L954@P26: 43-4160 Human Resources Assistants, Except Payroll and Timekeeping
+L955@P26: 43-4161 Human Resources Assistants, Except Payroll and Timekeeping
+L956@P26: 43-4170 Receptionists and Information Clerks
+L957@P26: 43-4171 Receptionists and Information Clerks
+L958@P26: 43-4180 Reservation and Transportation Ticket Agents and Travel Clerks
+L959@P26: 43-4181 Reservation and Transportation Ticket Agents and Travel Clerks
+L960@P26: 43-4190 Miscellaneous Information and Record Clerks
+L961@P26-27: 27Major Group Minor Group Broad Group Detailed Occupation
+L962@P27: 43-4199
+L963@P27: 43-5000
+L964@P27: 43-5010
+L965@P27: 43-5011
+L966@P27: 43-5020
+L967@P27: 43-5021
+L968@P27: 43-5030
+L969@P27: 43-5031
+L970@P27: 43-5032
+L971@P27: 43-5040
+L972@P27: 43-5041
+L973@P27: 43-5050
+L974@P27: 43-5051
+L975@P27: 43-5052
+L976@P27: 43-5053
+L977@P27: 43-5060
+L978@P27: 43-5061
+L979@P27: 43-5070
+L980@P27: 43-5071
+L981@P27: 43-5110
+L982@P27: 43-5111
+L983@P27: 43-6000
+L984@P27: 43-6010
+L985@P27: 43-6011
+L986@P27: 43-6012
+L987@P27: 43-6013
+L988@P27: 43-6014
+L989@P27: 43-9000
+L990@P27: 43-9020
+L991@P27: 43-9021
+L992@P27: 43-9022
+L993@P27: 43-9030
+L994@P27: 43-9031
+L995@P27: 43-9040
+L996@P27: Information and Record Clerks, All Other
+L997@P27: Material Recording, Scheduling, Dispatching, and Distributing Workers
+L998@P27: Cargo and Freight Agents
+L999@P27: Cargo and Freight Agents
+L1000@P27: Couriers and Messengers
+L1001@P27: Couriers and Messengers
+L1002@P27: Dispatchers
+L1003@P27: Public Safety Telecommunicators
+L1004@P27: Dispatchers, Except Police, Fire, and Ambulance
+L1005@P27: Meter Readers, Utilities
+L1006@P27: Meter Readers, Utilities
+L1007@P27: Postal Service Workers
+L1008@P27: Postal Service Clerks
+L1009@P27: Postal Service Mail Carriers
+L1010@P27: Postal Service Mail Sorters, Processors, and Processing Machine Operators
+L1011@P27: Production, Planning, and Expediting Clerks
+L1012@P27: Production, Planning, and Expediting Clerks
+L1013@P27: Shipping, Receiving, and Inventory Clerks
+L1014@P27: Shipping, Receiving, and Inventory Clerks
+L1015@P27: Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+L1016@P27: Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+L1017@P27: Secretaries and Administrative Assistants
+L1018@P27: Secretaries and Administrative Assistants
+L1019@P27: Executive Secretaries and Executive Administrative Assistants
+L1020@P27: Legal Secretaries and Administrative Assistants
+L1021@P27: Medical Secretaries and Administrative Assistants
+L1022@P27: Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+L1023@P27: Other Office and Administrative Support Workers
+L1024@P27: Data Entry and Information Processing Workers
+L1025@P27: Data Entry Keyers
+L1026@P27: Word Processors and Typists
+L1027@P27: Desktop Publishers
+L1028@P27: Desktop Publishers
+L1029@P27: Insurance Claims and Policy Processing Clerks
+L1030@P27-28: 28Major Group Minor Group Broad Group Detailed Occupation
+L1031@P28: 43-9041 Insurance Claims and Policy Processing Clerks
+L1032@P28: 43-9050 Mail Clerks and Mail Machine Operators, Except Postal Service
+L1033@P28: 43-9051 Mail Clerks and Mail Machine Operators, Except Postal Service
+L1034@P28: 43-9060 Office Clerks, General
+L1035@P28: 43-9061 Office Clerks, General
+L1036@P28: 43-9070 Office Machine Operators, Except Computer
+L1037@P28: 43-9071 Office Machine Operators, Except Computer
+L1038@P28: 43-9080 Proofreaders and Copy Markers
+L1039@P28: 43-9081 Proofreaders and Copy Markers
+L1040@P28: 43-9110 Statistical Assistants
+L1041@P28: 43-9111 Statistical Assistants
+L1042@P28: 43-9190 Miscellaneous Office and Administrative Support Workers
+L1043@P28: 43-9199 Office and Administrative Support Workers, All Other
+L1044@P28: 45-0000 Farming, Fishing, and Forestry Occupations
+L1045@P28: 45-1000 Supervisors of Farming, Fishing, and Forestry Workers
+L1046@P28: 45-1010 First-Line Supervisors of Farming, Fishing, and Forestry Workers
+L1047@P28: 45-1011 First-Line Supervisors of Farming, Fishing, and Forestry Workers
+L1048@P28: 45-2000 Agricultural Workers
+L1049@P28: 45-2010 Agricultural Inspectors
+L1050@P28: 45-2011 Agricultural Inspectors
+L1051@P28: 45-2020 Animal Breeders
+L1052@P28: 45-2021 Animal Breeders
+L1053@P28: 45-2040 Graders and Sorters, Agricultural Products
+L1054@P28: 45-2041 Graders and Sorters, Agricultural Products
+L1055@P28: 45-2090 Miscellaneous Agricultural Workers
+L1056@P28: 45-2091 Agricultural Equipment Operators
+L1057@P28: 45-2092 Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+L1058@P28: 45-2093 Farmworkers, Farm, Ranch, and Aquacultural Animals
+L1059@P28: 45-2099 Agricultural Workers, All Other
+L1060@P28: 45-3000 Fishing and Hunting Workers
+L1061@P28: 45-3030 Fishing and Hunting Workers
+L1062@P28: 45-3031 Fishing and Hunting Workers
+L1063@P28: 45-4000 Forest, Conservation, and Logging Workers
+L1064@P28: 45-4010 Forest and Conservation Workers
+L1065@P28-29: 29Major Group Minor Group Broad Group Detailed Occupation
+L1066@P29: 45-4011 Forest and Conservation Workers
+L1067@P29: 45-4020 Logging Workers
+L1068@P29: 45-4021 Fallers
+L1069@P29: 45-4022 Logging Equipment Operators
+L1070@P29: 45-4023 Log Graders and Scalers
+L1071@P29: 45-4029 Logging Workers, All Other
+L1072@P29: 47-0000 Construction and Extraction Occupations
+L1073@P29: 47-1000 Supervisors of Construction and Extraction Workers
+L1074@P29: 47-1010 First-Line Supervisors of Construction Trades and Extraction Workers
+L1075@P29: 47-1011 First-Line Supervisors of Construction Trades and Extraction Workers
+L1076@P29: 47-2000 Construction Trades Workers
+L1077@P29: 47-2010 Boilermakers
+L1078@P29: 47-2011 Boilermakers
+L1079@P29: 47-2020 Brickmasons, Blockmasons, and Stonemasons
+L1080@P29: 47-2021 Brickmasons and Blockmasons
+L1081@P29: 47-2022 Stonemasons
+L1082@P29: 47-2030 Carpenters
+L1083@P29: 47-2031 Carpenters
+L1084@P29: 47-2040 Carpet, Floor, and Tile Installers and Finishers
+L1085@P29: 47-2041 Carpet Installers
+L1086@P29: 47-2042 Floor Layers, Except Carpet, Wood, and Hard Tiles
+L1087@P29: 47-2043 Floor Sanders and Finishers
+L1088@P29: 47-2044 Tile and Stone Setters
+L1089@P29: 47-2050 Cement Masons, Concrete Finishers, and Terrazzo Workers
+L1090@P29: 47-2051 Cement Masons and Concrete Finishers
+L1091@P29: 47-2053 Terrazzo Workers and Finishers
+L1092@P29: 47-2060 Construction Laborers
+L1093@P29: 47-2061 Construction Laborers
+L1094@P29: 47-2070 Construction Equipment Operators
+L1095@P29: 47-2071 Paving, Surfacing, and Tamping Equipment Operators
+L1096@P29: 47-2072 Pile Driver Operators
+L1097@P29: 47-2073 Operating Engineers and Other Construction Equipment Operators
+L1098@P29: 47-2080 Drywall Installers, Ceiling Tile Installers, and Tapers
+L1099@P29: 47-2081 Drywall and Ceiling Tile Installers
+L1100@P29-30: 30Major Group Minor Group Broad Group Detailed Occupation
+L1101@P30: 47-2082 Tapers
+L1102@P30: 47-2110 Electricians
+L1103@P30: 47-2111 Electricians
+L1104@P30: 47-2120 Glaziers
+L1105@P30: 47-2121 Glaziers
+L1106@P30: 47-2130 Insulation Workers
+L1107@P30: 47-2131 Insulation Workers, Floor, Ceiling, and Wall
+L1108@P30: 47-2132 Insulation Workers, Mechanical
+L1109@P30: 47-2140 Painters and Paperhangers
+L1110@P30: 47-2141 Painters, Construction and Maintenance
+L1111@P30: 47-2142 Paperhangers
+L1112@P30: 47-2150 Pipelayers, Plumbers, Pipefitters, and Steamfitters
+L1113@P30: 47-2151 Pipelayers
+L1114@P30: 47-2152 Plumbers, Pipefitters, and Steamfitters
+L1115@P30: 47-2160 Plasterers and Stucco Masons
+L1116@P30: 47-2161 Plasterers and Stucco Masons
+L1117@P30: 47-2170 Reinforcing Iron and Rebar Workers
+L1118@P30: 47-2171 Reinforcing Iron and Rebar Workers
+L1119@P30: 47-2180 Roofers
+L1120@P30: 47-2181 Roofers
+L1121@P30: 47-2210 Sheet Metal Workers
+L1122@P30: 47-2211 Sheet Metal Workers
+L1123@P30: 47-2220 Structural Iron and Steel Workers
+L1124@P30: 47-2221 Structural Iron and Steel Workers
+L1125@P30: 47-2230 Solar Photovoltaic Installers
+L1126@P30: 47-2231 Solar Photovoltaic Installers
+L1127@P30: 47-3000 Helpers, Construction Trades
+L1128@P30: 47-3010 Helpers, Construction Trades
+L1129@P30: 47-3011 Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+L1130@P30: 47-3012 Helpers--Carpenters
+L1131@P30: 47-3013 Helpers--Electricians
+L1132@P30: 47-3014 Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+L1133@P30: 47-3015 Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+L1134@P30: 47-3016 Helpers--Roofers
+L1135@P30-31: 31Major Group Minor Group Broad Group Detailed Occupation
+L1136@P31: 47-3019 Helpers, Construction Trades, All Other
+L1137@P31: 47-4000 Other Construction and Related Workers
+L1138@P31: 47-4010 Construction and Building Inspectors
+L1139@P31: 47-4011 Construction and Building Inspectors
+L1140@P31: 47-4020 Elevator and Escalator Installers and Repairers
+L1141@P31: 47-4021 Elevator and Escalator Installers and Repairers
+L1142@P31: 47-4030 Fence Erectors
+L1143@P31: 47-4031 Fence Erectors
+L1144@P31: 47-4040 Hazardous Materials Removal Workers
+L1145@P31: 47-4041 Hazardous Materials Removal Workers
+L1146@P31: 47-4050 Highway Maintenance Workers
+L1147@P31: 47-4051 Highway Maintenance Workers
+L1148@P31: 47-4060 Rail-Track Laying and Maintenance Equipment Operators
+L1149@P31: 47-4061 Rail-Track Laying and Maintenance Equipment Operators
+L1150@P31: 47-4070 Septic Tank Servicers and Sewer Pipe Cleaners
+L1151@P31: 47-4071 Septic Tank Servicers and Sewer Pipe Cleaners
+L1152@P31: 47-4090 Miscellaneous Construction and Related Workers
+L1153@P31: 47-4091 Segmental Pavers
+L1154@P31: 47-4099 Construction and Related Workers, All Other
+L1155@P31: 47-5000 Extraction Workers
+L1156@P31: 47-5010 Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas
+L1157@P31: 47-5011 Derrick Operators, Oil and Gas
+L1158@P31: 47-5012 Rotary Drill Operators, Oil and Gas
+L1159@P31: 47-5013 Service Unit Operators, Oil and Gas
+L1160@P31: 47-5020 Surface Mining Machine Operators and Earth Drillers
+L1161@P31: 47-5022 Excavating and Loading Machine and Dragline Operators, Surface Mining
+L1162@P31: 47-5023 Earth Drillers, Except Oil and Gas
+L1163@P31: 47-5030 Explosives Workers, Ordnance Handling Experts, and Blasters
+L1164@P31: 47-5032 Explosives Workers, Ordnance Handling Experts, and Blasters
+L1165@P31: 47-5040 Underground Mining Machine Operators
+L1166@P31: 47-5041 Continuous Mining Machine Operators
+L1167@P31: 47-5043 Roof Bolters, Mining
+L1168@P31: 47-5044 Loading and Moving Machine Operators, Underground Mining
+L1169@P31: 47-5049 Underground Mining Machine Operators, All Other
+L1170@P31-32: 32Major Group Minor Group Broad Group Detailed Occupation
+L1171@P32: 47-5050 Rock Splitters, Quarry
+L1172@P32: 47-5051 Rock Splitters, Quarry
+L1173@P32: 47-5070 Roustabouts, Oil and Gas
+L1174@P32: 47-5071 Roustabouts, Oil and Gas
+L1175@P32: 47-5080 Helpers--Extraction Workers
+L1176@P32: 47-5081 Helpers--Extraction Workers
+L1177@P32: 47-5090 Miscellaneous Extraction Workers
+L1178@P32: 47-5099 Extraction Workers, All Other
+L1179@P32: 49-0000 Installation, Maintenance, and Repair Occupations
+L1180@P32: 49-1000 Supervisors of Installation, Maintenance, and Repair Workers
+L1181@P32: 49-1010 First-Line Supervisors of Mechanics, Installers, and Repairers
+L1182@P32: 49-1011 First-Line Supervisors of Mechanics, Installers, and Repairers
+L1183@P32: 49-2000 Electrical and Electronic Equipment Mechanics, Installers, and Repairers
+L1184@P32: 49-2010 Computer, Automated Teller, and Office Machine Repairers
+L1185@P32: 49-2011 Computer, Automated Teller, and Office Machine Repairers
+L1186@P32: 49-2020 Radio and Telecommunications Equipment Installers and Repairers
+L1187@P32: 49-2021 Radio, Cellular, and Tower Equipment Installers and Repairers
+L1188@P32: 49-2022 Telecommunications Equipment Installers and Repairers, Except Line Installers
+L1189@P32: 49-2090 Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers
+L1190@P32: 49-2091 Avionics Technicians
+L1191@P32: 49-2092 Electric Motor, Power Tool, and Related Repairers
+L1192@P32: 49-2093 Electrical and Electronics Installers and Repairers, Transportation Equipment
+L1193@P32: 49-2094 Electrical and Electronics Repairers, Commercial and Industrial Equipment
+L1194@P32: 49-2095 Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+L1195@P32: 49-2096 Electronic Equipment Installers and Repairers, Motor Vehicles
+L1196@P32: 49-2097 Audiovisual Equipment Installers and Repairers
+L1197@P32: 49-2098 Security and Fire Alarm Systems Installers
+L1198@P32: 49-3000 Vehicle and Mobile Equipment Mechanics, Installers, and Repairers
+L1199@P32: 49-3010 Aircraft Mechanics and Service Technicians
+L1200@P32: 49-3011 Aircraft Mechanics and Service Technicians
+L1201@P32: 49-3020 Automotive Technicians and Repairers
+L1202@P32: 49-3021 Automotive Body and Related Repairers
+L1203@P32: 49-3022 Automotive Glass Installers and Repairers
+
+
+2018 SOC Structure (https://www.bls.gov/soc/2018/soc_structure_2018.pdf)
+citeturn7view0 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 44; Source: open({"ref_id":"https://www.bls.gov/soc/2018/soc_structure_2018.pdf","lineno":1350}); Total lines: 1556
+L1164@P31: 47-5032 Explosives Workers, Ordnance Handling Experts, and Blasters
+L1165@P31: 47-5040 Underground Mining Machine Operators
+L1166@P31: 47-5041 Continuous Mining Machine Operators
+L1167@P31: 47-5043 Roof Bolters, Mining
+L1168@P31: 47-5044 Loading and Moving Machine Operators, Underground Mining
+L1169@P31: 47-5049 Underground Mining Machine Operators, All Other
+L1170@P31-32: 32Major Group Minor Group Broad Group Detailed Occupation
+L1171@P32: 47-5050 Rock Splitters, Quarry
+L1172@P32: 47-5051 Rock Splitters, Quarry
+L1175@P32: 47-5080 Helpers--Extraction Workers
+L1176@P32: 47-5081 Helpers--Extraction Workers
+L1177@P32: 47-5090 Miscellaneous Extraction Workers
+L1178@P32: 47-5099 Extraction Workers, All Other
+L1179@P32: 49-0000 Installation, Maintenance, and Repair Occupations
+L1180@P32: 49-1000 Supervisors of Installation, Maintenance, and Repair Workers
+L1181@P32: 49-1010 First-Line Supervisors of Mechanics, Installers, and Repairers
+L1182@P32: 49-1011 First-Line Supervisors of Mechanics, Installers, and Repairers
+L1183@P32: 49-2000 Electrical and Electronic Equipment Mechanics, Installers, and Repairers
+L1184@P32: 49-2010 Computer, Automated Teller, and Office Machine Repairers
+L1185@P32: 49-2011 Computer, Automated Teller, and Office Machine Repairers
+L1186@P32: 49-2020 Radio and Telecommunications Equipment Installers and Repairers
+L1187@P32: 49-2021 Radio, Cellular, and Tower Equipment Installers and Repairers
+L1188@P32: 49-2022 Telecommunications Equipment Installers and Repairers, Except Line Installers
+L1189@P32: 49-2090 Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers
+L1190@P32: 49-2091 Avionics Technicians
+L1191@P32: 49-2092 Electric Motor, Power Tool, and Related Repairers
+L1192@P32: 49-2093 Electrical and Electronics Installers and Repairers, Transportation Equipment
+L1193@P32: 49-2094 Electrical and Electronics Repairers, Commercial and Industrial Equipment
+L1194@P32: 49-2095 Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+L1195@P32: 49-2096 Electronic Equipment Installers and Repairers, Motor Vehicles
+L1196@P32: 49-2097 Audiovisual Equipment Installers and Repairers
+L1197@P32: 49-2098 Security and Fire Alarm Systems Installers
+L1198@P32: 49-3000 Vehicle and Mobile Equipment Mechanics, Installers, and Repairers
+L1199@P32: 49-3010 Aircraft Mechanics and Service Technicians
+L1200@P32: 49-3011 Aircraft Mechanics and Service Technicians
+L1201@P32: 49-3020 Automotive Technicians and Repairers
+L1202@P32: 49-3021 Automotive Body and Related Repairers
+L1203@P32: 49-3022 Automotive Glass Installers and Repairers
+L1204@P32: 49-3023 Automotive Service Technicians and Mechanics
+L1205@P32-33: 33Major Group Minor Group Broad Group Detailed Occupation
+L1206@P33: 49-3030 Bus and Truck Mechanics and Diesel Engine Specialists
+L1207@P33: 49-3031 Bus and Truck Mechanics and Diesel Engine Specialists
+L1208@P33: 49-3040 Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics
+L1209@P33: 49-3041 Farm Equipment Mechanics and Service Technicians
+L1210@P33: 49-3042 Mobile Heavy Equipment Mechanics, Except Engines
+L1211@P33: 49-3043 Rail Car Repairers
+L1212@P33: 49-3050 Small Engine Mechanics
+L1213@P33: 49-3051 Motorboat Mechanics and Service Technicians
+L1214@P33: 49-3052 Motorcycle Mechanics
+L1215@P33: 49-3053 Outdoor Power Equipment and Other Small Engine Mechanics
+L1216@P33: 49-3090 Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers
+L1217@P33: 49-3091 Bicycle Repairers
+L1218@P33: 49-3092 Recreational Vehicle Service Technicians
+L1219@P33: 49-3093 Tire Repairers and Changers
+L1220@P33: 49-9000 Other Installation, Maintenance, and Repair Occupations
+L1221@P33: 49-9010 Control and Valve Installers and Repairers
+L1222@P33: 49-9011 Mechanical Door Repairers
+L1223@P33: 49-9012 Control and Valve Installers and Repairers, Except Mechanical Door
+L1224@P33: 49-9020 Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+L1225@P33: 49-9021 Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+L1226@P33: 49-9030 Home Appliance Repairers
+L1227@P33: 49-9031 Home Appliance Repairers
+L1228@P33: 49-9040 Industrial Machinery Installation, Repair, and Maintenance Workers
+L1229@P33: 49-9041 Industrial Machinery Mechanics
+L1230@P33: 49-9043 Maintenance Workers, Machinery
+L1231@P33: 49-9044 Millwrights
+L1232@P33: 49-9045 Refractory Materials Repairers, Except Brickmasons
+L1233@P33: 49-9050 Line Installers and Repairers
+L1234@P33: 49-9051 Electrical Power-Line Installers and Repairers
+L1235@P33: 49-9052 Telecommunications Line Installers and Repairers
+L1236@P33: 49-9060 Precision Instrument and Equipment Repairers
+L1237@P33: 49-9061 Camera and Photographic Equipment Repairers
+L1238@P33: 49-9062 Medical Equipment Repairers
+L1239@P33: 49-9063 Musical Instrument Repairers and Tuners
+L1240@P33-34: 34Major Group Minor Group Broad Group Detailed Occupation
+L1241@P34: 49-9064 Watch and Clock Repairers
+L1242@P34: 49-9069 Precision Instrument and Equipment Repairers, All Other
+L1243@P34: 49-9070 Maintenance and Repair Workers, General
+L1244@P34: 49-9071 Maintenance and Repair Workers, General
+L1245@P34: 49-9080 Wind Turbine Service Technicians
+L1246@P34: 49-9081 Wind Turbine Service Technicians
+L1247@P34: 49-9090 Miscellaneous Installation, Maintenance, and Repair Workers
+L1248@P34: 49-9091 Coin, Vending, and Amusement Machine Servicers and Repairers
+L1249@P34: 49-9092 Commercial Divers
+L1250@P34: 49-9094 Locksmiths and Safe Repairers
+L1251@P34: 49-9095 Manufactured Building and Mobile Home Installers
+L1252@P34: 49-9096 Riggers
+L1253@P34: 49-9097 Signal and Track Switch Repairers
+L1254@P34: 49-9098 Helpers--Installation, Maintenance, and Repair Workers
+L1255@P34: 49-9099 Installation, Maintenance, and Repair Workers, All Other
+L1256@P34: 51-0000 Production Occupations
+L1257@P34: 51-1000 Supervisors of Production Workers
+L1258@P34: 51-1010 First-Line Supervisors of Production and Operating Workers
+L1259@P34: 51-1011 First-Line Supervisors of Production and Operating Workers
+L1260@P34: 51-2000 Assemblers and Fabricators
+L1261@P34: 51-2010 Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+L1262@P34: 51-2011 Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+L1263@P34: 51-2020 Electrical, Electronics, and Electromechanical Assemblers
+L1264@P34: 51-2021 Coil Winders, Tapers, and Finishers
+L1265@P34: 51-2022 Electrical and Electronic Equipment Assemblers
+L1266@P34: 51-2023 Electromechanical Equipment Assemblers
+L1267@P34: 51-2030 Engine and Other Machine Assemblers
+L1268@P34: 51-2031 Engine and Other Machine Assemblers
+L1269@P34: 51-2040 Structural Metal Fabricators and Fitters
+L1270@P34: 51-2041 Structural Metal Fabricators and Fitters
+L1271@P34: 51-2050 Fiberglass Laminators and Fabricators
+L1272@P34: 51-2051 Fiberglass Laminators and Fabricators
+L1273@P34: 51-2060 Timing Device Assemblers and Adjusters
+L1274@P34: 51-2061 Timing Device Assemblers and Adjusters
+L1275@P34-35: 35Major Group Minor Group Broad Group Detailed Occupation
+L1276@P35: 51-2090 Miscellaneous Assemblers and Fabricators
+L1277@P35: 51-2092 Team Assemblers
+L1278@P35: 51-2099 Assemblers and Fabricators, All Other
+L1279@P35: 51-3000 Food Processing Workers
+L1280@P35: 51-3010 Bakers
+L1281@P35: 51-3011 Bakers
+L1282@P35: 51-3020 Butchers and Other Meat, Poultry, and Fish Processing Workers
+L1283@P35: 51-3021 Butchers and Meat Cutters
+L1284@P35: 51-3022 Meat, Poultry, and Fish Cutters and Trimmers
+L1285@P35: 51-3023 Slaughterers and Meat Packers
+L1286@P35: 51-3090 Miscellaneous Food Processing Workers
+L1287@P35: 51-3091 Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+L1288@P35: 51-3092 Food Batchmakers
+L1289@P35: 51-3093 Food Cooking Machine Operators and Tenders
+L1290@P35: 51-3099 Food Processing Workers, All Other
+L1291@P35: 51-4000 Metal Workers and Plastic Workers
+L1292@P35: 51-4020 Forming Machine Setters, Operators, and Tenders, Metal and Plastic
+L1293@P35: 51-4021 Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+L1294@P35: 51-4022 Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+L1295@P35: 51-4023 Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+L1296@P35: 51-4030 Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic
+L1297@P35: 51-4031 Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+L1298@P35: 51-4032 Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+L1299@P35: 51-4033 Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and
+L1300@P35: Plastic
+L1301@P35: 51-4034 Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+L1302@P35: 51-4035 Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+L1303@P35: 51-4040 Machinists
+L1304@P35: 51-4041 Machinists
+L1305@P35: 51-4050 Metal Furnace Operators, Tenders, Pourers, and Casters
+L1306@P35: 51-4051 Metal-Refining Furnace Operators and Tenders
+L1307@P35: 51-4052 Pourers and Casters, Metal
+L1308@P35: 51-4060 Model Makers and Patternmakers, Metal and Plastic
+L1309@P35: 51-4061 Model Makers, Metal and Plastic
+L1310@P35-36: 36Major Group Minor Group Broad Group Detailed Occupation
+L1311@P36: 51-4062 Patternmakers, Metal and Plastic
+L1312@P36: 51-4070 Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic
+L1313@P36: 51-4071 Foundry Mold and Coremakers
+L1314@P36: 51-4072 Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+L1315@P36: 51-4080 Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+L1316@P36: 51-4081 Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+L1317@P36: 51-4110 Tool and Die Makers
+L1318@P36: 51-4111 Tool and Die Makers
+L1319@P36: 51-4120 Welding, Soldering, and Brazing Workers
+L1320@P36: 51-4121 Welders, Cutters, Solderers, and Brazers
+L1321@P36: 51-4122 Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+L1322@P36: 51-4190 Miscellaneous Metal Workers and Plastic Workers
+L1323@P36: 51-4191 Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+L1324@P36: 51-4192 Layout Workers, Metal and Plastic
+L1325@P36: 51-4193 Plating Machine Setters, Operators, and Tenders, Metal and Plastic
+L1326@P36: 51-4194 Tool Grinders, Filers, and Sharpeners
+L1327@P36: 51-4199 Metal Workers and Plastic Workers, All Other
+L1328@P36: 51-5100 Printing Workers
+L1329@P36: 51-5110 Printing Workers
+L1330@P36: 51-5111 Prepress Technicians and Workers
+L1331@P36: 51-5112 Printing Press Operators
+L1332@P36: 51-5113 Print Binding and Finishing Workers
+L1333@P36: 51-6000 Textile, Apparel, and Furnishings Workers
+L1334@P36: 51-6010 Laundry and Dry-Cleaning Workers
+L1335@P36: 51-6011 Laundry and Dry-Cleaning Workers
+L1336@P36: 51-6020 Pressers, Textile, Garment, and Related Materials
+L1337@P36: 51-6021 Pressers, Textile, Garment, and Related Materials
+L1338@P36: 51-6030 Sewing Machine Operators
+L1339@P36: 51-6031 Sewing Machine Operators
+L1340@P36: 51-6040 Shoe and Leather Workers
+L1341@P36: 51-6041 Shoe and Leather Workers and Repairers
+L1342@P36: 51-6042 Shoe Machine Operators and Tenders
+L1343@P36: 51-6050 Tailors, Dressmakers, and Sewers
+L1344@P36-37: 37Major Group Minor Group Broad Group Detailed Occupation
+L1345@P37: 51-6051 Sewers, Hand
+L1346@P37: 51-6052 Tailors, Dressmakers, and Custom Sewers
+L1347@P37: 51-6060 Textile Machine Setters, Operators, and Tenders
+L1348@P37: 51-6061 Textile Bleaching and Dyeing Machine Operators and Tenders
+L1349@P37: 51-6062 Textile Cutting Machine Setters, Operators, and Tenders
+L1350@P37: 51-6063 Textile Knitting and Weaving Machine Setters, Operators, and Tenders
+L1351@P37: 51-6064 Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
+L1352@P37: 51-6090 Miscellaneous Textile, Apparel, and Furnishings Workers
+L1353@P37: 51-6091 Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+L1354@P37: 51-6092 Fabric and Apparel Patternmakers
+L1355@P37: 51-6093 Upholsterers
+L1356@P37: 51-6099 Textile, Apparel, and Furnishings Workers, All Other
+L1357@P37: 51-7000 Woodworkers
+L1358@P37: 51-7010 Cabinetmakers and Bench Carpenters
+L1359@P37: 51-7011 Cabinetmakers and Bench Carpenters
+L1360@P37: 51-7020 Furniture Finishers
+L1361@P37: 51-7021 Furniture Finishers
+L1362@P37: 51-7030 Model Makers and Patternmakers, Wood
+L1363@P37: 51-7031 Model Makers, Wood
+L1364@P37: 51-7032 Patternmakers, Wood
+L1365@P37: 51-7040 Woodworking Machine Setters, Operators, and Tenders
+L1366@P37: 51-7041 Sawing Machine Setters, Operators, and Tenders, Wood
+L1367@P37: 51-7042 Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+L1368@P37: 51-7090 Miscellaneous Woodworkers
+L1369@P37: 51-7099 Woodworkers, All Other
+L1370@P37: 51-8000 Plant and System Operators
+L1371@P37: 51-8010 Power Plant Operators, Distributors, and Dispatchers
+L1372@P37: 51-8011 Nuclear Power Reactor Operators
+L1373@P37: 51-8012 Power Distributors and Dispatchers
+L1374@P37: 51-8013 Power Plant Operators
+L1375@P37: 51-8020 Stationary Engineers and Boiler Operators
+L1376@P37: 51-8021 Stationary Engineers and Boiler Operators
+L1377@P37: 51-8030 Water and Wastewater Treatment Plant and System Operators
+L1378@P37-38: 38Major Group Minor Group Broad Group Detailed Occupation
+L1379@P38: 51-8031 Water and Wastewater Treatment Plant and System Operators
+L1380@P38: 51-8090 Miscellaneous Plant and System Operators
+L1381@P38: 51-8091 Chemical Plant and System Operators
+L1382@P38: 51-8092 Gas Plant Operators
+L1383@P38: 51-8093 Petroleum Pump System Operators, Refinery Operators, and Gaugers
+L1384@P38: 51-8099 Plant and System Operators, All Other
+L1385@P38: 51-9000 Other Production Occupations
+L1386@P38: 51-9010 Chemical Processing Machine Setters, Operators, and Tenders
+L1387@P38: 51-9011 Chemical Equipment Operators and Tenders
+L1388@P38: 51-9012 Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+L1389@P38: 51-9020 Crushing, Grinding, Polishing, Mixing, and Blending Workers
+L1390@P38: 51-9021 Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+L1391@P38: 51-9022 Grinding and Polishing Workers, Hand
+L1392@P38: 51-9023 Mixing and Blending Machine Setters, Operators, and Tenders
+L1393@P38: 51-9030 Cutting Workers
+L1394@P38: 51-9031 Cutters and Trimmers, Hand
+L1395@P38: 51-9032 Cutting and Slicing Machine Setters, Operators, and Tenders
+L1396@P38: 51-9040 Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+L1397@P38: 51-9041 Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+L1398@P38: 51-9050 Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+L1399@P38: 51-9051 Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+L1400@P38: 51-9060 Inspectors, Testers, Sorters, Samplers, and Weighers
+L1401@P38: 51-9061 Inspectors, Testers, Sorters, Samplers, and Weighers
+L1402@P38: 51-9070 Jewelers and Precious Stone and Metal Workers
+L1403@P38: 51-9071 Jewelers and Precious Stone and Metal Workers
+L1404@P38: 51-9080 Dental and Ophthalmic Laboratory Technicians and Medical Appliance Technicians
+L1405@P38: 51-9081 Dental Laboratory Technicians
+L1406@P38: 51-9082 Medical Appliance Technicians
+L1407@P38: 51-9083 Ophthalmic Laboratory Technicians
+L1408@P38: 51-9110 Packaging and Filling Machine Operators and Tenders
+L1409@P38: 51-9111 Packaging and Filling Machine Operators and Tenders
+L1410@P38: 51-9120 Painting Workers
+L1411@P38: 51-9123 Painting, Coating, and Decorating Workers
+L1412@P38-39: 39Major Group Minor Group Broad Group Detailed Occupation
+L1413@P39: 51-9124 Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+L1414@P39: 51-9140 Semiconductor Processing Technicians
+L1415@P39: 51-9141 Semiconductor Processing Technicians
+L1416@P39: 51-9150 Photographic Process Workers and Processing Machine Operators
+L1417@P39: 51-9151 Photographic Process Workers and Processing Machine Operators
+L1418@P39: 51-9160 Computer Numerically Controlled Tool Operators and Programmers
+L1419@P39: 51-9161 Computer Numerically Controlled Tool Operators
+L1420@P39: 51-9162 Computer Numerically Controlled Tool Programmers
+L1421@P39: 51-9190 Miscellaneous Production Workers
+L1422@P39: 51-9191 Adhesive Bonding Machine Operators and Tenders
+L1423@P39: 51-9192 Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+L1424@P39: 51-9193 Cooling and Freezing Equipment Operators and Tenders
+L1425@P39: 51-9194 Etchers and Engravers
+L1426@P39: 51-9195 Molders, Shapers, and Casters, Except Metal and Plastic
+L1427@P39: 51-9196 Paper Goods Machine Setters, Operators, and Tenders
+L1428@P39: 51-9197 Tire Builders
+L1429@P39: 51-9198 Helpers--Production Workers
+L1430@P39: 51-9199 Production Workers, All Other
+L1431@P39: 53-0000 Transportation and Material Moving Occupations
+L1432@P39: 53-1000 Supervisors of Transportation and Material Moving Workers
+L1433@P39: 53-1040 First-Line Supervisors of Transportation and Material Moving Workers
+L1434@P39: 53-1041 Aircraft Cargo Handling Supervisors
+L1435@P39: 53-1042 First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+L1436@P39: 53-1043 First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+L1437@P39: 53-1044 First-Line Supervisors of Passenger Attendants
+L1438@P39: 53-1049 First-Line Supervisors of Transportation Workers, All Other
+L1439@P39: 53-2000 Air Transportation Workers
+L1440@P39: 53-2010 Aircraft Pilots and Flight Engineers
+L1441@P39: 53-2011 Airline Pilots, Copilots, and Flight Engineers
+L1442@P39: 53-2012 Commercial Pilots
+L1443@P39: 53-2020 Air Traffic Controllers and Airfield Operations Specialists
+L1444@P39: 53-2021 Air Traffic Controllers
+L1445@P39: 53-2022 Airfield Operations Specialists
+L1446@P39: 53-2030 Flight Attendants
+L1447@P39-40: 40Major Group Minor Group Broad Group Detailed Occupation
+L1448@P40: 53-2031 Flight Attendants
+L1449@P40: 53-3000 Motor Vehicle Operators
+L1450@P40: 53-3010 Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+L1451@P40: 53-3011 Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+L1452@P40: 53-3030 Driver/Sales Workers and Truck Drivers
+L1453@P40: 53-3031 Driver/Sales Workers
+L1454@P40: 53-3032 Heavy and Tractor-Trailer Truck Drivers
+L1455@P40: 53-3033 Light Truck Drivers
+L1456@P40: 53-3050 Passenger Vehicle Drivers
+L1457@P40: 53-3051 Bus Drivers, School
+L1458@P40: 53-3052 Bus Drivers, Transit and Intercity
+L1459@P40: 53-3053 Shuttle Drivers and Chauffeurs
+L1460@P40: 53-3054 Taxi Drivers
+L1461@P40: 53-3090 Miscellaneous Motor Vehicle Operators
+L1462@P40: 53-3099 Motor Vehicle Operators, All Other
+L1463@P40: 53-4000 Rail Transportation Workers
+L1464@P40: 53-4010 Locomotive Engineers and Operators
+L1465@P40: 53-4011 Locomotive Engineers
+L1466@P40: 53-4013 Rail Yard Engineers, Dinkey Operators, and Hostlers
+L1467@P40: 53-4020 Railroad Brake, Signal, and Switch Operators and Locomotive Firers
+L1468@P40: 53-4022 Railroad Brake, Signal, and Switch Operators and Locomotive Firers
+L1469@P40: 53-4030 Railroad Conductors and Yardmasters
+L1470@P40: 53-4031 Railroad Conductors and Yardmasters
+L1471@P40: 53-4040 Subway and Streetcar Operators
+L1472@P40: 53-4041 Subway and Streetcar Operators
+L1473@P40: 53-4090 Miscellaneous Rail Transportation Workers
+L1474@P40: 53-4099 Rail Transportation Workers, All Other
+L1475@P40: 53-5000 Water Transportation Workers
+L1476@P40: 53-5010 Sailors and Marine Oilers
+L1477@P40: 53-5011 Sailors and Marine Oilers
+L1478@P40: 53-5020 Ship and Boat Captains and Operators
+L1479@P40: 53-5021 Captains, Mates, and Pilots of Water Vessels
+L1480@P40: 53-5022 Motorboat Operators
+L1481@P40: 53-5030 Ship Engineers
+L1482@P40-41: 41Major Group Minor Group Broad Group Detailed Occupation
+L1483@P41: 53-5031 Ship Engineers
+L1484@P41: 53-6000 Other Transportation Workers
+L1485@P41: 53-6010 Bridge and Lock Tenders
+L1486@P41: 53-6011 Bridge and Lock Tenders
+L1487@P41: 53-6020 Parking Attendants
+L1488@P41: 53-6021 Parking Attendants
+L1489@P41: 53-6030 Transportation Service Attendants
+L1490@P41: 53-6031 Automotive and Watercraft Service Attendants
+L1491@P41: 53-6032 Aircraft Service Attendants
+L1492@P41: 53-6040 Traffic Technicians
+L1493@P41: 53-6041 Traffic Technicians
+L1494@P41: 53-6050 Transportation Inspectors
+L1495@P41: 53-6051 Transportation Inspectors
+L1496@P41: 53-6060 Passenger Attendants
+L1497@P41: 53-6061 Passenger Attendants
+L1498@P41: 53-6090 Miscellaneous Transportation Workers
+L1499@P41: 53-6099 Transportation Workers, All Other
+L1500@P41: 53-7000 Material Moving Workers
+L1501@P41: 53-7010 Conveyor Operators and Tenders
+L1502@P41: 53-7011 Conveyor Operators and Tenders
+L1503@P41: 53-7020 Crane and Tower Operators
+L1504@P41: 53-7021 Crane and Tower Operators
+L1505@P41: 53-7030 Dredge Operators
+L1506@P41: 53-7031 Dredge Operators
+L1507@P41: 53-7040 Hoist and Winch Operators
+L1508@P41: 53-7041 Hoist and Winch Operators
+L1509@P41: 53-7050 Industrial Truck and Tractor Operators
+L1510@P41: 53-7051 Industrial Truck and Tractor Operators
+L1511@P41: 53-7060 Laborers and Material Movers
+L1512@P41: 53-7061 Cleaners of Vehicles and Equipment
+L1513@P41: 53-7062 Laborers and Freight, Stock, and Material Movers, Hand
+L1514@P41: 53-7063 Machine Feeders and Offbearers
+L1515@P41: 53-7064 Packers and Packagers, Hand
+L1516@P41: 53-7065 Stockers and Order Fillers
+L1517@P41-42: 42Major Group Minor Group Broad Group Detailed Occupation
+L1518@P42: 53-7070 Pumping Station Operators
+L1519@P42: 53-7071 Gas Compressor and Gas Pumping Station Operators
+L1520@P42: 53-7072 Pump Operators, Except Wellhead Pumpers
+L1521@P42: 53-7073 Wellhead Pumpers
+L1522@P42: 53-7080 Refuse and Recyclable Material Collectors
+L1523@P42: 53-7081 Refuse and Recyclable Material Collectors
+L1524@P42: 53-7120 Tank Car, Truck, and Ship Loaders
+L1525@P42: 53-7121 Tank Car, Truck, and Ship Loaders
+L1526@P42: 53-7190 Miscellaneous Material Moving Workers
+L1527@P42: 53-7199 Material Moving Workers, All Other
+L1528@P42: 55-0000 Military Specific Occupations
+L1529@P42: 55-1000 Military Officer Special and Tactical Operations Leaders
+L1530@P42: 55-1010 Military Officer Special and Tactical Operations Leaders
+L1531@P42: 55-1011 Air Crew Officers
+L1532@P42: 55-1012 Aircraft Launch and Recovery Officers
+L1533@P42: 55-1013 Armored Assault Vehicle Officers
+L1534@P42: 55-1014 Artillery and Missile Officers
+L1535@P42: 55-1015 Command and Control Center Officers
+L1536@P42: 55-1016 Infantry Officers
+L1537@P42: 55-1017 Special Forces Officers
+L1538@P42: 55-1019 Military Officer Special and Tactical Operations Leaders, All Other
+L1539@P42: 55-2000 First-Line Enlisted Military Supervisors
+L1540@P42: 55-2010 First-Line Enlisted Military Supervisors
+L1541@P42: 55-2011 First-Line Supervisors of Air Crew Members
+L1542@P42: 55-2012 First-Line Supervisors of Weapons Specialists/Crew Members
+L1543@P42: 55-2013 First-Line Supervisors of All Other Tactical Operations Specialists
+L1544@P42: 55-3000 Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members
+L1545@P42: 55-3010 Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members
+L1546@P42: 55-3011 Air Crew Members
+L1547@P42: 55-3012 Aircraft Launch and Recovery Specialists
+L1548@P42: 55-3013 Armored Assault Vehicle Crew Members
+L1549@P42: 55-3014 Artillery and Missile Crew Members
+L1550@P42: 55-3015 Command and Control Center Specialists
+L1551@P42: 55-3016 Infantry
+L1552@P42-43: 43Major Group Minor Group Broad Group Detailed Occupation
+L1553@P43: 55-3018 Special Forces
+L1554@P43: 55-3019 Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other
+L1555@P43: 44

@@ -1,0 +1,13 @@
+scope,age_group,survey_year,geo1,geo2,ranking_robust_to_unscored,intervals_overlap
+CZ_allocated_sample,22-34,2015,19800,19901,False,True
+CZ_allocated_sample,22-34,2016,19800,19901,False,True
+CZ_allocated_sample,22-34,2017,19800,19901,False,True
+CZ_allocated_sample,22-34,2018,19800,19901,False,True
+CZ_allocated_sample,22-34,2019,19800,19901,False,True
+CZ_allocated_sample,22-34,pooled,19800,19901,False,True
+CZ_allocated_sample,25-34,2015,19800,19901,False,True
+CZ_allocated_sample,25-34,2016,19800,19901,False,True
+CZ_allocated_sample,25-34,2017,19800,19901,False,True
+CZ_allocated_sample,25-34,2018,19800,19901,False,True
+CZ_allocated_sample,25-34,2019,19800,19901,False,True
+CZ_allocated_sample,25-34,pooled,19800,19901,False,True

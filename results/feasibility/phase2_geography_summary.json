@@ -1,0 +1,209 @@
+{
+  "official_bg_relationship_rows": 2750,
+  "towns": 174,
+  "official_tracts": 884,
+  "unique_CZ_tracts": 884,
+  "ambiguous_CZ_tracts": 0,
+  "region_membership": [
+    {
+      "new_region": "09110",
+      "old_counties": [
+        "09003",
+        "09013"
+      ],
+      "cz_members": [
+        20901
+      ],
+      "unique_cz": 20901
+    },
+    {
+      "new_region": "09120",
+      "old_counties": [
+        "09001"
+      ],
+      "cz_members": [
+        20901
+      ],
+      "unique_cz": 20901
+    },
+    {
+      "new_region": "09130",
+      "old_counties": [
+        "09007",
+        "09011"
+      ],
+      "cz_members": [
+        20901
+      ],
+      "unique_cz": 20901
+    },
+    {
+      "new_region": "09140",
+      "old_counties": [
+        "09001",
+        "09003",
+        "09005",
+        "09009"
+      ],
+      "cz_members": [
+        20901
+      ],
+      "unique_cz": 20901
+    },
+    {
+      "new_region": "09150",
+      "old_counties": [
+        "09011",
+        "09013",
+        "09015"
+      ],
+      "cz_members": [
+        20901
+      ],
+      "unique_cz": 20901
+    },
+    {
+      "new_region": "09160",
+      "old_counties": [
+        "09003",
+        "09005"
+      ],
+      "cz_members": [
+        20901
+      ],
+      "unique_cz": 20901
+    },
+    {
+      "new_region": "09170",
+      "old_counties": [
+        "09009"
+      ],
+      "cz_members": [
+        20901
+      ],
+      "unique_cz": 20901
+    },
+    {
+      "new_region": "09180",
+      "old_counties": [
+        "09011",
+        "09015"
+      ],
+      "cz_members": [
+        20901
+      ],
+      "unique_cz": 20901
+    },
+    {
+      "new_region": "09190",
+      "old_counties": [
+        "09001",
+        "09005"
+      ],
+      "cz_members": [
+        20901
+      ],
+      "unique_cz": 20901
+    }
+  ],
+  "CT_samples": [
+    {
+      "year": 2018,
+      "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+      "rows": 41156,
+      "option_A_mapped_rows": 41016,
+      "option_A_coverage_percent": 99.65983088735543,
+      "option_A_unmapped_reasons": {
+        "missing_county_without_recovery": 138,
+        "inconsistent_identifiers": 2
+      },
+      "missing_county_rows": 138,
+      "county_state_inconsistent_rows": 2,
+      "tract_county_inconsistent_rows": 0,
+      "option_B_consistent_CT_exclusion_rows": 41156,
+      "option_B_CT_retention_percent": 0
+    },
+    {
+      "year": 2023,
+      "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+      "rows": 35534,
+      "option_A_mapped_rows": 35290,
+      "option_A_coverage_percent": 99.31333370856082,
+      "option_A_unmapped_reasons": {
+        "missing_county_without_recovery": 244
+      },
+      "missing_county_rows": 244,
+      "county_state_inconsistent_rows": 0,
+      "tract_county_inconsistent_rows": 0,
+      "option_B_consistent_CT_exclusion_rows": 35534,
+      "option_B_CT_retention_percent": 0
+    },
+    {
+      "year": 2024,
+      "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+      "rows": 35150,
+      "option_A_mapped_rows": 34791,
+      "option_A_coverage_percent": 98.97866287339971,
+      "option_A_unmapped_reasons": {
+        "missing_county_without_recovery": 359
+      },
+      "missing_county_rows": 359,
+      "county_state_inconsistent_rows": 0,
+      "tract_county_inconsistent_rows": 0,
+      "option_B_consistent_CT_exclusion_rows": 35150,
+      "option_B_CT_retention_percent": 0
+    },
+    {
+      "year": 2025,
+      "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+      "rows": 35676,
+      "option_A_mapped_rows": 35340,
+      "option_A_coverage_percent": 99.05819038008745,
+      "option_A_unmapped_reasons": {
+        "missing_county_without_recovery": 336
+      },
+      "missing_county_rows": 336,
+      "county_state_inconsistent_rows": 0,
+      "tract_county_inconsistent_rows": 0,
+      "option_B_consistent_CT_exclusion_rows": 35676,
+      "option_B_CT_retention_percent": 0
+    }
+  ],
+  "cross_state_CZs": 137,
+  "CT_affected_CZs": [
+    20901
+  ],
+  "CT_cross_state_CZs": [],
+  "population_inventory": [
+    {
+      "policy": "retain_CT",
+      "county_rows": 3108,
+      "mapped_rows": 3108,
+      "population": 326092106,
+      "mapped_population": 326092106,
+      "coverage_percent": 100.0,
+      "basis": "2019 county population inventory, not HMDA coverage; candidate Broomfield approximation included"
+    },
+    {
+      "policy": "exclude_CT",
+      "county_rows": 3100,
+      "mapped_rows": 3100,
+      "population": 322526819,
+      "mapped_population": 322526819,
+      "coverage_percent": 100.0,
+      "basis": "2019 county population inventory, not HMDA coverage; candidate Broomfield approximation included"
+    },
+    {
+      "policy": "drop_CT_affected_CZs",
+      "county_rows": 3100,
+      "mapped_rows": 3100,
+      "population": 322526819,
+      "mapped_population": 322526819,
+      "coverage_percent": 100.0,
+      "basis": "2019 county population inventory, not HMDA coverage; candidate Broomfield approximation included"
+    }
+  ],
+  "complete_national_HMDA_linkage": "OPEN; bounded existing samples only",
+  "national_employment_loss_by_exclusion": "OPEN; national ACS download 403",
+  "recommended_policy": "Official tract/region bridge where unique; retain CT provisionally; no primary commitment until missing/ambiguous counts and national validation accepted"
+}

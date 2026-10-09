@@ -1,5 +1,13 @@
 # Occupation Crosswalk Audit
 
+<!-- PHASE2 BEGIN -->
+## Current Phase 2 update — 2026-10-09 (Asia/Shanghai)
+
+Revalidated DE primary coverage is now **82.994% (22–34)** and **82.988% (25–34)**, with 62 unresolved 22–34 groups. The complete official hierarchy is audited. Missing child/member scores still fail the 98% project target. See [occupation resolution](occupation_mapping_resolution.md) and [national coverage](national_exposure_coverage.md).
+
+The Day 1–2 evidence below is preserved historically; current Phase 2 findings supersede its occupation/CT/provenance conclusions where explicitly stated. No outcome estimation was authorized.
+
+<!-- PHASE2 END -->
 Date: 2026-10-09 (Asia/Shanghai). Scope: Day 1–2 feasibility only. Retrieval timestamps are UTC in the source manifest.
 
 **Evidence labels.** VERIFIED DATA FACT = directly downloaded/parsed or official metadata; TECHNICAL ASSUMPTION = diagnostic implementation rule; UNRESOLVED CHOICE = design/mapping policy not fixed; RECOMMENDATION = action supported by those facts. PASS is limited to the stated procedure and denominator; FAIL rejects the tested configuration; OPEN has an unresolved dependency.

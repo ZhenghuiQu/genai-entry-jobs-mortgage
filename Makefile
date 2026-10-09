@@ -27,3 +27,14 @@ feasibility-analyze:
 feasibility-validate:
 	$(PYTHON) scripts/feasibility/test_zip_helpers.py
 	$(PYTHON) scripts/feasibility/validate_artifacts.py
+
+# Phase 2: offline diagnostics only; public acquisition is a separate explicit target.
+.PHONY: phase2-analyze phase2-acquire phase2-validate
+phase2-acquire:
+	$(PYTHON) scripts/phase2/acquire_sources.py --national
+phase2-analyze:
+	$(PYTHON) scripts/phase2/exposure_coverage.py
+	$(PYTHON) scripts/phase2/geographic_resolution.py
+	$(PYTHON) scripts/phase2/render_phase2_reports.py
+phase2-validate:
+	$(PYTHON) scripts/phase2/validate_phase2.py

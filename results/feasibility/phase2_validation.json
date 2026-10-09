@@ -1,0 +1,102 @@
+{
+  "status": "PASS",
+  "executed_at_utc": "2026-10-09T03:50:46.700815+00:00",
+  "checks": [
+    {
+      "test": "history_and_original_research_preserved",
+      "status": "PASS",
+      "evidence": {
+        "original_commit": "3f363bca62b6d8938ee8f95696465361d2092476",
+        "literature_files": 8,
+        "original_key_scripts": 3
+      }
+    },
+    {
+      "test": "web_extract_representation_hashes",
+      "status": "PASS",
+      "evidence": {
+        "representations": 3,
+        "original_download_hash_claimed": false
+      }
+    },
+    {
+      "test": "pinned_official_inputs_and_rating_version",
+      "status": "PASS",
+      "evidence": {
+        "verified_inputs": 10,
+        "ratings_commit": "0471612fef3cc22b74fb884d27bff9dbd3770582"
+      }
+    },
+    {
+      "test": "complete_official_hierarchy",
+      "status": "PASS",
+      "evidence": {
+        "detailed": 867,
+        "broad": 459,
+        "minor": 98,
+        "major": 23
+      }
+    },
+    {
+      "test": "explicit_composites_all_other_anomaly_and_provisional_metadata",
+      "status": "PASS",
+      "evidence": {
+        "groups": 529,
+        "source_anomaly_preserved": true,
+        "prefix_membership_not_assumed": true
+      }
+    },
+    {
+      "test": "independent_complete_DE_denominators_coverage_and_bounds",
+      "status": "PASS",
+      "evidence": {
+        "person_rows": 45217,
+        "age_year_comparisons": 12,
+        "primary_covered_weights": [
+          102627,
+          83381
+        ]
+      }
+    },
+    {
+      "test": "streaming_chunk_boundary_invariance",
+      "status": "PASS",
+      "evidence": {
+        "chunk_rows_compared": [
+          1000,
+          100000
+        ],
+        "aggregate_keys": 3243
+      }
+    },
+    {
+      "test": "original_occupation_results_reproduced_byte_for_byte",
+      "status": "PASS",
+      "evidence": {
+        "outputs": 5
+      }
+    },
+    {
+      "test": "geography_mass_and_official_CT_sample_coverage",
+      "status": "PASS",
+      "evidence": {
+        "CT_regions": 9,
+        "tracts": 884,
+        "CT_cross_state_CZs": 0,
+        "cross_state_CZs_national_inventory": 137
+      }
+    },
+    {
+      "test": "honest_scope_and_all_output_contracts",
+      "status": "PASS",
+      "evidence": {
+        "national_unobserved_rows": 12,
+        "regressions": 0,
+        "recommendation": "C",
+        "gates": 12
+      }
+    }
+  ],
+  "scope": "Observed local Phase 2 evidence and reproduction; not national acceptance or remote integration",
+  "recommendation": "C"
+}

@@ -1,0 +1,1448 @@
+soc,level,major,minor,broad,title,source_line,source_url
+11-0000,major,11-0000,,,Management Occupations,5,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-1000,minor,11-0000,11-1000,,Top Executives,6,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-1010,broad,11-0000,11-1000,11-1010,Chief Executives,7,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-1011,detailed,11-0000,11-1000,11-1010,Chief Executives,8,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-1020,broad,11-0000,11-1000,11-1020,General and Operations Managers,9,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-1021,detailed,11-0000,11-1000,11-1020,General and Operations Managers,10,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-1030,broad,11-0000,11-1000,11-1030,Legislators,11,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-1031,detailed,11-0000,11-1000,11-1030,Legislators,12,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-2000,minor,11-0000,11-2000,,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",13,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-2010,broad,11-0000,11-2000,11-2010,Advertising and Promotions Managers,14,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-2011,detailed,11-0000,11-2000,11-2010,Advertising and Promotions Managers,15,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-2020,broad,11-0000,11-2000,11-2020,Marketing and Sales Managers,16,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-2021,detailed,11-0000,11-2000,11-2020,Marketing Managers,17,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-2022,detailed,11-0000,11-2000,11-2020,Sales Managers,18,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-2030,broad,11-0000,11-2000,11-2030,Public Relations and Fundraising Managers,19,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-2032,detailed,11-0000,11-2000,11-2030,Public Relations Managers,20,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-2033,detailed,11-0000,11-2000,11-2030,Fundraising Managers,21,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3000,minor,11-0000,11-3000,,Operations Specialties Managers,22,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3010,broad,11-0000,11-3000,11-3010,Administrative Services and Facilities Managers,23,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3012,detailed,11-0000,11-3000,11-3010,Administrative Services Managers,24,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3013,detailed,11-0000,11-3000,11-3010,Facilities Managers,25,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3020,broad,11-0000,11-3000,11-3020,Computer and Information Systems Managers,26,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3021,detailed,11-0000,11-3000,11-3020,Computer and Information Systems Managers,27,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3030,broad,11-0000,11-3000,11-3030,Financial Managers,28,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3031,detailed,11-0000,11-3000,11-3030,Financial Managers,29,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3050,broad,11-0000,11-3000,11-3050,Industrial Production Managers,30,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3051,detailed,11-0000,11-3000,11-3050,Industrial Production Managers,31,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3060,broad,11-0000,11-3000,11-3060,Purchasing Managers,33,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3061,detailed,11-0000,11-3000,11-3060,Purchasing Managers,34,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3070,broad,11-0000,11-3000,11-3070,"Transportation, Storage, and Distribution Managers",35,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3071,detailed,11-0000,11-3000,11-3070,"Transportation, Storage, and Distribution Managers",36,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3110,broad,11-0000,11-3000,11-3110,Compensation and Benefits Managers,37,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3111,detailed,11-0000,11-3000,11-3110,Compensation and Benefits Managers,38,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3120,broad,11-0000,11-3000,11-3120,Human Resources Managers,39,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3121,detailed,11-0000,11-3000,11-3120,Human Resources Managers,40,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3130,broad,11-0000,11-3000,11-3130,Training and Development Managers,41,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-3131,detailed,11-0000,11-3000,11-3130,Training and Development Managers,42,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9000,minor,11-0000,11-9000,,Other Management Occupations,43,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9010,broad,11-0000,11-9000,11-9010,"Farmers, Ranchers, and Other Agricultural Managers",44,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9013,detailed,11-0000,11-9000,11-9010,"Farmers, Ranchers, and Other Agricultural Managers",45,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9020,broad,11-0000,11-9000,11-9020,Construction Managers,46,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9021,detailed,11-0000,11-9000,11-9020,Construction Managers,47,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9030,broad,11-0000,11-9000,11-9030,Education and Childcare Administrators,48,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9031,detailed,11-0000,11-9000,11-9030,"Education and Childcare Administrators, Preschool and Daycare",49,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9032,detailed,11-0000,11-9000,11-9030,"Education Administrators, Kindergarten through Secondary",50,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9033,detailed,11-0000,11-9000,11-9030,"Education Administrators, Postsecondary",51,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9039,detailed,11-0000,11-9000,11-9030,"Education Administrators, All Other",52,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9040,broad,11-0000,11-9000,11-9040,Architectural and Engineering Managers,53,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9041,detailed,11-0000,11-9000,11-9040,Architectural and Engineering Managers,54,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9050,broad,11-0000,11-9000,11-9050,Food Service Managers,55,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9051,detailed,11-0000,11-9000,11-9050,Food Service Managers,56,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9070,broad,11-0000,11-9000,11-9070,Entertainment and Recreation Managers,57,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9071,detailed,11-0000,11-9000,11-9070,Gambling Managers,58,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9072,detailed,11-0000,11-9000,11-9070,"Entertainment and Recreation Managers, Except Gambling",59,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9080,broad,11-0000,11-9000,11-9080,Lodging Managers,60,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9081,detailed,11-0000,11-9000,11-9080,Lodging Managers,61,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9110,broad,11-0000,11-9000,11-9110,Medical and Health Services Managers,62,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9111,detailed,11-0000,11-9000,11-9110,Medical and Health Services Managers,63,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9120,broad,11-0000,11-9000,11-9120,Natural Sciences Managers,64,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9121,detailed,11-0000,11-9000,11-9120,Natural Sciences Managers,65,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9130,broad,11-0000,11-9000,11-9130,Postmasters and Mail Superintendents,66,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9131,detailed,11-0000,11-9000,11-9130,Postmasters and Mail Superintendents,68,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9140,broad,11-0000,11-9000,11-9140,"Property, Real Estate, and Community Association Managers",69,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9141,detailed,11-0000,11-9000,11-9140,"Property, Real Estate, and Community Association Managers",70,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9150,broad,11-0000,11-9000,11-9150,Social and Community Service Managers,71,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9151,detailed,11-0000,11-9000,11-9150,Social and Community Service Managers,72,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9160,broad,11-0000,11-9000,11-9160,Emergency Management Directors,73,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9161,detailed,11-0000,11-9000,11-9160,Emergency Management Directors,74,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9170,broad,11-0000,11-9000,11-9170,Personal Service Managers,75,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9171,detailed,11-0000,11-9000,11-9170,Funeral Home Managers,76,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9179,detailed,11-0000,11-9000,11-9170,"Personal Service Managers, All Other",77,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9190,broad,11-0000,11-9000,11-9190,Miscellaneous Managers,78,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+11-9199,detailed,11-0000,11-9000,11-9190,"Managers, All Other",79,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-0000,major,13-0000,,,Business and Financial Operations Occupations,80,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1000,minor,13-0000,13-1000,,Business Operations Specialists,81,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1010,broad,13-0000,13-1000,13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",82,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1011,detailed,13-0000,13-1000,13-1010,"Agents and Business Managers of Artists, Performers, and Athletes",83,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1020,broad,13-0000,13-1000,13-1020,Buyers and Purchasing Agents,84,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1021,detailed,13-0000,13-1000,13-1020,"Buyers and Purchasing Agents, Farm Products",85,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1022,detailed,13-0000,13-1000,13-1020,"Wholesale and Retail Buyers, Except Farm Products",86,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1023,detailed,13-0000,13-1000,13-1020,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",87,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1030,broad,13-0000,13-1000,13-1030,"Claims Adjusters, Appraisers, Examiners, and Investigators",88,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1031,detailed,13-0000,13-1000,13-1030,"Claims Adjusters, Examiners, and Investigators",89,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1032,detailed,13-0000,13-1000,13-1030,"Insurance Appraisers, Auto Damage",90,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1040,broad,13-0000,13-1000,13-1040,Compliance Officers,91,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1041,detailed,13-0000,13-1000,13-1040,Compliance Officers,92,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1050,broad,13-0000,13-1000,13-1050,Cost Estimators,93,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1051,detailed,13-0000,13-1000,13-1050,Cost Estimators,94,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1070,broad,13-0000,13-1000,13-1070,Human Resources Workers,95,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1071,detailed,13-0000,13-1000,13-1070,Human Resources Specialists,96,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1074,detailed,13-0000,13-1000,13-1070,Farm Labor Contractors,97,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1075,detailed,13-0000,13-1000,13-1070,Labor Relations Specialists,98,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1080,broad,13-0000,13-1000,13-1080,Logisticians and Project Management Specialists,99,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1081,detailed,13-0000,13-1000,13-1080,Logisticians,100,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1082,detailed,13-0000,13-1000,13-1080,Project Management Specialists,101,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1110,broad,13-0000,13-1000,13-1110,Management Analysts,103,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1111,detailed,13-0000,13-1000,13-1110,Management Analysts,104,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1120,broad,13-0000,13-1000,13-1120,"Meeting, Convention, and Event Planners",105,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1121,detailed,13-0000,13-1000,13-1120,"Meeting, Convention, and Event Planners",106,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1130,broad,13-0000,13-1000,13-1130,Fundraisers,107,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1131,detailed,13-0000,13-1000,13-1130,Fundraisers,108,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1140,broad,13-0000,13-1000,13-1140,"Compensation, Benefits, and Job Analysis Specialists",109,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1141,detailed,13-0000,13-1000,13-1140,"Compensation, Benefits, and Job Analysis Specialists",110,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1150,broad,13-0000,13-1000,13-1150,Training and Development Specialists,111,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1151,detailed,13-0000,13-1000,13-1150,Training and Development Specialists,112,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1160,broad,13-0000,13-1000,13-1160,Market Research Analysts and Marketing Specialists,113,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1161,detailed,13-0000,13-1000,13-1160,Market Research Analysts and Marketing Specialists,114,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1190,broad,13-0000,13-1000,13-1190,Miscellaneous Business Operations Specialists,115,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-1199,detailed,13-0000,13-1000,13-1190,"Business Operations Specialists, All Other",116,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2000,minor,13-0000,13-2000,,Financial Specialists,117,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2010,broad,13-0000,13-2000,13-2010,Accountants and Auditors,118,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2011,detailed,13-0000,13-2000,13-2010,Accountants and Auditors,119,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2020,broad,13-0000,13-2000,13-2020,Property Appraisers and Assessors,120,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2022,detailed,13-0000,13-2000,13-2020,Appraisers of Personal and Business Property,121,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2023,detailed,13-0000,13-2000,13-2020,Appraisers and Assessors of Real Estate,122,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2030,broad,13-0000,13-2000,13-2030,Budget Analysts,123,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2031,detailed,13-0000,13-2000,13-2030,Budget Analysts,124,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2040,broad,13-0000,13-2000,13-2040,Credit Analysts,125,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2041,detailed,13-0000,13-2000,13-2040,Credit Analysts,126,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2050,broad,13-0000,13-2000,13-2050,Financial Analysts and Advisors,127,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2051,detailed,13-0000,13-2000,13-2050,Financial and Investment Analysts,128,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2052,detailed,13-0000,13-2000,13-2050,Personal Financial Advisors,129,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2053,detailed,13-0000,13-2000,13-2050,Insurance Underwriters,130,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2054,detailed,13-0000,13-2000,13-2050,Financial Risk Specialists,131,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2060,broad,13-0000,13-2000,13-2060,Financial Examiners,132,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2061,detailed,13-0000,13-2000,13-2060,Financial Examiners,133,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2070,broad,13-0000,13-2000,13-2070,Credit Counselors and Loan Officers,134,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2071,detailed,13-0000,13-2000,13-2070,Credit Counselors,135,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2072,detailed,13-0000,13-2000,13-2070,Loan Officers,136,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2080,broad,13-0000,13-2000,13-2080,"Tax Examiners, Collectors and Preparers, and Revenue Agents",138,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2081,detailed,13-0000,13-2000,13-2080,"Tax Examiners and Collectors, and Revenue Agents",139,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2082,detailed,13-0000,13-2000,13-2080,Tax Preparers,140,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2090,broad,13-0000,13-2000,13-2090,Miscellaneous Financial Specialists,141,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+13-2099,detailed,13-0000,13-2000,13-2090,"Financial Specialists, All Other",142,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-0000,major,15-0000,,,Computer and Mathematical Occupations,143,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1200,minor,15-0000,15-1200,,Computer Occupations,144,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1210,broad,15-0000,15-1200,15-1210,Computer and Information Analysts,145,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1211,detailed,15-0000,15-1200,15-1210,Computer Systems Analysts,146,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1212,detailed,15-0000,15-1200,15-1210,Information Security Analysts,147,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1220,broad,15-0000,15-1200,15-1220,Computer and Information Research Scientists,148,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1221,detailed,15-0000,15-1200,15-1220,Computer and Information Research Scientists,149,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1230,broad,15-0000,15-1200,15-1230,Computer Support Specialists,150,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1231,detailed,15-0000,15-1200,15-1230,Computer Network Support Specialists,151,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1232,detailed,15-0000,15-1200,15-1230,Computer User Support Specialists,152,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1240,broad,15-0000,15-1200,15-1240,Database and Network Administrators and Architects,153,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1241,detailed,15-0000,15-1200,15-1240,Computer Network Architects,154,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1242,detailed,15-0000,15-1200,15-1240,Database Administrators,155,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1243,detailed,15-0000,15-1200,15-1240,Database Architects,156,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1244,detailed,15-0000,15-1200,15-1240,Network and Computer Systems Administrators,157,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1250,broad,15-0000,15-1200,15-1250,"Software and Web Developers, Programmers, and Testers",158,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1251,detailed,15-0000,15-1200,15-1250,Computer Programmers,159,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1252,detailed,15-0000,15-1200,15-1250,Software Developers,160,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1253,detailed,15-0000,15-1200,15-1250,Software Quality Assurance Analysts and Testers,161,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1254,detailed,15-0000,15-1200,15-1250,Web Developers,162,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1255,detailed,15-0000,15-1200,15-1250,Web and Digital Interface Designers,163,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1290,broad,15-0000,15-1200,15-1290,Miscellaneous Computer Occupations,164,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-1299,detailed,15-0000,15-1200,15-1290,"Computer Occupations, All Other",165,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2000,minor,15-0000,15-2000,,Mathematical Science Occupations,166,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2010,broad,15-0000,15-2000,15-2010,Actuaries,167,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2011,detailed,15-0000,15-2000,15-2010,Actuaries,168,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2020,broad,15-0000,15-2000,15-2020,Mathematicians,169,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2021,detailed,15-0000,15-2000,15-2020,Mathematicians,170,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2030,broad,15-0000,15-2000,15-2030,Operations Research Analysts,171,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2031,detailed,15-0000,15-2000,15-2030,Operations Research Analysts,173,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2040,broad,15-0000,15-2000,15-2040,Statisticians,174,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2041,detailed,15-0000,15-2000,15-2040,Statisticians,175,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2050,broad,15-0000,15-2000,15-2050,Data Scientists,176,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2051,detailed,15-0000,15-2000,15-2050,Data Scientists,177,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2090,broad,15-0000,15-2000,15-2090,Miscellaneous Mathematical Science Occupations,178,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+15-2099,detailed,15-0000,15-2000,15-2090,"Mathematical Science Occupations, All Other",179,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-0000,major,17-0000,,,Architecture and Engineering Occupations,180,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-1000,minor,17-0000,17-1000,,"Architects, Surveyors, and Cartographers",181,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-1010,broad,17-0000,17-1000,17-1010,"Architects, Except Naval",182,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-1011,detailed,17-0000,17-1000,17-1010,"Architects, Except Landscape and Naval",183,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-1012,detailed,17-0000,17-1000,17-1010,Landscape Architects,184,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-1020,broad,17-0000,17-1000,17-1020,"Surveyors, Cartographers, and Photogrammetrists",185,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-1021,detailed,17-0000,17-1000,17-1020,Cartographers and Photogrammetrists,186,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-1022,detailed,17-0000,17-1000,17-1020,Surveyors,187,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2000,minor,17-0000,17-2000,,Engineers,188,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2010,broad,17-0000,17-2000,17-2010,Aerospace Engineers,189,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2011,detailed,17-0000,17-2000,17-2010,Aerospace Engineers,190,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2020,broad,17-0000,17-2000,17-2020,Agricultural Engineers,191,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2021,detailed,17-0000,17-2000,17-2020,Agricultural Engineers,192,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2030,broad,17-0000,17-2000,17-2030,Bioengineers and Biomedical Engineers,193,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2031,detailed,17-0000,17-2000,17-2030,Bioengineers and Biomedical Engineers,194,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2040,broad,17-0000,17-2000,17-2040,Chemical Engineers,195,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2041,detailed,17-0000,17-2000,17-2040,Chemical Engineers,196,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2050,broad,17-0000,17-2000,17-2050,Civil Engineers,197,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2051,detailed,17-0000,17-2000,17-2050,Civil Engineers,198,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2060,broad,17-0000,17-2000,17-2060,Computer Hardware Engineers,199,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2061,detailed,17-0000,17-2000,17-2060,Computer Hardware Engineers,200,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2070,broad,17-0000,17-2000,17-2070,Electrical and Electronics Engineers,201,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2071,detailed,17-0000,17-2000,17-2070,Electrical Engineers,202,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2072,detailed,17-0000,17-2000,17-2070,"Electronics Engineers, Except Computer",203,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2080,broad,17-0000,17-2000,17-2080,Environmental Engineers,204,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2081,detailed,17-0000,17-2000,17-2080,Environmental Engineers,205,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2110,broad,17-0000,17-2000,17-2110,"Industrial Engineers, Including Health and Safety",206,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2111,detailed,17-0000,17-2000,17-2110,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",208,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2112,detailed,17-0000,17-2000,17-2110,Industrial Engineers,209,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2120,broad,17-0000,17-2000,17-2120,Marine Engineers and Naval Architects,210,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2121,detailed,17-0000,17-2000,17-2120,Marine Engineers and Naval Architects,211,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2130,broad,17-0000,17-2000,17-2130,Materials Engineers,212,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2131,detailed,17-0000,17-2000,17-2130,Materials Engineers,213,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2140,broad,17-0000,17-2000,17-2140,Mechanical Engineers,214,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2141,detailed,17-0000,17-2000,17-2140,Mechanical Engineers,215,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2150,broad,17-0000,17-2000,17-2150,"Mining and Geological Engineers, Including Mining Safety Engineers",216,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2151,detailed,17-0000,17-2000,17-2150,"Mining and Geological Engineers, Including Mining Safety Engineers",217,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2160,broad,17-0000,17-2000,17-2160,Nuclear Engineers,218,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2161,detailed,17-0000,17-2000,17-2160,Nuclear Engineers,219,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2170,broad,17-0000,17-2000,17-2170,Petroleum Engineers,220,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2171,detailed,17-0000,17-2000,17-2170,Petroleum Engineers,221,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2190,broad,17-0000,17-2000,17-2190,Miscellaneous Engineers,222,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-2199,detailed,17-0000,17-2000,17-2190,"Engineers, All Other",223,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3000,minor,17-0000,17-3000,,"Drafters, Engineering Technicians, and Mapping Technicians",224,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3010,broad,17-0000,17-3000,17-3010,Drafters,225,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3011,detailed,17-0000,17-3000,17-3010,Architectural and Civil Drafters,226,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3012,detailed,17-0000,17-3000,17-3010,Electrical and Electronics Drafters,227,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3013,detailed,17-0000,17-3000,17-3010,Mechanical Drafters,228,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3019,detailed,17-0000,17-3000,17-3010,"Drafters, All Other",229,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3020,broad,17-0000,17-3000,17-3020,"Engineering Technologists and Technicians, Except Drafters",230,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3021,detailed,17-0000,17-3000,17-3020,Aerospace Engineering and Operations Technologists and Technicians,231,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3022,detailed,17-0000,17-3000,17-3020,Civil Engineering Technologists and Technicians,232,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3023,detailed,17-0000,17-3000,17-3020,Electrical and Electronic Engineering Technologists and Technicians,233,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3024,detailed,17-0000,17-3000,17-3020,Electro-Mechanical and Mechatronics Technologists and Technicians,234,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3025,detailed,17-0000,17-3000,17-3020,Environmental Engineering Technologists and Technicians,235,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3026,detailed,17-0000,17-3000,17-3020,Industrial Engineering Technologists and Technicians,236,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3027,detailed,17-0000,17-3000,17-3020,Mechanical Engineering Technologists and Technicians,237,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3028,detailed,17-0000,17-3000,17-3020,Calibration Technologists and Technicians,238,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3029,detailed,17-0000,17-3000,17-3020,"Engineering Technologists and Technicians, Except Drafters, All Other",239,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3030,broad,17-0000,17-3000,17-3030,Surveying and Mapping Technicians,240,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+17-3031,detailed,17-0000,17-3000,17-3030,Surveying and Mapping Technicians,241,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-0000,major,19-0000,,,"Life, Physical, and Social Science Occupations",243,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1000,minor,19-0000,19-1000,,Life Scientists,244,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1010,broad,19-0000,19-1000,19-1010,Agricultural and Food Scientists,245,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1011,detailed,19-0000,19-1000,19-1010,Animal Scientists,246,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1012,detailed,19-0000,19-1000,19-1010,Food Scientists and Technologists,247,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1013,detailed,19-0000,19-1000,19-1010,Soil and Plant Scientists,248,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1020,broad,19-0000,19-1000,19-1020,Biological Scientists,249,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1021,detailed,19-0000,19-1000,19-1020,Biochemists and Biophysicists,250,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1022,detailed,19-0000,19-1000,19-1020,Microbiologists,251,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1023,detailed,19-0000,19-1000,19-1020,Zoologists and Wildlife Biologists,252,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1029,detailed,19-0000,19-1000,19-1020,"Biological Scientists, All Other",253,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1030,broad,19-0000,19-1000,19-1030,Conservation Scientists and Foresters,254,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1031,detailed,19-0000,19-1000,19-1030,Conservation Scientists,255,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1032,detailed,19-0000,19-1000,19-1030,Foresters,256,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1040,broad,19-0000,19-1000,19-1040,Medical Scientists,257,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1041,detailed,19-0000,19-1000,19-1040,Epidemiologists,258,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1042,detailed,19-0000,19-1000,19-1040,"Medical Scientists, Except Epidemiologists",259,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1090,broad,19-0000,19-1000,19-1090,Miscellaneous Life Scientists,260,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-1099,detailed,19-0000,19-1000,19-1090,"Life Scientists, All Other",261,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2000,minor,19-0000,19-2000,,Physical Scientists,262,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2010,broad,19-0000,19-2000,19-2010,Astronomers and Physicists,263,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2011,detailed,19-0000,19-2000,19-2010,Astronomers,264,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2012,detailed,19-0000,19-2000,19-2010,Physicists,265,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2020,broad,19-0000,19-2000,19-2020,Atmospheric and Space Scientists,266,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2021,detailed,19-0000,19-2000,19-2020,Atmospheric and Space Scientists,267,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2030,broad,19-0000,19-2000,19-2030,Chemists and Materials Scientists,268,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2031,detailed,19-0000,19-2000,19-2030,Chemists,269,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2032,detailed,19-0000,19-2000,19-2030,Materials Scientists,270,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2040,broad,19-0000,19-2000,19-2040,Environmental Scientists and Geoscientists,271,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2041,detailed,19-0000,19-2000,19-2040,"Environmental Scientists and Specialists, Including Health",272,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2042,detailed,19-0000,19-2000,19-2040,"Geoscientists, Except Hydrologists and Geographers",273,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2043,detailed,19-0000,19-2000,19-2040,Hydrologists,274,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2090,broad,19-0000,19-2000,19-2090,Miscellaneous Physical Scientists,275,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-2099,detailed,19-0000,19-2000,19-2090,"Physical Scientists, All Other",276,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3000,minor,19-0000,19-3000,,Social Scientists and Related Workers,278,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3010,broad,19-0000,19-3000,19-3010,Economists,279,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3011,detailed,19-0000,19-3000,19-3010,Economists,280,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3020,broad,19-0000,19-3000,19-3020,Survey Researchers,281,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3022,detailed,19-0000,19-3000,19-3020,Survey Researchers,282,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3030,broad,19-0000,19-3000,19-3030,Psychologists,283,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3032,detailed,19-0000,19-3000,19-3030,Industrial-Organizational Psychologists,284,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3033,detailed,19-0000,19-3000,19-3030,Clinical and Counseling Psychologists,285,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3034,detailed,19-0000,19-3000,19-3030,School Psychologists,286,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3039,detailed,19-0000,19-3000,19-3030,"Psychologists, All Other",287,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3040,broad,19-0000,19-3000,19-3040,Sociologists,288,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3041,detailed,19-0000,19-3000,19-3040,Sociologists,289,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3050,broad,19-0000,19-3000,19-3050,Urban and Regional Planners,290,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3051,detailed,19-0000,19-3000,19-3050,Urban and Regional Planners,291,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3090,broad,19-0000,19-3000,19-3090,Miscellaneous Social Scientists and Related Workers,292,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3091,detailed,19-0000,19-3000,19-3090,Anthropologists and Archeologists,293,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3092,detailed,19-0000,19-3000,19-3090,Geographers,294,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3093,detailed,19-0000,19-3000,19-3090,Historians,295,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3094,detailed,19-0000,19-3000,19-3090,Political Scientists,296,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-3099,detailed,19-0000,19-3000,19-3090,"Social Scientists and Related Workers, All Other",297,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4000,minor,19-0000,19-4000,,"Life, Physical, and Social Science Technicians",298,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4010,broad,19-0000,19-4000,19-4010,Agricultural and Food Science Technicians,299,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4012,detailed,19-0000,19-4000,19-4010,Agricultural Technicians,300,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4013,detailed,19-0000,19-4000,19-4010,Food Science Technicians,301,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4020,broad,19-0000,19-4000,19-4020,Biological Technicians,302,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4021,detailed,19-0000,19-4000,19-4020,Biological Technicians,303,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4030,broad,19-0000,19-4000,19-4030,Chemical Technicians,304,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4031,detailed,19-0000,19-4000,19-4030,Chemical Technicians,305,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4040,broad,19-0000,19-4000,19-4040,Environmental Science and Geoscience Technicians,306,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4042,detailed,19-0000,19-4000,19-4040,"Environmental Science and Protection Technicians, Including Health",307,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4043,detailed,19-0000,19-4000,19-4040,"Geological Technicians, Except Hydrologic Technicians",308,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4044,detailed,19-0000,19-4000,19-4040,Hydrologic Technicians,309,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4050,broad,19-0000,19-4000,19-4050,Nuclear Technicians,310,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4051,detailed,19-0000,19-4000,19-4050,Nuclear Technicians,311,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4060,broad,19-0000,19-4000,19-4060,Social Science Research Assistants,313,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4061,detailed,19-0000,19-4000,19-4060,Social Science Research Assistants,314,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4070,broad,19-0000,19-4000,19-4070,Forest and Conservation Technicians,315,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4071,detailed,19-0000,19-4000,19-4070,Forest and Conservation Technicians,316,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4090,broad,19-0000,19-4000,19-4090,"Miscellaneous Life, Physical, and Social Science Technicians",317,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4092,detailed,19-0000,19-4000,19-4090,Forensic Science Technicians,318,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-4099,detailed,19-0000,19-4000,19-4090,"Life, Physical, and Social Science Technicians, All Other",319,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-5000,minor,19-0000,19-5000,,Occupational Health and Safety Specialists and Technicians,320,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-5010,broad,19-0000,19-5000,19-5010,Occupational Health and Safety Specialists and Technicians,321,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-5011,detailed,19-0000,19-5000,19-5010,Occupational Health and Safety Specialists,322,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+19-5012,detailed,19-0000,19-5000,19-5010,Occupational Health and Safety Technicians,323,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-0000,major,21-0000,,,Community and Social Service Occupations,324,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1000,minor,21-0000,21-1000,,"Counselors, Social Workers, and Other Community and Social Service Specialists",325,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1010,broad,21-0000,21-1000,21-1010,Counselors,326,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1011,detailed,21-0000,21-1000,21-1010,Substance Abuse and Behavioral Disorder Counselors,327,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1012,detailed,21-0000,21-1000,21-1010,"Educational, Guidance, and Career Counselors and Advisors",328,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1013,detailed,21-0000,21-1000,21-1010,Marriage and Family Therapists,329,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1014,detailed,21-0000,21-1000,21-1010,Mental Health Counselors,330,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1015,detailed,21-0000,21-1000,21-1010,Rehabilitation Counselors,331,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1019,detailed,21-0000,21-1000,21-1010,"Counselors, All Other",332,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1020,broad,21-0000,21-1000,21-1020,Social Workers,333,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1021,detailed,21-0000,21-1000,21-1020,"Child, Family, and School Social Workers",334,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1022,detailed,21-0000,21-1000,21-1020,Healthcare Social Workers,335,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1023,detailed,21-0000,21-1000,21-1020,Mental Health and Substance Abuse Social Workers,336,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1029,detailed,21-0000,21-1000,21-1020,"Social Workers, All Other",337,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1090,broad,21-0000,21-1000,21-1090,Miscellaneous Community and Social Service Specialists,338,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1091,detailed,21-0000,21-1000,21-1090,Health Education Specialists,339,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1092,detailed,21-0000,21-1000,21-1090,Probation Officers and Correctional Treatment Specialists,340,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1093,detailed,21-0000,21-1000,21-1090,Social and Human Service Assistants,341,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1094,detailed,21-0000,21-1000,21-1090,Community Health Workers,342,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-1099,detailed,21-0000,21-1000,21-1090,"Community and Social Service Specialists, All Other",343,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-2000,minor,21-0000,21-2000,,Religious Workers,344,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-2010,broad,21-0000,21-2000,21-2010,Clergy,345,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-2011,detailed,21-0000,21-2000,21-2010,Clergy,346,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-2020,broad,21-0000,21-2000,21-2020,"Directors, Religious Activities and Education",348,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-2021,detailed,21-0000,21-2000,21-2020,"Directors, Religious Activities and Education",349,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-2090,broad,21-0000,21-2000,21-2090,Miscellaneous Religious Workers,350,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+21-2099,detailed,21-0000,21-2000,21-2090,"Religious Workers, All Other",351,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-0000,major,23-0000,,,Legal Occupations,352,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-1000,minor,23-0000,23-1000,,"Lawyers, Judges, and Related Workers",353,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-1010,broad,23-0000,23-1000,23-1010,Lawyers and Judicial Law Clerks,354,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-1011,detailed,23-0000,23-1000,23-1010,Lawyers,355,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-1012,detailed,23-0000,23-1000,23-1010,Judicial Law Clerks,356,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-1020,broad,23-0000,23-1000,23-1020,"Judges, Magistrates, and Other Judicial Workers",357,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-1021,detailed,23-0000,23-1000,23-1020,"Administrative Law Judges, Adjudicators, and Hearing Officers",358,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-1022,detailed,23-0000,23-1000,23-1020,"Arbitrators, Mediators, and Conciliators",359,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-1023,detailed,23-0000,23-1000,23-1020,"Judges, Magistrate Judges, and Magistrates",360,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-2000,minor,23-0000,23-2000,,Legal Support Workers,361,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-2010,broad,23-0000,23-2000,23-2010,Paralegals and Legal Assistants,362,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-2011,detailed,23-0000,23-2000,23-2010,Paralegals and Legal Assistants,363,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-2090,broad,23-0000,23-2000,23-2090,Miscellaneous Legal Support Workers,364,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-2093,detailed,23-0000,23-2000,23-2090,"Title Examiners, Abstractors, and Searchers",365,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+23-2099,detailed,23-0000,23-2000,23-2090,"Legal Support Workers, All Other",366,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-0000,major,25-0000,,,Educational Instruction and Library Occupations,367,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1000,minor,25-0000,25-1000,,Postsecondary Teachers,368,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1010,broad,25-0000,25-1000,25-1010,"Business Teachers, Postsecondary",369,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1011,detailed,25-0000,25-1000,25-1010,"Business Teachers, Postsecondary",370,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1020,broad,25-0000,25-1000,25-1020,"Math and Computer Science Teachers, Postsecondary",371,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1021,detailed,25-0000,25-1000,25-1020,"Computer Science Teachers, Postsecondary",372,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1022,detailed,25-0000,25-1000,25-1020,"Mathematical Science Teachers, Postsecondary",373,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1030,broad,25-0000,25-1000,25-1030,"Engineering and Architecture Teachers, Postsecondary",374,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1031,detailed,25-0000,25-1000,25-1030,"Architecture Teachers, Postsecondary",375,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1032,detailed,25-0000,25-1000,25-1030,"Engineering Teachers, Postsecondary",376,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1040,broad,25-0000,25-1000,25-1040,"Life Sciences Teachers, Postsecondary",377,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1041,detailed,25-0000,25-1000,25-1040,"Agricultural Sciences Teachers, Postsecondary",378,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1042,detailed,25-0000,25-1000,25-1040,"Biological Science Teachers, Postsecondary",379,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1043,detailed,25-0000,25-1000,25-1040,"Forestry and Conservation Science Teachers, Postsecondary",380,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1050,broad,25-0000,25-1000,25-1050,"Physical Sciences Teachers, Postsecondary",381,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1051,detailed,25-0000,25-1000,25-1050,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",383,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1052,detailed,25-0000,25-1000,25-1050,"Chemistry Teachers, Postsecondary",384,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1053,detailed,25-0000,25-1000,25-1050,"Environmental Science Teachers, Postsecondary",385,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1054,detailed,25-0000,25-1000,25-1050,"Physics Teachers, Postsecondary",386,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1060,broad,25-0000,25-1000,25-1060,"Social Sciences Teachers, Postsecondary",387,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1061,detailed,25-0000,25-1000,25-1060,"Anthropology and Archeology Teachers, Postsecondary",388,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1062,detailed,25-0000,25-1000,25-1060,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",389,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1063,detailed,25-0000,25-1000,25-1060,"Economics Teachers, Postsecondary",390,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1064,detailed,25-0000,25-1000,25-1060,"Geography Teachers, Postsecondary",391,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1065,detailed,25-0000,25-1000,25-1060,"Political Science Teachers, Postsecondary",392,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1066,detailed,25-0000,25-1000,25-1060,"Psychology Teachers, Postsecondary",393,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1067,detailed,25-0000,25-1000,25-1060,"Sociology Teachers, Postsecondary",394,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1069,detailed,25-0000,25-1000,25-1060,"Social Sciences Teachers, Postsecondary, All Other",395,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1070,broad,25-0000,25-1000,25-1070,"Health Teachers, Postsecondary",396,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1071,detailed,25-0000,25-1000,25-1070,"Health Specialties Teachers, Postsecondary",397,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1072,detailed,25-0000,25-1000,25-1070,"Nursing Instructors and Teachers, Postsecondary",398,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1080,broad,25-0000,25-1000,25-1080,"Education and Library Science Teachers, Postsecondary",399,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1081,detailed,25-0000,25-1000,25-1080,"Education Teachers, Postsecondary",400,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1082,detailed,25-0000,25-1000,25-1080,"Library Science Teachers, Postsecondary",401,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1110,broad,25-0000,25-1000,25-1110,"Law, Criminal Justice, and Social Work Teachers, Postsecondary",402,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1111,detailed,25-0000,25-1000,25-1110,"Criminal Justice and Law Enforcement Teachers, Postsecondary",403,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1112,detailed,25-0000,25-1000,25-1110,"Law Teachers, Postsecondary",404,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1113,detailed,25-0000,25-1000,25-1110,"Social Work Teachers, Postsecondary",405,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1120,broad,25-0000,25-1000,25-1120,"Arts, Communications, History, and Humanities Teachers, Postsecondary",406,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1121,detailed,25-0000,25-1000,25-1120,"Art, Drama, and Music Teachers, Postsecondary",407,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1122,detailed,25-0000,25-1000,25-1120,"Communications Teachers, Postsecondary",408,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1123,detailed,25-0000,25-1000,25-1120,"English Language and Literature Teachers, Postsecondary",409,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1124,detailed,25-0000,25-1000,25-1120,"Foreign Language and Literature Teachers, Postsecondary",410,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1125,detailed,25-0000,25-1000,25-1120,"History Teachers, Postsecondary",411,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1126,detailed,25-0000,25-1000,25-1120,"Philosophy and Religion Teachers, Postsecondary",412,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1190,broad,25-0000,25-1000,25-1190,Miscellaneous Postsecondary Teachers,413,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1192,detailed,25-0000,25-1000,25-1190,"Family and Consumer Sciences Teachers, Postsecondary",414,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1193,detailed,25-0000,25-1000,25-1190,"Recreation and Fitness Studies Teachers, Postsecondary",415,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1194,detailed,25-0000,25-1000,25-1190,"Career/Technical Education Teachers, Postsecondary",416,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-1199,detailed,25-0000,25-1000,25-1190,,418,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2000,minor,25-0000,25-2000,,,419,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2010,broad,25-0000,25-2000,25-2010,,420,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2011,detailed,25-0000,25-2000,25-2010,,421,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2012,detailed,25-0000,25-2000,25-2010,,422,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2020,broad,25-0000,25-2000,25-2020,,423,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2021,detailed,25-0000,25-2000,25-2020,,424,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2022,detailed,25-0000,25-2000,25-2020,,425,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2023,detailed,25-0000,25-2000,25-2020,,426,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2030,broad,25-0000,25-2000,25-2030,,427,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2031,detailed,25-0000,25-2000,25-2030,,428,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2032,detailed,25-0000,25-2000,25-2030,,429,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2050,broad,25-0000,25-2000,25-2050,,430,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2051,detailed,25-0000,25-2000,25-2050,,431,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2055,detailed,25-0000,25-2000,25-2050,,432,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2056,detailed,25-0000,25-2000,25-2050,,433,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2057,detailed,25-0000,25-2000,25-2050,,434,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2058,detailed,25-0000,25-2000,25-2050,,435,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-2059,detailed,25-0000,25-2000,25-2050,,436,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-3000,minor,25-0000,25-3000,,,437,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-3010,broad,25-0000,25-3000,25-3010,,438,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-3011,detailed,25-0000,25-3000,25-3010,,439,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-3020,broad,25-0000,25-3000,25-3020,Self-Enrichment Teachers,464,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-3021,detailed,25-0000,25-3000,25-3020,Self-Enrichment Teachers,465,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-3030,broad,25-0000,25-3000,25-3030,"Substitute Teachers, Short-Term",466,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-3031,detailed,25-0000,25-3000,25-3030,"Substitute Teachers, Short-Term",467,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-3040,broad,25-0000,25-3000,25-3040,Tutors,468,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-3041,detailed,25-0000,25-3000,25-3040,Tutors,469,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-3090,broad,25-0000,25-3000,25-3090,Miscellaneous Teachers and Instructors,470,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-3099,detailed,25-0000,25-3000,25-3090,"Teachers and Instructors, All Other",471,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-4000,minor,25-0000,25-4000,,"Librarians, Curators, and Archivists",472,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-4010,broad,25-0000,25-4000,25-4010,"Archivists, Curators, and Museum Technicians",474,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-4011,detailed,25-0000,25-4000,25-4010,Archivists,475,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-4012,detailed,25-0000,25-4000,25-4010,Curators,476,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-4013,detailed,25-0000,25-4000,25-4010,Museum Technicians and Conservators,477,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-4020,broad,25-0000,25-4000,25-4020,Librarians and Media Collections Specialists,478,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-4022,detailed,25-0000,25-4000,25-4020,Librarians and Media Collections Specialists,479,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-4030,broad,25-0000,25-4000,25-4030,Library Technicians,480,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-4031,detailed,25-0000,25-4000,25-4030,Library Technicians,481,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9000,minor,25-0000,25-9000,,Other Educational Instruction and Library Occupations,482,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9020,broad,25-0000,25-9000,25-9020,Farm and Home Management Educators,483,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9021,detailed,25-0000,25-9000,25-9020,Farm and Home Management Educators,484,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9030,broad,25-0000,25-9000,25-9030,Instructional Coordinators,485,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9031,detailed,25-0000,25-9000,25-9030,Instructional Coordinators,486,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9040,broad,25-0000,25-9000,25-9040,Teaching Assistants,487,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9042,detailed,25-0000,25-9000,25-9040,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special",488,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9043,detailed,25-0000,25-9000,25-9040,"Teaching Assistants, Special Education",490,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9044,detailed,25-0000,25-9000,25-9040,"Teaching Assistants, Postsecondary",491,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9049,detailed,25-0000,25-9000,25-9040,"Teaching Assistants, All Other",492,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9090,broad,25-0000,25-9000,25-9090,Miscellaneous Educational Instruction and Library Workers,493,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+25-9099,detailed,25-0000,25-9000,25-9090,"Educational Instruction and Library Workers, All Other",494,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-0000,major,27-0000,,,"Arts, Design, Entertainment, Sports, and Media Occupations",495,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1000,minor,27-0000,27-1000,,Art and Design Workers,496,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1010,broad,27-0000,27-1000,27-1010,Artists and Related Workers,497,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1011,detailed,27-0000,27-1000,27-1010,Art Directors,498,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1012,detailed,27-0000,27-1000,27-1010,Craft Artists,499,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1013,detailed,27-0000,27-1000,27-1010,"Fine Artists, Including Painters, Sculptors, and Illustrators",500,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1014,detailed,27-0000,27-1000,27-1010,Special Effects Artists and Animators,501,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1019,detailed,27-0000,27-1000,27-1010,"Artists and Related Workers, All Other",502,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1020,broad,27-0000,27-1000,27-1020,Designers,503,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1021,detailed,27-0000,27-1000,27-1020,Commercial and Industrial Designers,504,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1022,detailed,27-0000,27-1000,27-1020,Fashion Designers,505,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1023,detailed,27-0000,27-1000,27-1020,Floral Designers,506,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1024,detailed,27-0000,27-1000,27-1020,Graphic Designers,507,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1025,detailed,27-0000,27-1000,27-1020,Interior Designers,509,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1026,detailed,27-0000,27-1000,27-1020,Merchandise Displayers and Window Trimmers,510,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1027,detailed,27-0000,27-1000,27-1020,Set and Exhibit Designers,511,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-1029,detailed,27-0000,27-1000,27-1020,"Designers, All Other",512,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2000,minor,27-0000,27-2000,,"Entertainers and Performers, Sports and Related Workers",513,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2010,broad,27-0000,27-2000,27-2010,"Actors, Producers, and Directors",514,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2011,detailed,27-0000,27-2000,27-2010,Actors,515,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2012,detailed,27-0000,27-2000,27-2010,Producers and Directors,516,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2020,broad,27-0000,27-2000,27-2020,"Athletes, Coaches, Umpires, and Related Workers",517,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2021,detailed,27-0000,27-2000,27-2020,Athletes and Sports Competitors,518,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2022,detailed,27-0000,27-2000,27-2020,Coaches and Scouts,519,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2023,detailed,27-0000,27-2000,27-2020,"Umpires, Referees, and Other Sports Officials",520,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2030,broad,27-0000,27-2000,27-2030,Dancers and Choreographers,521,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2031,detailed,27-0000,27-2000,27-2030,Dancers,522,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2032,detailed,27-0000,27-2000,27-2030,Choreographers,523,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2040,broad,27-0000,27-2000,27-2040,"Musicians, Singers, and Related Workers",524,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2041,detailed,27-0000,27-2000,27-2040,Music Directors and Composers,525,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2042,detailed,27-0000,27-2000,27-2040,Musicians and Singers,526,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2090,broad,27-0000,27-2000,27-2090,"Miscellaneous Entertainers and Performers, Sports and Related Workers",527,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2091,detailed,27-0000,27-2000,27-2090,"Disc Jockeys, Except Radio",528,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-2099,detailed,27-0000,27-2000,27-2090,"Entertainers and Performers, Sports and Related Workers, All Other",529,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3000,minor,27-0000,27-3000,,Media and Communication Workers,530,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3010,broad,27-0000,27-3000,27-3010,Broadcast Announcers and Radio Disc Jockeys,531,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3011,detailed,27-0000,27-3000,27-3010,Broadcast Announcers and Radio Disc Jockeys,532,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3020,broad,27-0000,27-3000,27-3020,"News Analysts, Reporters and Journalists",533,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3023,detailed,27-0000,27-3000,27-3020,"News Analysts, Reporters, and Journalists",534,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3030,broad,27-0000,27-3000,27-3030,Public Relations Specialists,535,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3031,detailed,27-0000,27-3000,27-3030,Public Relations Specialists,536,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3040,broad,27-0000,27-3000,27-3040,Writers and Editors,537,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3041,detailed,27-0000,27-3000,27-3040,Editors,538,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3042,detailed,27-0000,27-3000,27-3040,Technical Writers,539,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3043,detailed,27-0000,27-3000,27-3040,Writers and Authors,540,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3090,broad,27-0000,27-3000,27-3090,Miscellaneous Media and Communication Workers,541,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3091,detailed,27-0000,27-3000,27-3090,Interpreters and Translators,542,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3092,detailed,27-0000,27-3000,27-3090,Court Reporters and Simultaneous Captioners,544,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-3099,detailed,27-0000,27-3000,27-3090,"Media and Communication Workers, All Other",545,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4000,minor,27-0000,27-4000,,Media and Communication Equipment Workers,546,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4010,broad,27-0000,27-4000,27-4010,"Broadcast, Sound, and Lighting Technicians",547,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4011,detailed,27-0000,27-4000,27-4010,Audio and Video Technicians,548,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4012,detailed,27-0000,27-4000,27-4010,Broadcast Technicians,549,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4014,detailed,27-0000,27-4000,27-4010,Sound Engineering Technicians,550,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4015,detailed,27-0000,27-4000,27-4010,Lighting Technicians,551,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4020,broad,27-0000,27-4000,27-4020,Photographers,552,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4021,detailed,27-0000,27-4000,27-4020,Photographers,553,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4030,broad,27-0000,27-4000,27-4030,"Television, Video, and Film Camera Operators and Editors",554,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4031,detailed,27-0000,27-4000,27-4030,"Camera Operators, Television, Video, and Film",555,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4032,detailed,27-0000,27-4000,27-4030,Film and Video Editors,556,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4090,broad,27-0000,27-4000,27-4090,Miscellaneous Media and Communication Equipment Workers,557,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+27-4099,detailed,27-0000,27-4000,27-4090,"Media and Communication Equipment Workers, All Other",558,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-0000,major,29-0000,,,Healthcare Practitioners and Technical Occupations,559,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1000,minor,29-0000,29-1000,,Healthcare Diagnosing or Treating Practitioners,560,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1010,broad,29-0000,29-1000,29-1010,Chiropractors,561,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1011,detailed,29-0000,29-1000,29-1010,Chiropractors,562,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1020,broad,29-0000,29-1000,29-1020,Dentists,563,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1021,detailed,29-0000,29-1000,29-1020,"Dentists, General",564,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1022,detailed,29-0000,29-1000,29-1020,Oral and Maxillofacial Surgeons,565,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1023,detailed,29-0000,29-1000,29-1020,Orthodontists,566,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1024,detailed,29-0000,29-1000,29-1020,Prosthodontists,567,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1029,detailed,29-0000,29-1000,29-1020,"Dentists, All Other Specialists",568,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1030,broad,29-0000,29-1000,29-1030,Dietitians and Nutritionists,569,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1031,detailed,29-0000,29-1000,29-1030,Dietitians and Nutritionists,570,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1040,broad,29-0000,29-1000,29-1040,Optometrists,571,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1041,detailed,29-0000,29-1000,29-1040,Optometrists,572,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1050,broad,29-0000,29-1000,29-1050,Pharmacists,573,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1051,detailed,29-0000,29-1000,29-1050,Pharmacists,574,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1070,broad,29-0000,29-1000,29-1070,Physician Assistants,575,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1071,detailed,29-0000,29-1000,29-1070,Physician Assistants,576,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1080,broad,29-0000,29-1000,29-1080,Podiatrists,577,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1081,detailed,29-0000,29-1000,29-1080,Podiatrists,579,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1120,broad,29-0000,29-1000,29-1120,Therapists,580,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1122,detailed,29-0000,29-1000,29-1120,Occupational Therapists,581,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1123,detailed,29-0000,29-1000,29-1120,Physical Therapists,582,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1124,detailed,29-0000,29-1000,29-1120,Radiation Therapists,583,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1125,detailed,29-0000,29-1000,29-1120,Recreational Therapists,584,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1126,detailed,29-0000,29-1000,29-1120,Respiratory Therapists,585,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1127,detailed,29-0000,29-1000,29-1120,Speech-Language Pathologists,586,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1128,detailed,29-0000,29-1000,29-1120,Exercise Physiologists,587,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1129,detailed,29-0000,29-1000,29-1120,"Therapists, All Other",588,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1130,broad,29-0000,29-1000,29-1130,Veterinarians,589,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1131,detailed,29-0000,29-1000,29-1130,Veterinarians,590,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1140,broad,29-0000,29-1000,29-1140,Registered Nurses,591,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1141,detailed,29-0000,29-1000,29-1140,Registered Nurses,592,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1150,broad,29-0000,29-1000,29-1150,Nurse Anesthetists,593,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1151,detailed,29-0000,29-1000,29-1150,Nurse Anesthetists,594,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1160,broad,29-0000,29-1000,29-1160,Nurse Midwives,595,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1161,detailed,29-0000,29-1000,29-1160,Nurse Midwives,596,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1170,broad,29-0000,29-1000,29-1170,Nurse Practitioners,597,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1171,detailed,29-0000,29-1000,29-1170,Nurse Practitioners,598,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1180,broad,29-0000,29-1000,29-1180,Audiologists,599,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1181,detailed,29-0000,29-1000,29-1180,Audiologists,600,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1210,broad,29-0000,29-1000,29-1210,Physicians,601,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1211,detailed,29-0000,29-1000,29-1210,Anesthesiologists,602,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1212,detailed,29-0000,29-1000,29-1210,Cardiologists,603,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1213,detailed,29-0000,29-1000,29-1210,Dermatologists,604,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1214,detailed,29-0000,29-1000,29-1210,Emergency Medicine Physicians,605,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1215,detailed,29-0000,29-1000,29-1210,Family Medicine Physicians,606,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1216,detailed,29-0000,29-1000,29-1210,General Internal Medicine Physicians,607,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1217,detailed,29-0000,29-1000,29-1210,Neurologists,608,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1218,detailed,29-0000,29-1000,29-1210,Obstetricians and Gynecologists,609,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1221,detailed,29-0000,29-1000,29-1210,"Pediatricians, General",610,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1222,detailed,29-0000,29-1000,29-1210,"Physicians, Pathologists",611,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1223,detailed,29-0000,29-1000,29-1210,Psychiatrists,612,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1224,detailed,29-0000,29-1000,29-1210,Radiologists,614,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1229,detailed,29-0000,29-1000,29-1210,"Physicians, All Other",615,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1240,broad,29-0000,29-1000,29-1240,Surgeons,616,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1241,detailed,29-0000,29-1000,29-1240,"Ophthalmologists, Except Pediatric",617,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1242,detailed,29-0000,29-1000,29-1240,"Orthopedic Surgeons, Except Pediatric",618,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1243,detailed,29-0000,29-1000,29-1240,Pediatric Surgeons,619,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1249,detailed,29-0000,29-1000,29-1240,"Surgeons, All Other",620,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1290,broad,29-0000,29-1000,29-1290,Miscellaneous Healthcare Diagnosing or Treating Practitioners,621,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1291,detailed,29-0000,29-1000,29-1290,Acupuncturists,622,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1292,detailed,29-0000,29-1000,29-1290,Dental Hygienists,623,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-1299,detailed,29-0000,29-1000,29-1290,"Healthcare Diagnosing or Treating Practitioners, All Other",624,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2000,minor,29-0000,29-2000,,Health Technologists and Technicians,625,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2010,broad,29-0000,29-2000,29-2010,Clinical Laboratory Technologists and Technicians,626,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2011,detailed,29-0000,29-2000,29-2010,Medical and Clinical Laboratory Technologists,627,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2012,detailed,29-0000,29-2000,29-2010,Medical and Clinical Laboratory Technicians,628,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2030,broad,29-0000,29-2000,29-2030,Diagnostic Related Technologists and Technicians,629,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2031,detailed,29-0000,29-2000,29-2030,Cardiovascular Technologists and Technicians,630,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2032,detailed,29-0000,29-2000,29-2030,Diagnostic Medical Sonographers,631,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2033,detailed,29-0000,29-2000,29-2030,Nuclear Medicine Technologists,632,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2034,detailed,29-0000,29-2000,29-2030,Radiologic Technologists and Technicians,633,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2035,detailed,29-0000,29-2000,29-2030,Magnetic Resonance Imaging Technologists,634,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2036,detailed,29-0000,29-2000,29-2030,Medical Dosimetrists,635,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2040,broad,29-0000,29-2000,29-2040,Emergency Medical Technicians and Paramedics,636,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2042,detailed,29-0000,29-2000,29-2040,Emergency Medical Technicians,637,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2043,detailed,29-0000,29-2000,29-2040,Paramedics,638,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2050,broad,29-0000,29-2000,29-2050,Health Practitioner Support Technologists and Technicians,639,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2051,detailed,29-0000,29-2000,29-2050,Dietetic Technicians,640,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2052,detailed,29-0000,29-2000,29-2050,Pharmacy Technicians,641,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2053,detailed,29-0000,29-2000,29-2050,Psychiatric Technicians,642,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2055,detailed,29-0000,29-2000,29-2050,Surgical Technologists,643,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2056,detailed,29-0000,29-2000,29-2050,Veterinary Technologists and Technicians,644,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2057,detailed,29-0000,29-2000,29-2050,Ophthalmic Medical Technicians,645,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2060,broad,29-0000,29-2000,29-2060,Licensed Practical and Licensed Vocational Nurses,646,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2061,detailed,29-0000,29-2000,29-2060,Licensed Practical and Licensed Vocational Nurses,647,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2070,broad,29-0000,29-2000,29-2070,Medical Records Specialists,649,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2072,detailed,29-0000,29-2000,29-2070,Medical Records Specialists,650,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2080,broad,29-0000,29-2000,29-2080,"Opticians, Dispensing",651,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2081,detailed,29-0000,29-2000,29-2080,"Opticians, Dispensing",652,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2090,broad,29-0000,29-2000,29-2090,Miscellaneous Health Technologists and Technicians,653,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2091,detailed,29-0000,29-2000,29-2090,Orthotists and Prosthetists,654,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2092,detailed,29-0000,29-2000,29-2090,Hearing Aid Specialists,655,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-2099,detailed,29-0000,29-2000,29-2090,"Health Technologists and Technicians, All Other",656,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-9000,minor,29-0000,29-9000,,Other Healthcare Practitioners and Technical Occupations,657,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-9020,broad,29-0000,29-9000,29-9020,Health Information Technologists and Medical Registrars,658,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-9021,detailed,29-0000,29-9000,29-9020,Health Information Technologists and Medical Registrars,659,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-9090,broad,29-0000,29-9000,29-9090,Miscellaneous Health Practitioners and Technical Workers,660,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-9091,detailed,29-0000,29-9000,29-9090,Athletic Trainers,661,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-9092,detailed,29-0000,29-9000,29-9090,Genetic Counselors,662,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-9093,detailed,29-0000,29-9000,29-9090,Surgical Assistants,663,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+29-9099,detailed,29-0000,29-9000,29-9090,"Healthcare Practitioners and Technical Workers, All Other",664,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-0000,major,31-0000,,,Healthcare Support Occupations,665,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-1100,minor,31-0000,31-1100,,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric",666,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-1120,broad,31-0000,31-1100,31-1120,Home Health and Personal Care Aides,667,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-1121,detailed,31-0000,31-1100,31-1120,Home Health Aides,668,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-1122,detailed,31-0000,31-1100,31-1120,Personal Care Aides,669,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-1130,broad,31-0000,31-1100,31-1130,"Nursing Assistants, Orderlies, and Psychiatric Aides",670,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-1131,detailed,31-0000,31-1100,31-1130,Nursing Assistants,671,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-1132,detailed,31-0000,31-1100,31-1130,Orderlies,672,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-1133,detailed,31-0000,31-1100,31-1130,Psychiatric Aides,673,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-2000,minor,31-0000,31-2000,,Occupational Therapy and Physical Therapist Assistants and Aides,674,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-2010,broad,31-0000,31-2000,31-2010,Occupational Therapy Assistants and Aides,675,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-2011,detailed,31-0000,31-2000,31-2010,Occupational Therapy Assistants,676,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-2012,detailed,31-0000,31-2000,31-2010,Occupational Therapy Aides,677,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-2020,broad,31-0000,31-2000,31-2020,Physical Therapist Assistants and Aides,678,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-2021,detailed,31-0000,31-2000,31-2020,Physical Therapist Assistants,679,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-2022,detailed,31-0000,31-2000,31-2020,Physical Therapist Aides,680,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9000,minor,31-0000,31-9000,,Other Healthcare Support Occupations,681,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9010,broad,31-0000,31-9000,31-9010,Massage Therapists,682,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9011,detailed,31-0000,31-9000,31-9010,Massage Therapists,684,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9090,broad,31-0000,31-9000,31-9090,Miscellaneous Healthcare Support Occupations,685,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9091,detailed,31-0000,31-9000,31-9090,Dental Assistants,686,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9092,detailed,31-0000,31-9000,31-9090,Medical Assistants,687,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9093,detailed,31-0000,31-9000,31-9090,Medical Equipment Preparers,688,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9094,detailed,31-0000,31-9000,31-9090,Medical Transcriptionists,689,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9095,detailed,31-0000,31-9000,31-9090,Pharmacy Aides,690,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9096,detailed,31-0000,31-9000,31-9090,Veterinary Assistants and Laboratory Animal Caretakers,691,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9097,detailed,31-0000,31-9000,31-9090,Phlebotomists,692,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+31-9099,detailed,31-0000,31-9000,31-9090,"Healthcare Support Workers, All Other",693,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-0000,major,33-0000,,,Protective Service Occupations,694,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-1000,minor,33-0000,33-1000,,Supervisors of Protective Service Workers,695,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-1010,broad,33-0000,33-1000,33-1010,First-Line Supervisors of Law Enforcement Workers,696,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-1011,detailed,33-0000,33-1000,33-1010,First-Line Supervisors of Correctional Officers,697,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-1012,detailed,33-0000,33-1000,33-1010,First-Line Supervisors of Police and Detectives,698,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-1020,broad,33-0000,33-1000,33-1020,First-Line Supervisors of Firefighting and Prevention Workers,699,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-1021,detailed,33-0000,33-1000,33-1020,First-Line Supervisors of Firefighting and Prevention Workers,700,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-1090,broad,33-0000,33-1000,33-1090,"Miscellaneous First-Line Supervisors, Protective Service Workers",701,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-1091,detailed,33-0000,33-1000,33-1090,First-Line Supervisors of Security Workers,702,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-1099,detailed,33-0000,33-1000,33-1090,"First-Line Supervisors of Protective Service Workers, All Other",703,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-2000,minor,33-0000,33-2000,,Firefighting and Prevention Workers,704,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-2010,broad,33-0000,33-2000,33-2010,Firefighters,705,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-2011,detailed,33-0000,33-2000,33-2010,Firefighters,706,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-2020,broad,33-0000,33-2000,33-2020,Fire Inspectors,707,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-2021,detailed,33-0000,33-2000,33-2020,Fire Inspectors and Investigators,708,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-2022,detailed,33-0000,33-2000,33-2020,Forest Fire Inspectors and Prevention Specialists,709,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3000,minor,33-0000,33-3000,,Law Enforcement Workers,710,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3010,broad,33-0000,33-3000,33-3010,"Bailiffs, Correctional Officers, and Jailers",711,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3011,detailed,33-0000,33-3000,33-3010,Bailiffs,712,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3012,detailed,33-0000,33-3000,33-3010,Correctional Officers and Jailers,713,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3020,broad,33-0000,33-3000,33-3020,Detectives and Criminal Investigators,714,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3021,detailed,33-0000,33-3000,33-3020,Detectives and Criminal Investigators,715,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3030,broad,33-0000,33-3000,33-3030,Fish and Game Wardens,716,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3031,detailed,33-0000,33-3000,33-3030,Fish and Game Wardens,717,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3040,broad,33-0000,33-3000,33-3040,Parking Enforcement Workers,719,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3041,detailed,33-0000,33-3000,33-3040,Parking Enforcement Workers,720,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3050,broad,33-0000,33-3000,33-3050,Police Officers,721,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3051,detailed,33-0000,33-3000,33-3050,Police and Sheriff’s Patrol Officers,722,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-3052,detailed,33-0000,33-3000,33-3050,Transit and Railroad Police,723,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9000,minor,33-0000,33-9000,,Other Protective Service Workers,724,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9010,broad,33-0000,33-9000,33-9010,Animal Control Workers,725,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9011,detailed,33-0000,33-9000,33-9010,Animal Control Workers,726,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9020,broad,33-0000,33-9000,33-9020,Private Detectives and Investigators,727,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9021,detailed,33-0000,33-9000,33-9020,Private Detectives and Investigators,728,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9030,broad,33-0000,33-9000,33-9030,Security Guards and Gambling Surveillance Officers,729,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9031,detailed,33-0000,33-9000,33-9030,Gambling Surveillance Officers and Gambling Investigators,730,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9032,detailed,33-0000,33-9000,33-9030,Security Guards,731,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9090,broad,33-0000,33-9000,33-9090,Miscellaneous Protective Service Workers,732,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9091,detailed,33-0000,33-9000,33-9090,Crossing Guards and Flaggers,733,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9092,detailed,33-0000,33-9000,33-9090,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",734,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9093,detailed,33-0000,33-9000,33-9090,Transportation Security Screeners,735,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9094,detailed,33-0000,33-9000,33-9090,School Bus Monitors,736,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+33-9099,detailed,33-0000,33-9000,33-9090,"Protective Service Workers, All Other",737,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-0000,major,35-0000,,,Food Preparation and Serving Related Occupations,738,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-1000,minor,35-0000,35-1000,,Supervisors of Food Preparation and Serving Workers,739,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-1010,broad,35-0000,35-1000,35-1010,Supervisors of Food Preparation and Serving Workers,740,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-1011,detailed,35-0000,35-1000,35-1010,Chefs and Head Cooks,741,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-1012,detailed,35-0000,35-1000,35-1010,First-Line Supervisors of Food Preparation and Serving Workers,742,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-2000,minor,35-0000,35-2000,,Cooks and Food Preparation Workers,743,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-2010,broad,35-0000,35-2000,35-2010,Cooks,744,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-2011,detailed,35-0000,35-2000,35-2010,"Cooks, Fast Food",745,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-2012,detailed,35-0000,35-2000,35-2010,"Cooks, Institution and Cafeteria",746,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-2013,detailed,35-0000,35-2000,35-2010,"Cooks, Private Household",747,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-2014,detailed,35-0000,35-2000,35-2010,"Cooks, Restaurant",748,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-2015,detailed,35-0000,35-2000,35-2010,"Cooks, Short Order",749,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-2019,detailed,35-0000,35-2000,35-2010,"Cooks, All Other",750,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-2020,broad,35-0000,35-2000,35-2020,Food Preparation Workers,751,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-2021,detailed,35-0000,35-2000,35-2020,Food Preparation Workers,752,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-3000,minor,35-0000,35-3000,,Food and Beverage Serving Workers,754,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-3010,broad,35-0000,35-3000,35-3010,Bartenders,755,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-3011,detailed,35-0000,35-3000,35-3010,Bartenders,756,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-3020,broad,35-0000,35-3000,35-3020,Fast Food and Counter Workers,757,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-3023,detailed,35-0000,35-3000,35-3020,Fast Food and Counter Workers,758,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-3030,broad,35-0000,35-3000,35-3030,Waiters and Waitresses,759,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-3031,detailed,35-0000,35-3000,35-3030,Waiters and Waitresses,760,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-3040,broad,35-0000,35-3000,35-3040,"Food Servers, Nonrestaurant",761,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-3041,detailed,35-0000,35-3000,35-3040,"Food Servers, Nonrestaurant",762,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-9000,minor,35-0000,35-9000,,Other Food Preparation and Serving Related Workers,763,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-9010,broad,35-0000,35-9000,35-9010,Dining Room and Cafeteria Attendants and Bartender Helpers,764,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-9011,detailed,35-0000,35-9000,35-9010,Dining Room and Cafeteria Attendants and Bartender Helpers,765,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-9020,broad,35-0000,35-9000,35-9020,Dishwashers,766,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-9021,detailed,35-0000,35-9000,35-9020,Dishwashers,767,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-9030,broad,35-0000,35-9000,35-9030,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",768,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-9031,detailed,35-0000,35-9000,35-9030,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",769,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-9090,broad,35-0000,35-9000,35-9090,Miscellaneous Food Preparation and Serving Related Workers,770,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+35-9099,detailed,35-0000,35-9000,35-9090,"Food Preparation and Serving Related Workers, All Other",771,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-0000,major,37-0000,,,Building and Grounds Cleaning and Maintenance Occupations,772,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-1000,minor,37-0000,37-1000,,Supervisors of Building and Grounds Cleaning and Maintenance Workers,773,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-1010,broad,37-0000,37-1000,37-1010,First-Line Supervisors of Building and Grounds Cleaning and Maintenance Workers,774,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-1011,detailed,37-0000,37-1000,37-1010,First-Line Supervisors of Housekeeping and Janitorial Workers,775,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-1012,detailed,37-0000,37-1000,37-1010,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",776,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-2000,minor,37-0000,37-2000,,Building Cleaning and Pest Control Workers,777,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-2010,broad,37-0000,37-2000,37-2010,Building Cleaning Workers,778,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-2011,detailed,37-0000,37-2000,37-2010,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",779,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-2012,detailed,37-0000,37-2000,37-2010,Maids and Housekeeping Cleaners,780,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-2019,detailed,37-0000,37-2000,37-2010,"Building Cleaning Workers, All Other",781,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-2020,broad,37-0000,37-2000,37-2020,Pest Control Workers,782,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-2021,detailed,37-0000,37-2000,37-2020,Pest Control Workers,783,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-3000,minor,37-0000,37-3000,,Grounds Maintenance Workers,784,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-3010,broad,37-0000,37-3000,37-3010,Grounds Maintenance Workers,785,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-3011,detailed,37-0000,37-3000,37-3010,Landscaping and Groundskeeping Workers,786,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-3012,detailed,37-0000,37-3000,37-3010,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",787,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-3013,detailed,37-0000,37-3000,37-3010,Tree Trimmers and Pruners,789,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+37-3019,detailed,37-0000,37-3000,37-3010,"Grounds Maintenance Workers, All Other",790,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-0000,major,39-0000,,,Personal Care and Service Occupations,791,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-1000,minor,39-0000,39-1000,,Supervisors of Personal Care and Service Workers,792,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-1010,broad,39-0000,39-1000,39-1010,First-Line Supervisors of Entertainment and Recreation Workers,793,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-1013,detailed,39-0000,39-1000,39-1010,First-Line Supervisors of Gambling Services Workers,794,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-1014,detailed,39-0000,39-1000,39-1010,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",795,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-1020,broad,39-0000,39-1000,39-1020,First-Line Supervisors of Personal Service Workers,796,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-1022,detailed,39-0000,39-1000,39-1020,First-Line Supervisors of Personal Service Workers,797,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-2000,minor,39-0000,39-2000,,Animal Care and Service Workers,798,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-2010,broad,39-0000,39-2000,39-2010,Animal Trainers,799,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-2011,detailed,39-0000,39-2000,39-2010,Animal Trainers,800,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-2020,broad,39-0000,39-2000,39-2020,Animal Caretakers,801,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-2021,detailed,39-0000,39-2000,39-2020,Animal Caretakers,802,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3000,minor,39-0000,39-3000,,Entertainment Attendants and Related Workers,803,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3010,broad,39-0000,39-3000,39-3010,Gambling Services Workers,804,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3011,detailed,39-0000,39-3000,39-3010,Gambling Dealers,805,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3012,detailed,39-0000,39-3000,39-3010,Gambling and Sports Book Writers and Runners,806,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3019,detailed,39-0000,39-3000,39-3010,"Gambling Service Workers, All Other",807,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3020,broad,39-0000,39-3000,39-3020,Motion Picture Projectionists,808,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3021,detailed,39-0000,39-3000,39-3020,Motion Picture Projectionists,809,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3030,broad,39-0000,39-3000,39-3030,"Ushers, Lobby Attendants, and Ticket Takers",810,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3031,detailed,39-0000,39-3000,39-3030,"Ushers, Lobby Attendants, and Ticket Takers",811,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3090,broad,39-0000,39-3000,39-3090,Miscellaneous Entertainment Attendants and Related Workers,812,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3091,detailed,39-0000,39-3000,39-3090,Amusement and Recreation Attendants,813,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3092,detailed,39-0000,39-3000,39-3090,Costume Attendants,814,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3093,detailed,39-0000,39-3000,39-3090,"Locker Room, Coatroom, and Dressing Room Attendants",815,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-3099,detailed,39-0000,39-3000,39-3090,"Entertainment Attendants and Related Workers, All Other",816,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-4000,minor,39-0000,39-4000,,Funeral Service Workers,817,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-4010,broad,39-0000,39-4000,39-4010,Embalmers and Crematory Operators,818,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-4011,detailed,39-0000,39-4000,39-4010,Embalmers,819,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-4012,detailed,39-0000,39-4000,39-4010,Crematory Operators,820,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-4020,broad,39-0000,39-4000,39-4020,Funeral Attendants,821,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-4021,detailed,39-0000,39-4000,39-4020,Funeral Attendants,822,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-4030,broad,39-0000,39-4000,39-4030,"Morticians, Undertakers, and Funeral Arrangers",824,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-4031,detailed,39-0000,39-4000,39-4030,"Morticians, Undertakers, and Funeral Arrangers",825,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-5000,minor,39-0000,39-5000,,Personal Appearance Workers,826,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-5010,broad,39-0000,39-5000,39-5010,"Barbers, Hairdressers, Hairstylists and Cosmetologists",827,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-5011,detailed,39-0000,39-5000,39-5010,Barbers,828,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-5012,detailed,39-0000,39-5000,39-5010,"Hairdressers, Hairstylists, and Cosmetologists",829,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-5090,broad,39-0000,39-5000,39-5090,Miscellaneous Personal Appearance Workers,830,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-5091,detailed,39-0000,39-5000,39-5090,"Makeup Artists, Theatrical and Performance",831,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-5092,detailed,39-0000,39-5000,39-5090,Manicurists and Pedicurists,832,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-5093,detailed,39-0000,39-5000,39-5090,Shampooers,833,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-5094,detailed,39-0000,39-5000,39-5090,Skincare Specialists,834,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-6000,minor,39-0000,39-6000,,"Baggage Porters, Bellhops, and Concierges",835,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-6010,broad,39-0000,39-6000,39-6010,"Baggage Porters, Bellhops, and Concierges",836,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-6011,detailed,39-0000,39-6000,39-6010,Baggage Porters and Bellhops,837,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-6012,detailed,39-0000,39-6000,39-6010,Concierges,838,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-7000,minor,39-0000,39-7000,,Tour and Travel Guides,839,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-7010,broad,39-0000,39-7000,39-7010,Tour and Travel Guides,840,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-7011,detailed,39-0000,39-7000,39-7010,Tour Guides and Escorts,841,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-7012,detailed,39-0000,39-7000,39-7010,Travel Guides,842,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-9000,minor,39-0000,39-9000,,Other Personal Care and Service Workers,843,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-9010,broad,39-0000,39-9000,39-9010,Childcare Workers,844,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-9011,detailed,39-0000,39-9000,39-9010,Childcare Workers,845,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-9030,broad,39-0000,39-9000,39-9030,Recreation and Fitness Workers,846,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-9031,detailed,39-0000,39-9000,39-9030,Exercise Trainers and Group Fitness Instructors,847,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-9032,detailed,39-0000,39-9000,39-9030,Recreation Workers,848,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-9040,broad,39-0000,39-9000,39-9040,Residential Advisors,849,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-9041,detailed,39-0000,39-9000,39-9040,Residential Advisors,850,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-9090,broad,39-0000,39-9000,39-9090,Miscellaneous Personal Care and Service Workers,851,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+39-9099,detailed,39-0000,39-9000,39-9090,"Personal Care and Service Workers, All Other",852,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-0000,major,41-0000,,,Sales and Related Occupations,853,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-1000,minor,41-0000,41-1000,,Supervisors of Sales Workers,854,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-1010,broad,41-0000,41-1000,41-1010,First-Line Supervisors of Sales Workers,855,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-1011,detailed,41-0000,41-1000,41-1010,First-Line Supervisors of Retail Sales Workers,856,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-1012,detailed,41-0000,41-1000,41-1010,First-Line Supervisors of Non-Retail Sales Workers,857,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-2000,minor,41-0000,41-2000,,Retail Sales Workers,859,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-2010,broad,41-0000,41-2000,41-2010,Cashiers,860,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-2011,detailed,41-0000,41-2000,41-2010,Cashiers,861,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-2012,detailed,41-0000,41-2000,41-2010,Gambling Change Persons and Booth Cashiers,862,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-2020,broad,41-0000,41-2000,41-2020,Counter and Rental Clerks and Parts Salespersons,863,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-2021,detailed,41-0000,41-2000,41-2020,Counter and Rental Clerks,864,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-2022,detailed,41-0000,41-2000,41-2020,Parts Salespersons,865,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-2030,broad,41-0000,41-2000,41-2030,Retail Salespersons,866,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-2031,detailed,41-0000,41-2000,41-2030,Retail Salespersons,867,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-3000,minor,41-0000,41-3000,,"Sales Representatives, Services",868,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-3010,broad,41-0000,41-3000,41-3010,Advertising Sales Agents,869,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-3011,detailed,41-0000,41-3000,41-3010,Advertising Sales Agents,870,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-3020,broad,41-0000,41-3000,41-3020,Insurance Sales Agents,871,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-3021,detailed,41-0000,41-3000,41-3020,Insurance Sales Agents,872,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-3030,broad,41-0000,41-3000,41-3030,"Securities, Commodities, and Financial Services Sales Agents",873,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-3031,detailed,41-0000,41-3000,41-3030,"Securities, Commodities, and Financial Services Sales Agents",874,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-3040,broad,41-0000,41-3000,41-3040,Travel Agents,875,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-3041,detailed,41-0000,41-3000,41-3040,Travel Agents,876,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-3090,broad,41-0000,41-3000,41-3090,"Miscellaneous Sales Representatives, Services",877,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-3091,detailed,41-0000,41-3000,41-3090,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",878,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-4000,minor,41-0000,41-4000,,"Sales Representatives, Wholesale and Manufacturing",879,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-4010,broad,41-0000,41-4000,41-4010,"Sales Representatives, Wholesale and Manufacturing",880,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-4011,detailed,41-0000,41-4000,41-4010,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",881,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-4012,detailed,41-0000,41-4000,41-4010,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",882,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9000,minor,41-0000,41-9000,,Other Sales and Related Workers,883,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9010,broad,41-0000,41-9000,41-9010,"Models, Demonstrators, and Product Promoters",884,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9011,detailed,41-0000,41-9000,41-9010,Demonstrators and Product Promoters,885,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9012,detailed,41-0000,41-9000,41-9010,Models,886,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9020,broad,41-0000,41-9000,41-9020,Real Estate Brokers and Sales Agents,887,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9021,detailed,41-0000,41-9000,41-9020,Real Estate Brokers,888,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9022,detailed,41-0000,41-9000,41-9020,Real Estate Sales Agents,889,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9030,broad,41-0000,41-9000,41-9030,Sales Engineers,890,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9031,detailed,41-0000,41-9000,41-9030,Sales Engineers,892,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9040,broad,41-0000,41-9000,41-9040,Telemarketers,893,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9041,detailed,41-0000,41-9000,41-9040,Telemarketers,894,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9090,broad,41-0000,41-9000,41-9090,Miscellaneous Sales and Related Workers,895,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9091,detailed,41-0000,41-9000,41-9090,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",896,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+41-9099,detailed,41-0000,41-9000,41-9090,"Sales and Related Workers, All Other",897,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-0000,major,43-0000,,,Office and Administrative Support Occupations,898,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-1000,minor,43-0000,43-1000,,Supervisors of Office and Administrative Support Workers,899,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-1010,broad,43-0000,43-1000,43-1010,First-Line Supervisors of Office and Administrative Support Workers,900,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-1011,detailed,43-0000,43-1000,43-1010,First-Line Supervisors of Office and Administrative Support Workers,901,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-2000,minor,43-0000,43-2000,,Communications Equipment Operators,902,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-2010,broad,43-0000,43-2000,43-2010,"Switchboard Operators, Including Answering Service",903,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-2011,detailed,43-0000,43-2000,43-2010,"Switchboard Operators, Including Answering Service",904,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-2020,broad,43-0000,43-2000,43-2020,Telephone Operators,905,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-2021,detailed,43-0000,43-2000,43-2020,Telephone Operators,906,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-2090,broad,43-0000,43-2000,43-2090,Miscellaneous Communications Equipment Operators,907,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-2099,detailed,43-0000,43-2000,43-2090,"Communications Equipment Operators, All Other",908,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3000,minor,43-0000,43-3000,,Financial Clerks,909,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3010,broad,43-0000,43-3000,43-3010,Bill and Account Collectors,910,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3011,detailed,43-0000,43-3000,43-3010,Bill and Account Collectors,911,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3020,broad,43-0000,43-3000,43-3020,Billing and Posting Clerks,912,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3021,detailed,43-0000,43-3000,43-3020,Billing and Posting Clerks,913,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3030,broad,43-0000,43-3000,43-3030,"Bookkeeping, Accounting, and Auditing Clerks",914,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3031,detailed,43-0000,43-3000,43-3030,"Bookkeeping, Accounting, and Auditing Clerks",915,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3040,broad,43-0000,43-3000,43-3040,Gambling Cage Workers,916,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3041,detailed,43-0000,43-3000,43-3040,Gambling Cage Workers,917,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3050,broad,43-0000,43-3000,43-3050,Payroll and Timekeeping Clerks,918,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3051,detailed,43-0000,43-3000,43-3050,Payroll and Timekeeping Clerks,919,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3060,broad,43-0000,43-3000,43-3060,Procurement Clerks,920,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3061,detailed,43-0000,43-3000,43-3060,Procurement Clerks,921,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3070,broad,43-0000,43-3000,43-3070,Tellers,922,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3071,detailed,43-0000,43-3000,43-3070,Tellers,923,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3090,broad,43-0000,43-3000,43-3090,Miscellaneous Financial Clerks,924,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-3099,detailed,43-0000,43-3000,43-3090,"Financial Clerks, All Other",925,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4000,minor,43-0000,43-4000,,Information and Record Clerks,927,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4010,broad,43-0000,43-4000,43-4010,Brokerage Clerks,928,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4011,detailed,43-0000,43-4000,43-4010,Brokerage Clerks,929,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4020,broad,43-0000,43-4000,43-4020,Correspondence Clerks,930,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4021,detailed,43-0000,43-4000,43-4020,Correspondence Clerks,931,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4030,broad,43-0000,43-4000,43-4030,"Court, Municipal, and License Clerks",932,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4031,detailed,43-0000,43-4000,43-4030,"Court, Municipal, and License Clerks",933,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4040,broad,43-0000,43-4000,43-4040,"Credit Authorizers, Checkers, and Clerks",934,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4041,detailed,43-0000,43-4000,43-4040,"Credit Authorizers, Checkers, and Clerks",935,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4050,broad,43-0000,43-4000,43-4050,Customer Service Representatives,936,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4051,detailed,43-0000,43-4000,43-4050,Customer Service Representatives,937,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4060,broad,43-0000,43-4000,43-4060,"Eligibility Interviewers, Government Programs",938,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4061,detailed,43-0000,43-4000,43-4060,"Eligibility Interviewers, Government Programs",939,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4070,broad,43-0000,43-4000,43-4070,File Clerks,940,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4071,detailed,43-0000,43-4000,43-4070,File Clerks,941,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4080,broad,43-0000,43-4000,43-4080,"Hotel, Motel, and Resort Desk Clerks",942,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4081,detailed,43-0000,43-4000,43-4080,"Hotel, Motel, and Resort Desk Clerks",943,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4110,broad,43-0000,43-4000,43-4110,"Interviewers, Except Eligibility and Loan",944,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4111,detailed,43-0000,43-4000,43-4110,"Interviewers, Except Eligibility and Loan",945,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4120,broad,43-0000,43-4000,43-4120,"Library Assistants, Clerical",946,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4121,detailed,43-0000,43-4000,43-4120,"Library Assistants, Clerical",947,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4130,broad,43-0000,43-4000,43-4130,Loan Interviewers and Clerks,948,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4131,detailed,43-0000,43-4000,43-4130,Loan Interviewers and Clerks,949,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4140,broad,43-0000,43-4000,43-4140,New Accounts Clerks,950,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4141,detailed,43-0000,43-4000,43-4140,New Accounts Clerks,951,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4150,broad,43-0000,43-4000,43-4150,Order Clerks,952,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4151,detailed,43-0000,43-4000,43-4150,Order Clerks,953,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4160,broad,43-0000,43-4000,43-4160,"Human Resources Assistants, Except Payroll and Timekeeping",954,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4161,detailed,43-0000,43-4000,43-4160,"Human Resources Assistants, Except Payroll and Timekeeping",955,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4170,broad,43-0000,43-4000,43-4170,Receptionists and Information Clerks,956,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4171,detailed,43-0000,43-4000,43-4170,Receptionists and Information Clerks,957,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4180,broad,43-0000,43-4000,43-4180,Reservation and Transportation Ticket Agents and Travel Clerks,958,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4181,detailed,43-0000,43-4000,43-4180,Reservation and Transportation Ticket Agents and Travel Clerks,959,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4190,broad,43-0000,43-4000,43-4190,Miscellaneous Information and Record Clerks,960,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-4199,detailed,43-0000,43-4000,43-4190,,962,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5000,minor,43-0000,43-5000,,,963,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5010,broad,43-0000,43-5000,43-5010,,964,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5011,detailed,43-0000,43-5000,43-5010,,965,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5020,broad,43-0000,43-5000,43-5020,,966,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5021,detailed,43-0000,43-5000,43-5020,,967,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5030,broad,43-0000,43-5000,43-5030,,968,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5031,detailed,43-0000,43-5000,43-5030,,969,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5032,detailed,43-0000,43-5000,43-5030,,970,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5040,broad,43-0000,43-5000,43-5040,,971,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5041,detailed,43-0000,43-5000,43-5040,,972,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5050,broad,43-0000,43-5000,43-5050,,973,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5051,detailed,43-0000,43-5000,43-5050,,974,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5052,detailed,43-0000,43-5000,43-5050,,975,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5053,detailed,43-0000,43-5000,43-5050,,976,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5060,broad,43-0000,43-5000,43-5060,,977,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5061,detailed,43-0000,43-5000,43-5060,,978,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5070,broad,43-0000,43-5000,43-5070,,979,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5071,detailed,43-0000,43-5000,43-5070,,980,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5110,broad,43-0000,43-5000,43-5110,,981,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-5111,detailed,43-0000,43-5000,43-5110,,982,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-6000,minor,43-0000,43-6000,,,983,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-6010,broad,43-0000,43-6000,43-6010,,984,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-6011,detailed,43-0000,43-6000,43-6010,,985,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-6012,detailed,43-0000,43-6000,43-6010,,986,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-6013,detailed,43-0000,43-6000,43-6010,,987,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-6014,detailed,43-0000,43-6000,43-6010,,988,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9000,minor,43-0000,43-9000,,,989,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9020,broad,43-0000,43-9000,43-9020,,990,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9021,detailed,43-0000,43-9000,43-9020,,991,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9022,detailed,43-0000,43-9000,43-9020,,992,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9030,broad,43-0000,43-9000,43-9030,,993,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9031,detailed,43-0000,43-9000,43-9030,,994,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9040,broad,43-0000,43-9000,43-9040,,995,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9041,detailed,43-0000,43-9000,43-9040,Insurance Claims and Policy Processing Clerks,1031,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9050,broad,43-0000,43-9000,43-9050,"Mail Clerks and Mail Machine Operators, Except Postal Service",1032,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9051,detailed,43-0000,43-9000,43-9050,"Mail Clerks and Mail Machine Operators, Except Postal Service",1033,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9060,broad,43-0000,43-9000,43-9060,"Office Clerks, General",1034,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9061,detailed,43-0000,43-9000,43-9060,"Office Clerks, General",1035,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9070,broad,43-0000,43-9000,43-9070,"Office Machine Operators, Except Computer",1036,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9071,detailed,43-0000,43-9000,43-9070,"Office Machine Operators, Except Computer",1037,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9080,broad,43-0000,43-9000,43-9080,Proofreaders and Copy Markers,1038,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9081,detailed,43-0000,43-9000,43-9080,Proofreaders and Copy Markers,1039,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9110,broad,43-0000,43-9000,43-9110,Statistical Assistants,1040,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9111,detailed,43-0000,43-9000,43-9110,Statistical Assistants,1041,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9190,broad,43-0000,43-9000,43-9190,Miscellaneous Office and Administrative Support Workers,1042,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+43-9199,detailed,43-0000,43-9000,43-9190,"Office and Administrative Support Workers, All Other",1043,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-0000,major,45-0000,,,"Farming, Fishing, and Forestry Occupations",1044,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-1000,minor,45-0000,45-1000,,"Supervisors of Farming, Fishing, and Forestry Workers",1045,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-1010,broad,45-0000,45-1000,45-1010,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",1046,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-1011,detailed,45-0000,45-1000,45-1010,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",1047,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2000,minor,45-0000,45-2000,,Agricultural Workers,1048,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2010,broad,45-0000,45-2000,45-2010,Agricultural Inspectors,1049,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2011,detailed,45-0000,45-2000,45-2010,Agricultural Inspectors,1050,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2020,broad,45-0000,45-2000,45-2020,Animal Breeders,1051,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2021,detailed,45-0000,45-2000,45-2020,Animal Breeders,1052,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2040,broad,45-0000,45-2000,45-2040,"Graders and Sorters, Agricultural Products",1053,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2041,detailed,45-0000,45-2000,45-2040,"Graders and Sorters, Agricultural Products",1054,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2090,broad,45-0000,45-2000,45-2090,Miscellaneous Agricultural Workers,1055,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2091,detailed,45-0000,45-2000,45-2090,Agricultural Equipment Operators,1056,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2092,detailed,45-0000,45-2000,45-2090,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1057,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2093,detailed,45-0000,45-2000,45-2090,"Farmworkers, Farm, Ranch, and Aquacultural Animals",1058,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-2099,detailed,45-0000,45-2000,45-2090,"Agricultural Workers, All Other",1059,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-3000,minor,45-0000,45-3000,,Fishing and Hunting Workers,1060,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-3030,broad,45-0000,45-3000,45-3030,Fishing and Hunting Workers,1061,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-3031,detailed,45-0000,45-3000,45-3030,Fishing and Hunting Workers,1062,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-4000,minor,45-0000,45-4000,,"Forest, Conservation, and Logging Workers",1063,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-4010,broad,45-0000,45-4000,45-4010,Forest and Conservation Workers,1064,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-4011,detailed,45-0000,45-4000,45-4010,Forest and Conservation Workers,1066,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-4020,broad,45-0000,45-4000,45-4020,Logging Workers,1067,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-4021,detailed,45-0000,45-4000,45-4020,Fallers,1068,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-4022,detailed,45-0000,45-4000,45-4020,Logging Equipment Operators,1069,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-4023,detailed,45-0000,45-4000,45-4020,Log Graders and Scalers,1070,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+45-4029,detailed,45-0000,45-4000,45-4020,"Logging Workers, All Other",1071,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-0000,major,47-0000,,,Construction and Extraction Occupations,1072,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-1000,minor,47-0000,47-1000,,Supervisors of Construction and Extraction Workers,1073,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-1010,broad,47-0000,47-1000,47-1010,First-Line Supervisors of Construction Trades and Extraction Workers,1074,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-1011,detailed,47-0000,47-1000,47-1010,First-Line Supervisors of Construction Trades and Extraction Workers,1075,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2000,minor,47-0000,47-2000,,Construction Trades Workers,1076,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2010,broad,47-0000,47-2000,47-2010,Boilermakers,1077,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2011,detailed,47-0000,47-2000,47-2010,Boilermakers,1078,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2020,broad,47-0000,47-2000,47-2020,"Brickmasons, Blockmasons, and Stonemasons",1079,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2021,detailed,47-0000,47-2000,47-2020,Brickmasons and Blockmasons,1080,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2022,detailed,47-0000,47-2000,47-2020,Stonemasons,1081,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2030,broad,47-0000,47-2000,47-2030,Carpenters,1082,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2031,detailed,47-0000,47-2000,47-2030,Carpenters,1083,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2040,broad,47-0000,47-2000,47-2040,"Carpet, Floor, and Tile Installers and Finishers",1084,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2041,detailed,47-0000,47-2000,47-2040,Carpet Installers,1085,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2042,detailed,47-0000,47-2000,47-2040,"Floor Layers, Except Carpet, Wood, and Hard Tiles",1086,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2043,detailed,47-0000,47-2000,47-2040,Floor Sanders and Finishers,1087,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2044,detailed,47-0000,47-2000,47-2040,Tile and Stone Setters,1088,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2050,broad,47-0000,47-2000,47-2050,"Cement Masons, Concrete Finishers, and Terrazzo Workers",1089,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2051,detailed,47-0000,47-2000,47-2050,Cement Masons and Concrete Finishers,1090,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2053,detailed,47-0000,47-2000,47-2050,Terrazzo Workers and Finishers,1091,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2060,broad,47-0000,47-2000,47-2060,Construction Laborers,1092,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2061,detailed,47-0000,47-2000,47-2060,Construction Laborers,1093,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2070,broad,47-0000,47-2000,47-2070,Construction Equipment Operators,1094,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2071,detailed,47-0000,47-2000,47-2070,"Paving, Surfacing, and Tamping Equipment Operators",1095,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2072,detailed,47-0000,47-2000,47-2070,Pile Driver Operators,1096,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2073,detailed,47-0000,47-2000,47-2070,Operating Engineers and Other Construction Equipment Operators,1097,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2080,broad,47-0000,47-2000,47-2080,"Drywall Installers, Ceiling Tile Installers, and Tapers",1098,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2081,detailed,47-0000,47-2000,47-2080,Drywall and Ceiling Tile Installers,1099,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2082,detailed,47-0000,47-2000,47-2080,Tapers,1101,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2110,broad,47-0000,47-2000,47-2110,Electricians,1102,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2111,detailed,47-0000,47-2000,47-2110,Electricians,1103,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2120,broad,47-0000,47-2000,47-2120,Glaziers,1104,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2121,detailed,47-0000,47-2000,47-2120,Glaziers,1105,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2130,broad,47-0000,47-2000,47-2130,Insulation Workers,1106,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2131,detailed,47-0000,47-2000,47-2130,"Insulation Workers, Floor, Ceiling, and Wall",1107,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2132,detailed,47-0000,47-2000,47-2130,"Insulation Workers, Mechanical",1108,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2140,broad,47-0000,47-2000,47-2140,Painters and Paperhangers,1109,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2141,detailed,47-0000,47-2000,47-2140,"Painters, Construction and Maintenance",1110,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2142,detailed,47-0000,47-2000,47-2140,Paperhangers,1111,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2150,broad,47-0000,47-2000,47-2150,"Pipelayers, Plumbers, Pipefitters, and Steamfitters",1112,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2151,detailed,47-0000,47-2000,47-2150,Pipelayers,1113,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2152,detailed,47-0000,47-2000,47-2150,"Plumbers, Pipefitters, and Steamfitters",1114,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2160,broad,47-0000,47-2000,47-2160,Plasterers and Stucco Masons,1115,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2161,detailed,47-0000,47-2000,47-2160,Plasterers and Stucco Masons,1116,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2170,broad,47-0000,47-2000,47-2170,Reinforcing Iron and Rebar Workers,1117,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2171,detailed,47-0000,47-2000,47-2170,Reinforcing Iron and Rebar Workers,1118,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2180,broad,47-0000,47-2000,47-2180,Roofers,1119,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2181,detailed,47-0000,47-2000,47-2180,Roofers,1120,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2210,broad,47-0000,47-2000,47-2210,Sheet Metal Workers,1121,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2211,detailed,47-0000,47-2000,47-2210,Sheet Metal Workers,1122,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2220,broad,47-0000,47-2000,47-2220,Structural Iron and Steel Workers,1123,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2221,detailed,47-0000,47-2000,47-2220,Structural Iron and Steel Workers,1124,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2230,broad,47-0000,47-2000,47-2230,Solar Photovoltaic Installers,1125,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-2231,detailed,47-0000,47-2000,47-2230,Solar Photovoltaic Installers,1126,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-3000,minor,47-0000,47-3000,,"Helpers, Construction Trades",1127,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-3010,broad,47-0000,47-3000,47-3010,"Helpers, Construction Trades",1128,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-3011,detailed,47-0000,47-3000,47-3010,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",1129,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-3012,detailed,47-0000,47-3000,47-3010,Helpers--Carpenters,1130,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-3013,detailed,47-0000,47-3000,47-3010,Helpers--Electricians,1131,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-3014,detailed,47-0000,47-3000,47-3010,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",1132,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-3015,detailed,47-0000,47-3000,47-3010,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",1133,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-3016,detailed,47-0000,47-3000,47-3010,Helpers--Roofers,1134,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-3019,detailed,47-0000,47-3000,47-3010,"Helpers, Construction Trades, All Other",1136,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4000,minor,47-0000,47-4000,,Other Construction and Related Workers,1137,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4010,broad,47-0000,47-4000,47-4010,Construction and Building Inspectors,1138,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4011,detailed,47-0000,47-4000,47-4010,Construction and Building Inspectors,1139,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4020,broad,47-0000,47-4000,47-4020,Elevator and Escalator Installers and Repairers,1140,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4021,detailed,47-0000,47-4000,47-4020,Elevator and Escalator Installers and Repairers,1141,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4030,broad,47-0000,47-4000,47-4030,Fence Erectors,1142,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4031,detailed,47-0000,47-4000,47-4030,Fence Erectors,1143,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4040,broad,47-0000,47-4000,47-4040,Hazardous Materials Removal Workers,1144,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4041,detailed,47-0000,47-4000,47-4040,Hazardous Materials Removal Workers,1145,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4050,broad,47-0000,47-4000,47-4050,Highway Maintenance Workers,1146,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4051,detailed,47-0000,47-4000,47-4050,Highway Maintenance Workers,1147,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4060,broad,47-0000,47-4000,47-4060,Rail-Track Laying and Maintenance Equipment Operators,1148,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4061,detailed,47-0000,47-4000,47-4060,Rail-Track Laying and Maintenance Equipment Operators,1149,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4070,broad,47-0000,47-4000,47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,1150,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4071,detailed,47-0000,47-4000,47-4070,Septic Tank Servicers and Sewer Pipe Cleaners,1151,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4090,broad,47-0000,47-4000,47-4090,Miscellaneous Construction and Related Workers,1152,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4091,detailed,47-0000,47-4000,47-4090,Segmental Pavers,1153,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-4099,detailed,47-0000,47-4000,47-4090,"Construction and Related Workers, All Other",1154,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5000,minor,47-0000,47-5000,,Extraction Workers,1155,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5010,broad,47-0000,47-5000,47-5010,"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",1156,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5011,detailed,47-0000,47-5000,47-5010,"Derrick Operators, Oil and Gas",1157,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5012,detailed,47-0000,47-5000,47-5010,"Rotary Drill Operators, Oil and Gas",1158,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5013,detailed,47-0000,47-5000,47-5010,"Service Unit Operators, Oil and Gas",1159,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5020,broad,47-0000,47-5000,47-5020,Surface Mining Machine Operators and Earth Drillers,1160,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5022,detailed,47-0000,47-5000,47-5020,"Excavating and Loading Machine and Dragline Operators, Surface Mining",1161,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5023,detailed,47-0000,47-5000,47-5020,"Earth Drillers, Except Oil and Gas",1162,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5030,broad,47-0000,47-5000,47-5030,"Explosives Workers, Ordnance Handling Experts, and Blasters",1163,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5032,detailed,47-0000,47-5000,47-5030,"Explosives Workers, Ordnance Handling Experts, and Blasters",1164,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5040,broad,47-0000,47-5000,47-5040,Underground Mining Machine Operators,1165,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5041,detailed,47-0000,47-5000,47-5040,Continuous Mining Machine Operators,1166,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5043,detailed,47-0000,47-5000,47-5040,"Roof Bolters, Mining",1167,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5044,detailed,47-0000,47-5000,47-5040,"Loading and Moving Machine Operators, Underground Mining",1168,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5049,detailed,47-0000,47-5000,47-5040,"Underground Mining Machine Operators, All Other",1169,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5050,broad,47-0000,47-5000,47-5050,"Rock Splitters, Quarry",1171,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5051,detailed,47-0000,47-5000,47-5050,"Rock Splitters, Quarry",1172,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5070,broad,47-0000,47-5000,47-5070,"Roustabouts, Oil and Gas",1173,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5071,detailed,47-0000,47-5000,47-5070,"Roustabouts, Oil and Gas",1174,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5080,broad,47-0000,47-5000,47-5080,Helpers--Extraction Workers,1175,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5081,detailed,47-0000,47-5000,47-5080,Helpers--Extraction Workers,1176,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5090,broad,47-0000,47-5000,47-5090,Miscellaneous Extraction Workers,1177,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+47-5099,detailed,47-0000,47-5000,47-5090,"Extraction Workers, All Other",1178,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-0000,major,49-0000,,,"Installation, Maintenance, and Repair Occupations",1179,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-1000,minor,49-0000,49-1000,,"Supervisors of Installation, Maintenance, and Repair Workers",1180,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-1010,broad,49-0000,49-1000,49-1010,"First-Line Supervisors of Mechanics, Installers, and Repairers",1181,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-1011,detailed,49-0000,49-1000,49-1010,"First-Line Supervisors of Mechanics, Installers, and Repairers",1182,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2000,minor,49-0000,49-2000,,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",1183,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2010,broad,49-0000,49-2000,49-2010,"Computer, Automated Teller, and Office Machine Repairers",1184,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2011,detailed,49-0000,49-2000,49-2010,"Computer, Automated Teller, and Office Machine Repairers",1185,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2020,broad,49-0000,49-2000,49-2020,Radio and Telecommunications Equipment Installers and Repairers,1186,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2021,detailed,49-0000,49-2000,49-2020,"Radio, Cellular, and Tower Equipment Installers and Repairers",1187,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2022,detailed,49-0000,49-2000,49-2020,"Telecommunications Equipment Installers and Repairers, Except Line Installers",1188,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2090,broad,49-0000,49-2000,49-2090,"Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers",1189,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2091,detailed,49-0000,49-2000,49-2090,Avionics Technicians,1190,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2092,detailed,49-0000,49-2000,49-2090,"Electric Motor, Power Tool, and Related Repairers",1191,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2093,detailed,49-0000,49-2000,49-2090,"Electrical and Electronics Installers and Repairers, Transportation Equipment",1192,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2094,detailed,49-0000,49-2000,49-2090,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",1193,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2095,detailed,49-0000,49-2000,49-2090,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",1194,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2096,detailed,49-0000,49-2000,49-2090,"Electronic Equipment Installers and Repairers, Motor Vehicles",1195,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2097,detailed,49-0000,49-2000,49-2090,Audiovisual Equipment Installers and Repairers,1196,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-2098,detailed,49-0000,49-2000,49-2090,Security and Fire Alarm Systems Installers,1197,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3000,minor,49-0000,49-3000,,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",1198,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3010,broad,49-0000,49-3000,49-3010,Aircraft Mechanics and Service Technicians,1199,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3011,detailed,49-0000,49-3000,49-3010,Aircraft Mechanics and Service Technicians,1200,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3020,broad,49-0000,49-3000,49-3020,Automotive Technicians and Repairers,1201,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3021,detailed,49-0000,49-3000,49-3020,Automotive Body and Related Repairers,1202,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3022,detailed,49-0000,49-3000,49-3020,Automotive Glass Installers and Repairers,1203,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3023,detailed,49-0000,49-3000,49-3020,Automotive Service Technicians and Mechanics,1204,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3030,broad,49-0000,49-3000,49-3030,Bus and Truck Mechanics and Diesel Engine Specialists,1206,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3031,detailed,49-0000,49-3000,49-3030,Bus and Truck Mechanics and Diesel Engine Specialists,1207,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3040,broad,49-0000,49-3000,49-3040,Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics,1208,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3041,detailed,49-0000,49-3000,49-3040,Farm Equipment Mechanics and Service Technicians,1209,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3042,detailed,49-0000,49-3000,49-3040,"Mobile Heavy Equipment Mechanics, Except Engines",1210,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3043,detailed,49-0000,49-3000,49-3040,Rail Car Repairers,1211,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3050,broad,49-0000,49-3000,49-3050,Small Engine Mechanics,1212,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3051,detailed,49-0000,49-3000,49-3050,Motorboat Mechanics and Service Technicians,1213,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3052,detailed,49-0000,49-3000,49-3050,Motorcycle Mechanics,1214,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3053,detailed,49-0000,49-3000,49-3050,Outdoor Power Equipment and Other Small Engine Mechanics,1215,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3090,broad,49-0000,49-3000,49-3090,"Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",1216,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3091,detailed,49-0000,49-3000,49-3090,Bicycle Repairers,1217,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3092,detailed,49-0000,49-3000,49-3090,Recreational Vehicle Service Technicians,1218,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-3093,detailed,49-0000,49-3000,49-3090,Tire Repairers and Changers,1219,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9000,minor,49-0000,49-9000,,"Other Installation, Maintenance, and Repair Occupations",1220,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9010,broad,49-0000,49-9000,49-9010,Control and Valve Installers and Repairers,1221,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9011,detailed,49-0000,49-9000,49-9010,Mechanical Door Repairers,1222,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9012,detailed,49-0000,49-9000,49-9010,"Control and Valve Installers and Repairers, Except Mechanical Door",1223,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9020,broad,49-0000,49-9000,49-9020,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",1224,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9021,detailed,49-0000,49-9000,49-9020,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",1225,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9030,broad,49-0000,49-9000,49-9030,Home Appliance Repairers,1226,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9031,detailed,49-0000,49-9000,49-9030,Home Appliance Repairers,1227,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9040,broad,49-0000,49-9000,49-9040,"Industrial Machinery Installation, Repair, and Maintenance Workers",1228,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9041,detailed,49-0000,49-9000,49-9040,Industrial Machinery Mechanics,1229,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9043,detailed,49-0000,49-9000,49-9040,"Maintenance Workers, Machinery",1230,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9044,detailed,49-0000,49-9000,49-9040,Millwrights,1231,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9045,detailed,49-0000,49-9000,49-9040,"Refractory Materials Repairers, Except Brickmasons",1232,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9050,broad,49-0000,49-9000,49-9050,Line Installers and Repairers,1233,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9051,detailed,49-0000,49-9000,49-9050,Electrical Power-Line Installers and Repairers,1234,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9052,detailed,49-0000,49-9000,49-9050,Telecommunications Line Installers and Repairers,1235,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9060,broad,49-0000,49-9000,49-9060,Precision Instrument and Equipment Repairers,1236,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9061,detailed,49-0000,49-9000,49-9060,Camera and Photographic Equipment Repairers,1237,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9062,detailed,49-0000,49-9000,49-9060,Medical Equipment Repairers,1238,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9063,detailed,49-0000,49-9000,49-9060,Musical Instrument Repairers and Tuners,1239,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9064,detailed,49-0000,49-9000,49-9060,Watch and Clock Repairers,1241,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9069,detailed,49-0000,49-9000,49-9060,"Precision Instrument and Equipment Repairers, All Other",1242,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9070,broad,49-0000,49-9000,49-9070,"Maintenance and Repair Workers, General",1243,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9071,detailed,49-0000,49-9000,49-9070,"Maintenance and Repair Workers, General",1244,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9080,broad,49-0000,49-9000,49-9080,Wind Turbine Service Technicians,1245,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9081,detailed,49-0000,49-9000,49-9080,Wind Turbine Service Technicians,1246,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9090,broad,49-0000,49-9000,49-9090,"Miscellaneous Installation, Maintenance, and Repair Workers",1247,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9091,detailed,49-0000,49-9000,49-9090,"Coin, Vending, and Amusement Machine Servicers and Repairers",1248,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9092,detailed,49-0000,49-9000,49-9090,Commercial Divers,1249,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9094,detailed,49-0000,49-9000,49-9090,Locksmiths and Safe Repairers,1250,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9095,detailed,49-0000,49-9000,49-9090,Manufactured Building and Mobile Home Installers,1251,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9096,detailed,49-0000,49-9000,49-9090,Riggers,1252,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9097,detailed,49-0000,49-9000,49-9090,Signal and Track Switch Repairers,1253,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9098,detailed,49-0000,49-9000,49-9090,"Helpers--Installation, Maintenance, and Repair Workers",1254,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+49-9099,detailed,49-0000,49-9000,49-9090,"Installation, Maintenance, and Repair Workers, All Other",1255,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-0000,major,51-0000,,,Production Occupations,1256,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-1000,minor,51-0000,51-1000,,Supervisors of Production Workers,1257,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-1010,broad,51-0000,51-1000,51-1010,First-Line Supervisors of Production and Operating Workers,1258,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-1011,detailed,51-0000,51-1000,51-1010,First-Line Supervisors of Production and Operating Workers,1259,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2000,minor,51-0000,51-2000,,Assemblers and Fabricators,1260,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2010,broad,51-0000,51-2000,51-2010,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",1261,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2011,detailed,51-0000,51-2000,51-2010,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",1262,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2020,broad,51-0000,51-2000,51-2020,"Electrical, Electronics, and Electromechanical Assemblers",1263,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2021,detailed,51-0000,51-2000,51-2020,"Coil Winders, Tapers, and Finishers",1264,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2022,detailed,51-0000,51-2000,51-2020,Electrical and Electronic Equipment Assemblers,1265,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2023,detailed,51-0000,51-2000,51-2020,Electromechanical Equipment Assemblers,1266,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2030,broad,51-0000,51-2000,51-2030,Engine and Other Machine Assemblers,1267,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2031,detailed,51-0000,51-2000,51-2030,Engine and Other Machine Assemblers,1268,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2040,broad,51-0000,51-2000,51-2040,Structural Metal Fabricators and Fitters,1269,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2041,detailed,51-0000,51-2000,51-2040,Structural Metal Fabricators and Fitters,1270,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2050,broad,51-0000,51-2000,51-2050,Fiberglass Laminators and Fabricators,1271,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2051,detailed,51-0000,51-2000,51-2050,Fiberglass Laminators and Fabricators,1272,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2060,broad,51-0000,51-2000,51-2060,Timing Device Assemblers and Adjusters,1273,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2061,detailed,51-0000,51-2000,51-2060,Timing Device Assemblers and Adjusters,1274,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2090,broad,51-0000,51-2000,51-2090,Miscellaneous Assemblers and Fabricators,1276,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2092,detailed,51-0000,51-2000,51-2090,Team Assemblers,1277,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-2099,detailed,51-0000,51-2000,51-2090,"Assemblers and Fabricators, All Other",1278,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3000,minor,51-0000,51-3000,,Food Processing Workers,1279,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3010,broad,51-0000,51-3000,51-3010,Bakers,1280,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3011,detailed,51-0000,51-3000,51-3010,Bakers,1281,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3020,broad,51-0000,51-3000,51-3020,"Butchers and Other Meat, Poultry, and Fish Processing Workers",1282,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3021,detailed,51-0000,51-3000,51-3020,Butchers and Meat Cutters,1283,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3022,detailed,51-0000,51-3000,51-3020,"Meat, Poultry, and Fish Cutters and Trimmers",1284,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3023,detailed,51-0000,51-3000,51-3020,Slaughterers and Meat Packers,1285,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3090,broad,51-0000,51-3000,51-3090,Miscellaneous Food Processing Workers,1286,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3091,detailed,51-0000,51-3000,51-3090,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",1287,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3092,detailed,51-0000,51-3000,51-3090,Food Batchmakers,1288,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3093,detailed,51-0000,51-3000,51-3090,Food Cooking Machine Operators and Tenders,1289,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-3099,detailed,51-0000,51-3000,51-3090,"Food Processing Workers, All Other",1290,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4000,minor,51-0000,51-4000,,Metal Workers and Plastic Workers,1291,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4020,broad,51-0000,51-4000,51-4020,"Forming Machine Setters, Operators, and Tenders, Metal and Plastic",1292,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4021,detailed,51-0000,51-4000,51-4020,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",1293,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4022,detailed,51-0000,51-4000,51-4020,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",1294,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4023,detailed,51-0000,51-4000,51-4020,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",1295,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4030,broad,51-0000,51-4000,51-4030,"Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic",1296,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4031,detailed,51-0000,51-4000,51-4030,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",1297,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4032,detailed,51-0000,51-4000,51-4030,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1298,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4033,detailed,51-0000,51-4000,51-4030,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and",1299,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4034,detailed,51-0000,51-4000,51-4030,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1301,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4035,detailed,51-0000,51-4000,51-4030,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",1302,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4040,broad,51-0000,51-4000,51-4040,Machinists,1303,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4041,detailed,51-0000,51-4000,51-4040,Machinists,1304,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4050,broad,51-0000,51-4000,51-4050,"Metal Furnace Operators, Tenders, Pourers, and Casters",1305,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4051,detailed,51-0000,51-4000,51-4050,Metal-Refining Furnace Operators and Tenders,1306,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4052,detailed,51-0000,51-4000,51-4050,"Pourers and Casters, Metal",1307,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4060,broad,51-0000,51-4000,51-4060,"Model Makers and Patternmakers, Metal and Plastic",1308,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4061,detailed,51-0000,51-4000,51-4060,"Model Makers, Metal and Plastic",1309,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4062,detailed,51-0000,51-4000,51-4060,"Patternmakers, Metal and Plastic",1311,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4070,broad,51-0000,51-4000,51-4070,"Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic",1312,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4071,detailed,51-0000,51-4000,51-4070,Foundry Mold and Coremakers,1313,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4072,detailed,51-0000,51-4000,51-4070,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",1314,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4080,broad,51-0000,51-4000,51-4080,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1315,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4081,detailed,51-0000,51-4000,51-4080,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1316,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4110,broad,51-0000,51-4000,51-4110,Tool and Die Makers,1317,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4111,detailed,51-0000,51-4000,51-4110,Tool and Die Makers,1318,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4120,broad,51-0000,51-4000,51-4120,"Welding, Soldering, and Brazing Workers",1319,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4121,detailed,51-0000,51-4000,51-4120,"Welders, Cutters, Solderers, and Brazers",1320,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4122,detailed,51-0000,51-4000,51-4120,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",1321,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4190,broad,51-0000,51-4000,51-4190,Miscellaneous Metal Workers and Plastic Workers,1322,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4191,detailed,51-0000,51-4000,51-4190,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",1323,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4192,detailed,51-0000,51-4000,51-4190,"Layout Workers, Metal and Plastic",1324,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4193,detailed,51-0000,51-4000,51-4190,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",1325,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4194,detailed,51-0000,51-4000,51-4190,"Tool Grinders, Filers, and Sharpeners",1326,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-4199,detailed,51-0000,51-4000,51-4190,"Metal Workers and Plastic Workers, All Other",1327,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-5100,minor,51-0000,51-5100,,Printing Workers,1328,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-5110,broad,51-0000,51-5100,51-5110,Printing Workers,1329,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-5111,detailed,51-0000,51-5100,51-5110,Prepress Technicians and Workers,1330,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-5112,detailed,51-0000,51-5100,51-5110,Printing Press Operators,1331,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-5113,detailed,51-0000,51-5100,51-5110,Print Binding and Finishing Workers,1332,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6000,minor,51-0000,51-6000,,"Textile, Apparel, and Furnishings Workers",1333,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6010,broad,51-0000,51-6000,51-6010,Laundry and Dry-Cleaning Workers,1334,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6011,detailed,51-0000,51-6000,51-6010,Laundry and Dry-Cleaning Workers,1335,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6020,broad,51-0000,51-6000,51-6020,"Pressers, Textile, Garment, and Related Materials",1336,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6021,detailed,51-0000,51-6000,51-6020,"Pressers, Textile, Garment, and Related Materials",1337,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6030,broad,51-0000,51-6000,51-6030,Sewing Machine Operators,1338,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6031,detailed,51-0000,51-6000,51-6030,Sewing Machine Operators,1339,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6040,broad,51-0000,51-6000,51-6040,Shoe and Leather Workers,1340,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6041,detailed,51-0000,51-6000,51-6040,Shoe and Leather Workers and Repairers,1341,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6042,detailed,51-0000,51-6000,51-6040,Shoe Machine Operators and Tenders,1342,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6050,broad,51-0000,51-6000,51-6050,"Tailors, Dressmakers, and Sewers",1343,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6051,detailed,51-0000,51-6000,51-6050,"Sewers, Hand",1345,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6052,detailed,51-0000,51-6000,51-6050,"Tailors, Dressmakers, and Custom Sewers",1346,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6060,broad,51-0000,51-6000,51-6060,"Textile Machine Setters, Operators, and Tenders",1347,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6061,detailed,51-0000,51-6000,51-6060,Textile Bleaching and Dyeing Machine Operators and Tenders,1348,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6062,detailed,51-0000,51-6000,51-6060,"Textile Cutting Machine Setters, Operators, and Tenders",1349,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6063,detailed,51-0000,51-6000,51-6060,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",1350,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6064,detailed,51-0000,51-6000,51-6060,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",1351,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6090,broad,51-0000,51-6000,51-6090,"Miscellaneous Textile, Apparel, and Furnishings Workers",1352,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6091,detailed,51-0000,51-6000,51-6090,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",1353,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6092,detailed,51-0000,51-6000,51-6090,Fabric and Apparel Patternmakers,1354,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6093,detailed,51-0000,51-6000,51-6090,Upholsterers,1355,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-6099,detailed,51-0000,51-6000,51-6090,"Textile, Apparel, and Furnishings Workers, All Other",1356,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7000,minor,51-0000,51-7000,,Woodworkers,1357,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7010,broad,51-0000,51-7000,51-7010,Cabinetmakers and Bench Carpenters,1358,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7011,detailed,51-0000,51-7000,51-7010,Cabinetmakers and Bench Carpenters,1359,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7020,broad,51-0000,51-7000,51-7020,Furniture Finishers,1360,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7021,detailed,51-0000,51-7000,51-7020,Furniture Finishers,1361,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7030,broad,51-0000,51-7000,51-7030,"Model Makers and Patternmakers, Wood",1362,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7031,detailed,51-0000,51-7000,51-7030,"Model Makers, Wood",1363,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7032,detailed,51-0000,51-7000,51-7030,"Patternmakers, Wood",1364,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7040,broad,51-0000,51-7000,51-7040,"Woodworking Machine Setters, Operators, and Tenders",1365,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7041,detailed,51-0000,51-7000,51-7040,"Sawing Machine Setters, Operators, and Tenders, Wood",1366,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7042,detailed,51-0000,51-7000,51-7040,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",1367,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7090,broad,51-0000,51-7000,51-7090,Miscellaneous Woodworkers,1368,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-7099,detailed,51-0000,51-7000,51-7090,"Woodworkers, All Other",1369,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8000,minor,51-0000,51-8000,,Plant and System Operators,1370,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8010,broad,51-0000,51-8000,51-8010,"Power Plant Operators, Distributors, and Dispatchers",1371,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8011,detailed,51-0000,51-8000,51-8010,Nuclear Power Reactor Operators,1372,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8012,detailed,51-0000,51-8000,51-8010,Power Distributors and Dispatchers,1373,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8013,detailed,51-0000,51-8000,51-8010,Power Plant Operators,1374,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8020,broad,51-0000,51-8000,51-8020,Stationary Engineers and Boiler Operators,1375,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8021,detailed,51-0000,51-8000,51-8020,Stationary Engineers and Boiler Operators,1376,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8030,broad,51-0000,51-8000,51-8030,Water and Wastewater Treatment Plant and System Operators,1377,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8031,detailed,51-0000,51-8000,51-8030,Water and Wastewater Treatment Plant and System Operators,1379,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8090,broad,51-0000,51-8000,51-8090,Miscellaneous Plant and System Operators,1380,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8091,detailed,51-0000,51-8000,51-8090,Chemical Plant and System Operators,1381,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8092,detailed,51-0000,51-8000,51-8090,Gas Plant Operators,1382,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8093,detailed,51-0000,51-8000,51-8090,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",1383,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-8099,detailed,51-0000,51-8000,51-8090,"Plant and System Operators, All Other",1384,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9000,minor,51-0000,51-9000,,Other Production Occupations,1385,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9010,broad,51-0000,51-9000,51-9010,"Chemical Processing Machine Setters, Operators, and Tenders",1386,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9011,detailed,51-0000,51-9000,51-9010,Chemical Equipment Operators and Tenders,1387,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9012,detailed,51-0000,51-9000,51-9010,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",1388,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9020,broad,51-0000,51-9000,51-9020,"Crushing, Grinding, Polishing, Mixing, and Blending Workers",1389,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9021,detailed,51-0000,51-9000,51-9020,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",1390,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9022,detailed,51-0000,51-9000,51-9020,"Grinding and Polishing Workers, Hand",1391,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9023,detailed,51-0000,51-9000,51-9020,"Mixing and Blending Machine Setters, Operators, and Tenders",1392,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9030,broad,51-0000,51-9000,51-9030,Cutting Workers,1393,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9031,detailed,51-0000,51-9000,51-9030,"Cutters and Trimmers, Hand",1394,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9032,detailed,51-0000,51-9000,51-9030,"Cutting and Slicing Machine Setters, Operators, and Tenders",1395,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9040,broad,51-0000,51-9000,51-9040,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1396,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9041,detailed,51-0000,51-9000,51-9040,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1397,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9050,broad,51-0000,51-9000,51-9050,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",1398,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9051,detailed,51-0000,51-9000,51-9050,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",1399,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9060,broad,51-0000,51-9000,51-9060,"Inspectors, Testers, Sorters, Samplers, and Weighers",1400,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9061,detailed,51-0000,51-9000,51-9060,"Inspectors, Testers, Sorters, Samplers, and Weighers",1401,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9070,broad,51-0000,51-9000,51-9070,Jewelers and Precious Stone and Metal Workers,1402,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9071,detailed,51-0000,51-9000,51-9070,Jewelers and Precious Stone and Metal Workers,1403,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9080,broad,51-0000,51-9000,51-9080,Dental and Ophthalmic Laboratory Technicians and Medical Appliance Technicians,1404,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9081,detailed,51-0000,51-9000,51-9080,Dental Laboratory Technicians,1405,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9082,detailed,51-0000,51-9000,51-9080,Medical Appliance Technicians,1406,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9083,detailed,51-0000,51-9000,51-9080,Ophthalmic Laboratory Technicians,1407,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9110,broad,51-0000,51-9000,51-9110,Packaging and Filling Machine Operators and Tenders,1408,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9111,detailed,51-0000,51-9000,51-9110,Packaging and Filling Machine Operators and Tenders,1409,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9120,broad,51-0000,51-9000,51-9120,Painting Workers,1410,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9123,detailed,51-0000,51-9000,51-9120,"Painting, Coating, and Decorating Workers",1411,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9124,detailed,51-0000,51-9000,51-9120,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",1413,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9140,broad,51-0000,51-9000,51-9140,Semiconductor Processing Technicians,1414,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9141,detailed,51-0000,51-9000,51-9140,Semiconductor Processing Technicians,1415,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9150,broad,51-0000,51-9000,51-9150,Photographic Process Workers and Processing Machine Operators,1416,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9151,detailed,51-0000,51-9000,51-9150,Photographic Process Workers and Processing Machine Operators,1417,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9160,broad,51-0000,51-9000,51-9160,Computer Numerically Controlled Tool Operators and Programmers,1418,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9161,detailed,51-0000,51-9000,51-9160,Computer Numerically Controlled Tool Operators,1419,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9162,detailed,51-0000,51-9000,51-9160,Computer Numerically Controlled Tool Programmers,1420,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9190,broad,51-0000,51-9000,51-9190,Miscellaneous Production Workers,1421,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9191,detailed,51-0000,51-9000,51-9190,Adhesive Bonding Machine Operators and Tenders,1422,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9192,detailed,51-0000,51-9000,51-9190,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",1423,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9193,detailed,51-0000,51-9000,51-9190,Cooling and Freezing Equipment Operators and Tenders,1424,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9194,detailed,51-0000,51-9000,51-9190,Etchers and Engravers,1425,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9195,detailed,51-0000,51-9000,51-9190,"Molders, Shapers, and Casters, Except Metal and Plastic",1426,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9196,detailed,51-0000,51-9000,51-9190,"Paper Goods Machine Setters, Operators, and Tenders",1427,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9197,detailed,51-0000,51-9000,51-9190,Tire Builders,1428,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9198,detailed,51-0000,51-9000,51-9190,Helpers--Production Workers,1429,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+51-9199,detailed,51-0000,51-9000,51-9190,"Production Workers, All Other",1430,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-0000,major,53-0000,,,Transportation and Material Moving Occupations,1431,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-1000,minor,53-0000,53-1000,,Supervisors of Transportation and Material Moving Workers,1432,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-1040,broad,53-0000,53-1000,53-1040,First-Line Supervisors of Transportation and Material Moving Workers,1433,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-1041,detailed,53-0000,53-1000,53-1040,Aircraft Cargo Handling Supervisors,1434,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-1042,detailed,53-0000,53-1000,53-1040,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",1435,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-1043,detailed,53-0000,53-1000,53-1040,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,1436,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-1044,detailed,53-0000,53-1000,53-1040,First-Line Supervisors of Passenger Attendants,1437,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-1049,detailed,53-0000,53-1000,53-1040,"First-Line Supervisors of Transportation Workers, All Other",1438,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-2000,minor,53-0000,53-2000,,Air Transportation Workers,1439,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-2010,broad,53-0000,53-2000,53-2010,Aircraft Pilots and Flight Engineers,1440,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-2011,detailed,53-0000,53-2000,53-2010,"Airline Pilots, Copilots, and Flight Engineers",1441,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-2012,detailed,53-0000,53-2000,53-2010,Commercial Pilots,1442,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-2020,broad,53-0000,53-2000,53-2020,Air Traffic Controllers and Airfield Operations Specialists,1443,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-2021,detailed,53-0000,53-2000,53-2020,Air Traffic Controllers,1444,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-2022,detailed,53-0000,53-2000,53-2020,Airfield Operations Specialists,1445,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-2030,broad,53-0000,53-2000,53-2030,Flight Attendants,1446,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-2031,detailed,53-0000,53-2000,53-2030,Flight Attendants,1448,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3000,minor,53-0000,53-3000,,Motor Vehicle Operators,1449,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3010,broad,53-0000,53-3000,53-3010,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",1450,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3011,detailed,53-0000,53-3000,53-3010,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",1451,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3030,broad,53-0000,53-3000,53-3030,Driver/Sales Workers and Truck Drivers,1452,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3031,detailed,53-0000,53-3000,53-3030,Driver/Sales Workers,1453,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3032,detailed,53-0000,53-3000,53-3030,Heavy and Tractor-Trailer Truck Drivers,1454,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3033,detailed,53-0000,53-3000,53-3030,Light Truck Drivers,1455,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3050,broad,53-0000,53-3000,53-3050,Passenger Vehicle Drivers,1456,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3051,detailed,53-0000,53-3000,53-3050,"Bus Drivers, School",1457,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3052,detailed,53-0000,53-3000,53-3050,"Bus Drivers, Transit and Intercity",1458,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3053,detailed,53-0000,53-3000,53-3050,Shuttle Drivers and Chauffeurs,1459,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3054,detailed,53-0000,53-3000,53-3050,Taxi Drivers,1460,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3090,broad,53-0000,53-3000,53-3090,Miscellaneous Motor Vehicle Operators,1461,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-3099,detailed,53-0000,53-3000,53-3090,"Motor Vehicle Operators, All Other",1462,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4000,minor,53-0000,53-4000,,Rail Transportation Workers,1463,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4010,broad,53-0000,53-4000,53-4010,Locomotive Engineers and Operators,1464,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4011,detailed,53-0000,53-4000,53-4010,Locomotive Engineers,1465,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4013,detailed,53-0000,53-4000,53-4010,"Rail Yard Engineers, Dinkey Operators, and Hostlers",1466,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4020,broad,53-0000,53-4000,53-4020,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",1467,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4022,detailed,53-0000,53-4000,53-4020,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",1468,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4030,broad,53-0000,53-4000,53-4030,Railroad Conductors and Yardmasters,1469,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4031,detailed,53-0000,53-4000,53-4030,Railroad Conductors and Yardmasters,1470,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4040,broad,53-0000,53-4000,53-4040,Subway and Streetcar Operators,1471,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4041,detailed,53-0000,53-4000,53-4040,Subway and Streetcar Operators,1472,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4090,broad,53-0000,53-4000,53-4090,Miscellaneous Rail Transportation Workers,1473,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-4099,detailed,53-0000,53-4000,53-4090,"Rail Transportation Workers, All Other",1474,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-5000,minor,53-0000,53-5000,,Water Transportation Workers,1475,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-5010,broad,53-0000,53-5000,53-5010,Sailors and Marine Oilers,1476,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-5011,detailed,53-0000,53-5000,53-5010,Sailors and Marine Oilers,1477,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-5020,broad,53-0000,53-5000,53-5020,Ship and Boat Captains and Operators,1478,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-5021,detailed,53-0000,53-5000,53-5020,"Captains, Mates, and Pilots of Water Vessels",1479,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-5022,detailed,53-0000,53-5000,53-5020,Motorboat Operators,1480,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-5030,broad,53-0000,53-5000,53-5030,Ship Engineers,1481,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-5031,detailed,53-0000,53-5000,53-5030,Ship Engineers,1483,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6000,minor,53-0000,53-6000,,Other Transportation Workers,1484,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6010,broad,53-0000,53-6000,53-6010,Bridge and Lock Tenders,1485,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6011,detailed,53-0000,53-6000,53-6010,Bridge and Lock Tenders,1486,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6020,broad,53-0000,53-6000,53-6020,Parking Attendants,1487,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6021,detailed,53-0000,53-6000,53-6020,Parking Attendants,1488,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6030,broad,53-0000,53-6000,53-6030,Transportation Service Attendants,1489,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6031,detailed,53-0000,53-6000,53-6030,Automotive and Watercraft Service Attendants,1490,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6032,detailed,53-0000,53-6000,53-6030,Aircraft Service Attendants,1491,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6040,broad,53-0000,53-6000,53-6040,Traffic Technicians,1492,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6041,detailed,53-0000,53-6000,53-6040,Traffic Technicians,1493,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6050,broad,53-0000,53-6000,53-6050,Transportation Inspectors,1494,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6051,detailed,53-0000,53-6000,53-6050,Transportation Inspectors,1495,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6060,broad,53-0000,53-6000,53-6060,Passenger Attendants,1496,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6061,detailed,53-0000,53-6000,53-6060,Passenger Attendants,1497,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6090,broad,53-0000,53-6000,53-6090,Miscellaneous Transportation Workers,1498,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-6099,detailed,53-0000,53-6000,53-6090,"Transportation Workers, All Other",1499,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7000,minor,53-0000,53-7000,,Material Moving Workers,1500,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7010,broad,53-0000,53-7000,53-7010,Conveyor Operators and Tenders,1501,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7011,detailed,53-0000,53-7000,53-7010,Conveyor Operators and Tenders,1502,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7020,broad,53-0000,53-7000,53-7020,Crane and Tower Operators,1503,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7021,detailed,53-0000,53-7000,53-7020,Crane and Tower Operators,1504,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7030,broad,53-0000,53-7000,53-7030,Dredge Operators,1505,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7031,detailed,53-0000,53-7000,53-7030,Dredge Operators,1506,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7040,broad,53-0000,53-7000,53-7040,Hoist and Winch Operators,1507,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7041,detailed,53-0000,53-7000,53-7040,Hoist and Winch Operators,1508,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7050,broad,53-0000,53-7000,53-7050,Industrial Truck and Tractor Operators,1509,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7051,detailed,53-0000,53-7000,53-7050,Industrial Truck and Tractor Operators,1510,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7060,broad,53-0000,53-7000,53-7060,Laborers and Material Movers,1511,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7061,detailed,53-0000,53-7000,53-7060,Cleaners of Vehicles and Equipment,1512,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7062,detailed,53-0000,53-7000,53-7060,"Laborers and Freight, Stock, and Material Movers, Hand",1513,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7063,detailed,53-0000,53-7000,53-7060,Machine Feeders and Offbearers,1514,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7064,detailed,53-0000,53-7000,53-7060,"Packers and Packagers, Hand",1515,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7065,detailed,53-0000,53-7000,53-7060,Stockers and Order Fillers,1516,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7070,broad,53-0000,53-7000,53-7070,Pumping Station Operators,1518,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7071,detailed,53-0000,53-7000,53-7070,Gas Compressor and Gas Pumping Station Operators,1519,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7072,detailed,53-0000,53-7000,53-7070,"Pump Operators, Except Wellhead Pumpers",1520,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7073,detailed,53-0000,53-7000,53-7070,Wellhead Pumpers,1521,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7080,broad,53-0000,53-7000,53-7080,Refuse and Recyclable Material Collectors,1522,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7081,detailed,53-0000,53-7000,53-7080,Refuse and Recyclable Material Collectors,1523,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7120,broad,53-0000,53-7000,53-7120,"Tank Car, Truck, and Ship Loaders",1524,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7121,detailed,53-0000,53-7000,53-7120,"Tank Car, Truck, and Ship Loaders",1525,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7190,broad,53-0000,53-7000,53-7190,Miscellaneous Material Moving Workers,1526,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+53-7199,detailed,53-0000,53-7000,53-7190,"Material Moving Workers, All Other",1527,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-0000,major,55-0000,,,Military Specific Occupations,1528,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-1000,minor,55-0000,55-1000,,Military Officer Special and Tactical Operations Leaders,1529,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-1010,broad,55-0000,55-1000,55-1010,Military Officer Special and Tactical Operations Leaders,1530,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-1011,detailed,55-0000,55-1000,55-1010,Air Crew Officers,1531,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-1012,detailed,55-0000,55-1000,55-1010,Aircraft Launch and Recovery Officers,1532,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-1013,detailed,55-0000,55-1000,55-1010,Armored Assault Vehicle Officers,1533,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-1014,detailed,55-0000,55-1000,55-1010,Artillery and Missile Officers,1534,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-1015,detailed,55-0000,55-1000,55-1010,Command and Control Center Officers,1535,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-1016,detailed,55-0000,55-1000,55-1010,Infantry Officers,1536,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-1017,detailed,55-0000,55-1000,55-1010,Special Forces Officers,1537,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-1019,detailed,55-0000,55-1000,55-1010,"Military Officer Special and Tactical Operations Leaders, All Other",1538,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-2000,minor,55-0000,55-2000,,First-Line Enlisted Military Supervisors,1539,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-2010,broad,55-0000,55-2000,55-2010,First-Line Enlisted Military Supervisors,1540,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-2011,detailed,55-0000,55-2000,55-2010,First-Line Supervisors of Air Crew Members,1541,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-2012,detailed,55-0000,55-2000,55-2010,First-Line Supervisors of Weapons Specialists/Crew Members,1542,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-2013,detailed,55-0000,55-2000,55-2010,First-Line Supervisors of All Other Tactical Operations Specialists,1543,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-3000,minor,55-0000,55-3000,,Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members,1544,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-3010,broad,55-0000,55-3000,55-3010,Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members,1545,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-3011,detailed,55-0000,55-3000,55-3010,Air Crew Members,1546,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-3012,detailed,55-0000,55-3000,55-3010,Aircraft Launch and Recovery Specialists,1547,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-3013,detailed,55-0000,55-3000,55-3010,Armored Assault Vehicle Crew Members,1548,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-3014,detailed,55-0000,55-3000,55-3010,Artillery and Missile Crew Members,1549,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-3015,detailed,55-0000,55-3000,55-3010,Command and Control Center Specialists,1550,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-3016,detailed,55-0000,55-3000,55-3010,Infantry,1551,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-3018,detailed,55-0000,55-3000,55-3010,Special Forces,1553,https://www.bls.gov/soc/2018/soc_structure_2018.pdf
+55-3019,detailed,55-0000,55-3000,55-3010,"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",1554,https://www.bls.gov/soc/2018/soc_structure_2018.pdf

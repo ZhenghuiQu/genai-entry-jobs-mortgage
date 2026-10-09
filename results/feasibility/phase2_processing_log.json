@@ -1,0 +1,19 @@
+{
+  "raw_person_rows": 45217,
+  "civilian_employed_22_34_rows": 4898,
+  "seconds": 0.22426791599991702,
+  "duckdb_version": "1.4.4",
+  "chunk_rows": 100000,
+  "duckdb_sql": "SELECT ST,PUMA,survey_year,age_segment,OCCP,SOCP,count(*) AS \"rows\",sum(weight) AS weight FROM chunk GROUP BY ALL ORDER BY ALL",
+  "zip_crc_verified": "each CSV read to EOF; Python ZipExtFile CRC check",
+  "source_archive": "pums_de.zip",
+  "national_observed": false,
+  "aggregate_rows": 3243,
+  "coverage_rows": 48,
+  "unmatched_output_rows": 512,
+  "all_employed_denominators_retained": true,
+  "regressions_run": 0,
+  "high_exposure_rule": "beta_primary >= 0.5 chosen before mortgage outcomes; unscored potentially high",
+  "geographic_allocation_error": 0.0,
+  "national_dependency": "HTTP 403; complete national validation remains OPEN"
+}

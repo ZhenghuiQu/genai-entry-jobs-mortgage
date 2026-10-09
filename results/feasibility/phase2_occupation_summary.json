@@ -1,0 +1,22 @@
+{
+  "bls_counts": {
+    "detailed": 867,
+    "broad": 459,
+    "minor": 98,
+    "major": 23
+  },
+  "ratings": 923,
+  "official_onet_children": 1016,
+  "rated_soc_groups": 798,
+  "complete_soc_groups": 774,
+  "unrated_onet_children": 93,
+  "pums_groups": 529,
+  "mapping_status_counts": {
+    "covered": 453,
+    "B_unrated_detailed_or_child": 74,
+    "E_source_inconsistency": 1,
+    "C_census_military_unspecified": 1
+  },
+  "release_status": "PROVISIONAL_AUDIT_NOT_FINAL",
+  "original_feasibility_commit": "3f363bca62b6d8938ee8f95696465361d2092476"
+}

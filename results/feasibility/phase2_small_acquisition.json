@@ -1,0 +1,306 @@
+[
+  {
+    "id": "soc_structure_2018.xlsx",
+    "url": "https://www.bls.gov/soc/2018/soc_structure_2018.xlsx",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:18:48.683888+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www.bls.gov/soc/2018/soc_structure_2018.xlsx",
+    "headers": {
+      "server": "AkamaiGHost",
+      "mime-version": "1.0",
+      "content-type": "text/html",
+      "content-length": "415",
+      "expires": "Fri, 09 Oct 2026 03:18:50 GMT",
+      "date": "Fri, 09 Oct 2026 03:18:50 GMT",
+      "alt-svc": "h3=\":443\"; ma=93600",
+      "strict-transport-security": "max-age=31536000 ; includeSubDomains ; preload"
+    },
+    "error": "HTTP Error 403: "
+  },
+  {
+    "id": "soc_coding_2018.pdf",
+    "url": "https://www.bls.gov/soc/2018/soc_2018_class_and_coding_structure.pdf",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:18:51.273038+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www.bls.gov/soc/2018/soc_2018_class_and_coding_structure.pdf",
+    "headers": {
+      "server": "AkamaiGHost",
+      "mime-version": "1.0",
+      "content-type": "text/html",
+      "content-length": "443",
+      "expires": "Fri, 09 Oct 2026 03:18:54 GMT",
+      "date": "Fri, 09 Oct 2026 03:18:54 GMT",
+      "alt-svc": "h3=\":443\"; ma=93600",
+      "strict-transport-security": "max-age=31536000 ; includeSubDomains ; preload"
+    },
+    "error": "HTTP Error 403: "
+  },
+  {
+    "id": "ct_cousub22_blkgrp20.txt",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2022/acs22_cousub22_blkgrp20_st09.txt",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:18:54.684428+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www2.census.gov/geo/docs/maps-data/data/rel2022/acs22_cousub22_blkgrp20_st09.txt",
+    "headers": {
+      "date": "Fri, 09 Oct 2026 03:18:55 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+      "referrer-policy": "same-origin",
+      "server-timing": "cfEdge;dur=4,cfOrigin;dur=0",
+      "x-frame-options": "SAMEORIGIN",
+      "vary": "accept-encoding",
+      "server": "cloudflare",
+      "cf-ray": "a47a3da60a740fa0-EWR"
+    },
+    "error": "HTTP Error 403: ",
+    "redacted_header_names": [
+      "set-cookie"
+    ]
+  },
+  {
+    "id": "ct_cousub22_tract22.txt",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2022/acs22_cousub22_tract22_st09.txt",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:18:55.862217+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www2.census.gov/geo/docs/maps-data/data/rel2022/acs22_cousub22_tract22_st09.txt",
+    "headers": {
+      "date": "Fri, 09 Oct 2026 03:18:56 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+      "referrer-policy": "same-origin",
+      "server-timing": "cfEdge;dur=1,cfOrigin;dur=0",
+      "x-frame-options": "SAMEORIGIN",
+      "vary": "accept-encoding",
+      "server": "cloudflare",
+      "cf-ray": "a47a3dab781e0b11-EWR"
+    },
+    "error": "HTTP Error 403: ",
+    "redacted_header_names": [
+      "set-cookie"
+    ]
+  },
+  {
+    "id": "census_2018_pums_phase2.xlsx",
+    "url": "https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-ACS-PUMS-and-2018-SIPP-Public-Use-Occupation-Code-List.xlsx",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:18:56.905327+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-ACS-PUMS-and-2018-SIPP-Public-Use-Occupation-Code-List.xlsx",
+    "headers": {
+      "date": "Fri, 09 Oct 2026 03:18:57 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+      "referrer-policy": "same-origin",
+      "server-timing": "cfEdge;dur=3,cfOrigin;dur=0",
+      "x-frame-options": "SAMEORIGIN",
+      "vary": "accept-encoding",
+      "server": "cloudflare",
+      "cf-ray": "a47a3db21a3f41a9-EWR"
+    },
+    "error": "HTTP Error 403: ",
+    "redacted_header_names": [
+      "set-cookie"
+    ]
+  },
+  {
+    "id": "census_2018_soc_phase2.xlsx",
+    "url": "https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-occupation-code-list-and-crosswalk.xlsx",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:18:57.795279+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-occupation-code-list-and-crosswalk.xlsx",
+    "headers": {
+      "date": "Fri, 09 Oct 2026 03:18:58 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+      "referrer-policy": "same-origin",
+      "server-timing": "cfEdge;dur=3,cfOrigin;dur=0",
+      "x-frame-options": "SAMEORIGIN",
+      "vary": "accept-encoding",
+      "server": "cloudflare",
+      "cf-ray": "a47a3db77814427f-EWR"
+    },
+    "error": "HTTP Error 403: ",
+    "redacted_header_names": [
+      "set-cookie"
+    ]
+  },
+  {
+    "id": "soc_structure_2018.xlsx",
+    "url": "https://www.bls.gov/soc/2018/soc_structure_2018.xlsx",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:20:42.269956+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www.bls.gov/soc/2018/soc_structure_2018.xlsx",
+    "headers": {
+      "server": "AkamaiGHost",
+      "mime-version": "1.0",
+      "content-type": "text/html",
+      "content-length": "415",
+      "expires": "Fri, 09 Oct 2026 03:20:44 GMT",
+      "date": "Fri, 09 Oct 2026 03:20:44 GMT",
+      "alt-svc": "h3=\":443\"; ma=93600",
+      "strict-transport-security": "max-age=31536000 ; includeSubDomains ; preload"
+    },
+    "error": "HTTP Error 403: "
+  },
+  {
+    "id": "soc_coding_2018.pdf",
+    "url": "https://www.bls.gov/soc/2018/soc_2018_class_and_coding_structure.pdf",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:20:44.714746+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www.bls.gov/soc/2018/soc_2018_class_and_coding_structure.pdf",
+    "headers": {
+      "server": "AkamaiGHost",
+      "mime-version": "1.0",
+      "content-type": "text/html",
+      "content-length": "443",
+      "expires": "Fri, 09 Oct 2026 03:20:46 GMT",
+      "date": "Fri, 09 Oct 2026 03:20:46 GMT",
+      "alt-svc": "h3=\":443\"; ma=93600",
+      "strict-transport-security": "max-age=31536000 ; includeSubDomains ; preload"
+    },
+    "error": "HTTP Error 403: "
+  },
+  {
+    "id": "ct_cousub22_blkgrp20.txt",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2022/acs22_cousub22_blkgrp20_st09.txt",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:20:46.438058+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www2.census.gov/geo/docs/maps-data/data/rel2022/acs22_cousub22_blkgrp20_st09.txt",
+    "headers": {
+      "date": "Fri, 09 Oct 2026 03:20:47 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+      "referrer-policy": "same-origin",
+      "server-timing": "cfEdge;dur=6,cfOrigin;dur=0",
+      "x-frame-options": "SAMEORIGIN",
+      "vary": "accept-encoding",
+      "server": "cloudflare",
+      "cf-ray": "a47a40600b250cba-EWR"
+    },
+    "error": "HTTP Error 403: ",
+    "redacted_header_names": [
+      "set-cookie"
+    ]
+  },
+  {
+    "id": "ct_cousub22_tract22.txt",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2022/acs22_cousub22_tract22_st09.txt",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:20:47.773752+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www2.census.gov/geo/docs/maps-data/data/rel2022/acs22_cousub22_tract22_st09.txt",
+    "headers": {
+      "date": "Fri, 09 Oct 2026 03:20:48 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+      "referrer-policy": "same-origin",
+      "server-timing": "cfEdge;dur=2,cfOrigin;dur=0",
+      "x-frame-options": "SAMEORIGIN",
+      "vary": "accept-encoding",
+      "server": "cloudflare",
+      "cf-ray": "a47a40695e2443bf-EWR"
+    },
+    "error": "HTTP Error 403: ",
+    "redacted_header_names": [
+      "set-cookie"
+    ]
+  },
+  {
+    "id": "census_2018_pums_phase2.xlsx",
+    "url": "https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-ACS-PUMS-and-2018-SIPP-Public-Use-Occupation-Code-List.xlsx",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:20:49.274102+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-ACS-PUMS-and-2018-SIPP-Public-Use-Occupation-Code-List.xlsx",
+    "headers": {
+      "date": "Fri, 09 Oct 2026 03:20:50 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+      "referrer-policy": "same-origin",
+      "server-timing": "cfEdge;dur=2,cfOrigin;dur=0",
+      "x-frame-options": "SAMEORIGIN",
+      "vary": "accept-encoding",
+      "server": "cloudflare",
+      "cf-ray": "a47a40727fd77c8e-EWR"
+    },
+    "error": "HTTP Error 403: ",
+    "redacted_header_names": [
+      "set-cookie"
+    ]
+  },
+  {
+    "id": "census_2018_soc_phase2.xlsx",
+    "url": "https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-occupation-code-list-and-crosswalk.xlsx",
+    "method": "GET",
+    "requested_range": null,
+    "version": "Official 2018 taxonomy or 2022 CT relationship; Phase 2 retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T03:20:50.704253+00:00",
+    "http_backend": "curl_cffi_chrome",
+    "status": 403,
+    "final_url": "https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-occupation-code-list-and-crosswalk.xlsx",
+    "headers": {
+      "date": "Fri, 09 Oct 2026 03:20:51 GMT",
+      "content-type": "text/html; charset=UTF-8",
+      "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+      "referrer-policy": "same-origin",
+      "server-timing": "cfEdge;dur=2,cfOrigin;dur=0",
+      "x-frame-options": "SAMEORIGIN",
+      "vary": "accept-encoding",
+      "server": "cloudflare",
+      "cf-ray": "a47a407a0e754283-EWR"
+    },
+    "error": "HTTP Error 403: ",
+    "redacted_header_names": [
+      "set-cookie"
+    ]
+  }
+]

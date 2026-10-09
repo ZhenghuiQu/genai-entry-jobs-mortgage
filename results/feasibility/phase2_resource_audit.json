@@ -1,0 +1,11 @@
+{
+  "measured_at_utc": "2026-10-09T03:49:13.332321+00:00",
+  "disk_free_bytes": 61440000000,
+  "ram_bytes": 17179869184,
+  "ram_measurement": "sysctl -n hw.memsize, current Phase 2 run",
+  "raw_retention": "Existing 118 MB feasibility data retained; no expanded national person CSV or full HMDA downloaded",
+  "national_acquisition_status": "HTTP 403; archive absent",
+  "processing_memory_limit": "DuckDB 2 GB, 2 threads, pandas chunks 100000",
+  "national_expected_compressed_bytes": 2238752642,
+  "national_size_basis": "Prior pinned ZIP metadata, re-download failed; not a current successful HEAD"
+}

@@ -1,5 +1,13 @@
 # Design Decisions Pending
 
+<!-- PHASE2 BEGIN -->
+## Current Phase 2 update — 2026-10-09 (Asia/Shanghai)
+
+The proposed cross-review primary 2018–2019 versus 2023–2025 window is not silently adopted. The full source document is missing; available Claude PPML uses 2018–2022 pre/reference2022 and has a separate 2018–2019 companion. See [Phase 2 decisions](phase2_decision_register.md) for source-specific competing specifications and author approvals.
+
+The Day 1–2 evidence below is preserved historically; current Phase 2 findings supersede its occupation/CT/provenance conclusions where explicitly stated. No outcome estimation was authorized.
+
+<!-- PHASE2 END -->
 Date: 2026-10-09 (Asia/Shanghai). Scope: Day 1–2 feasibility only. Retrieval timestamps are UTC in the source manifest.
 
 **Evidence labels.** VERIFIED DATA FACT = directly downloaded/parsed or official metadata; TECHNICAL ASSUMPTION = diagnostic implementation rule; UNRESOLVED CHOICE = design/mapping policy not fixed; RECOMMENDATION = action supported by those facts. PASS is limited to the stated procedure and denominator; FAIL rejects the tested configuration; OPEN has an unresolved dependency.

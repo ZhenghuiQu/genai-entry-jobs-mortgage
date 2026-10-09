@@ -1,5 +1,18 @@
 # Generative AI, Entry-Level Employment, and US Mortgage Markets: feasibility handoff
 
+## Current Phase 2 audit
+
+Recommendation **C**. Start with [the controller report](audit/phase2_controller_report.md) and [Phase 2 decisions](docs/phase2_decision_register.md). Official SOC hierarchy repair improves strict DE coverage to 82.994% (22–34) / 82.988% (25–34). An official CT bridge recovers 98.979% / 99.058% of the existing 2024/2025 CT purchase-originations samples. National ACS downloads currently return 403; original-repository access and four research documents remain unavailable. State fallback does not fix the shared exposure dependency.
+
+The contractual `occupation_mapping_final.csv` is marked **PROVISIONAL_AUDIT_NOT_FINAL**. National CSV entries are unobserved with blank numeric metrics. `make phase2-analyze` regenerates currently available offline Phase 2 diagnostics; `make phase2-validate` checks arithmetic, schemas, original source/literature hashes and scope. `make phase2-acquire` attempts only official Phase 2 inputs and the compressed national ACS baseline; it expands no person CSVs or HMDA snapshots. The national processing branch has not been exercised while download access remains unavailable.
+
+Five new Phase 2 documents accompany labeled updates in the original five reports. Existing literature and historical test/manifests remain preserved. Original feasibility commit `3f363bc` is an ancestor of local branch `codex/phase2-exposure-repair`; local commits do not imply integration into the inaccessible original remote. See [additive integration plan](audit/phase2_integration_plan.md).
+
+## Archived Day 1–2 handoff
+
+The following records describe the earlier audit. Current Phase 2 findings above and the labeled report updates supersede historical occupation, CT and resource conclusions.
+
+
 This workspace contains Day 1–2 feasibility validation only. Start with [the feasibility report](docs/feasibility_gate_report.md). Recommendation **C**: exposure concordance/national weighted coverage and research-document provenance remain unresolved. CZ is still provisional; State remains the user's pre-specified fallback. No treatment coefficients, significance tests, national full-download pipeline, mechanism estimates, robustness analysis, or paper were produced.
 
 ## Required documents

@@ -1,0 +1,560 @@
+[
+  {
+    "gate_id": "R01",
+    "status": "OPEN",
+    "source": "Git/connected GitHub account and requested repository",
+    "version": "3f363bca62b6d8938ee8f95696465361d2092476",
+    "test_procedure": "Inspect clean status, branches/remotes/log; connector metadata/profile/repository listing; network-enabled git ls-remote",
+    "evidence_observed": {
+      "local_branch": "codex/phase2-exposure-repair",
+      "local_base": "3f363bca62b6d8938ee8f95696465361d2092476",
+      "connector_account": "EHeroLibertyMan",
+      "requested_repository_status": 404,
+      "owner_repo_list_count": 0,
+      "git_https_auth": "unavailable",
+      "gh_cli": "not installed"
+    },
+    "validation_statistics": {
+      "local_branch": "codex/phase2-exposure-repair",
+      "local_base": "3f363bca62b6d8938ee8f95696465361d2092476",
+      "connector_account": "EHeroLibertyMan",
+      "requested_repository_status": 404,
+      "owner_repo_list_count": 0,
+      "git_https_auth": "unavailable",
+      "gh_cli": "not installed"
+    },
+    "remaining_uncertainty": "Remote contents/default branch/AGENTS.md/history unavailable; comparison and integration cannot be verified",
+    "primary_design_implication": "Local additive changes only; preserve original commit, no remote push or cherry-pick claim"
+  },
+  {
+    "gate_id": "R02",
+    "status": "OPEN",
+    "source": "Original research documents",
+    "version": "3f363bca62b6d8938ee8f95696465361d2092476",
+    "test_procedure": "Scoped workspace/Desktop and attachment filename search; revalidate available document hashes",
+    "evidence_observed": [
+      {
+        "document": "Research assignment PDF",
+        "availability": "MISSING in scoped local search; remote inaccessible"
+      },
+      {
+        "document": "Independent GPT review",
+        "availability": "MISSING"
+      },
+      {
+        "document": "Independent Claude review",
+        "availability": "AVAILABLE: eight literature/*.md files, original hashes revalidated"
+      },
+      {
+        "document": "Complete GPT–Claude cross-review",
+        "availability": "MISSING; treatment-window recommendation known only from current user instruction"
+      },
+      {
+        "document": "Separate Claude-only State audit",
+        "availability": "MISSING; distinct from available independent Claude review"
+      }
+    ],
+    "validation_statistics": [
+      {
+        "document": "Research assignment PDF",
+        "availability": "MISSING in scoped local search; remote inaccessible"
+      },
+      {
+        "document": "Independent GPT review",
+        "availability": "MISSING"
+      },
+      {
+        "document": "Independent Claude review",
+        "availability": "AVAILABLE: eight literature/*.md files, original hashes revalidated"
+      },
+      {
+        "document": "Complete GPT–Claude cross-review",
+        "availability": "MISSING; treatment-window recommendation known only from current user instruction"
+      },
+      {
+        "document": "Separate Claude-only State audit",
+        "availability": "MISSING; distinct from available independent Claude review"
+      }
+    ],
+    "remaining_uncertainty": "Assignment, GPT review, full cross-review, separate State audit missing",
+    "primary_design_implication": "Primary pre-period/reference and final geographic policy require author reconciliation"
+  },
+  {
+    "gate_id": "O01",
+    "status": "PASS",
+    "source": "BLS SOC 2018 structure PDF; official coding guide; Census ACS workbook; O*NET 2019 crosswalk",
+    "version": "BLS November 2017 / reference January 2018; Census September 26 2019; Eloundou 0471612fef3cc22b74fb884d27bff9dbd3770582",
+    "test_procedure": "Parse ordered published hierarchy; explicit Census component rows only; assert published level counts and exact O*NET identifiers",
+    "evidence_observed": {
+      "bls_counts": {
+        "detailed": 867,
+        "broad": 459,
+        "minor": 98,
+        "major": 23
+      },
+      "ratings": 923,
+      "official_onet_children": 1016,
+      "rated_soc_groups": 798,
+      "complete_soc_groups": 774,
+      "unrated_onet_children": 93,
+      "pums_groups": 529,
+      "mapping_status_counts": {
+        "covered": 453,
+        "B_unrated_detailed_or_child": 74,
+        "E_source_inconsistency": 1,
+        "C_census_military_unspecified": 1
+      },
+      "release_status": "PROVISIONAL_AUDIT_NOT_FINAL",
+      "original_feasibility_commit": "3f363bca62b6d8938ee8f95696465361d2092476"
+    },
+    "validation_statistics": {
+      "bls_counts": {
+        "detailed": 867,
+        "broad": 459,
+        "minor": 98,
+        "major": 23
+      },
+      "ratings": 923,
+      "official_onet_children": 1016,
+      "rated_soc_groups": 798,
+      "complete_soc_groups": 774,
+      "unrated_onet_children": 93,
+      "pums_groups": 529,
+      "mapping_status_counts": {
+        "covered": 453,
+        "B_unrated_detailed_or_child": 74,
+        "E_source_inconsistency": 1,
+        "C_census_military_unspecified": 1
+      },
+      "release_status": "PROVISIONAL_AUDIT_NOT_FINAL",
+      "original_feasibility_commit": "3f363bca62b6d8938ee8f95696465361d2092476"
+    },
+    "remaining_uncertainty": "Web extracts are complete text representations, not original-byte downloads; internal shares remain unknown",
+    "primary_design_implication": "Official hierarchy expansion is reproducible; numeric broad/minor groups no longer unresolved solely for missing hierarchy"
+  },
+  {
+    "gate_id": "O02",
+    "status": "OPEN",
+    "source": "Census PUMS ACS row 707 and general occupation list row 547",
+    "version": "Pinned original downloaded workbooks",
+    "test_procedure": "Compare explicit Census component 7550 and title to the separate official Census list and exact O*NET SOC",
+    "evidence_observed": {
+      "original": "40-9095",
+      "supported_candidate": "49-9095",
+      "primary_policy": "retain anomaly; keep group 7640 unscored",
+      "other_unresolved_special_code": "55-9830 Census military unspecified, not assumed official SOC"
+    },
+    "validation_statistics": {
+      "original": "40-9095",
+      "supported_candidate": "49-9095",
+      "primary_policy": "retain anomaly; keep group 7640 unscored",
+      "other_unresolved_special_code": "55-9830 Census military unspecified, not assumed official SOC"
+    },
+    "remaining_uncertainty": "No PUMS-specific erratum observed; group 7640 also includes unrated 49-9099",
+    "primary_design_implication": "Candidate correction is auditable, not silently adopted; military unspecified remains explicit special category"
+  },
+  {
+    "gate_id": "O03",
+    "status": "OPEN",
+    "source": "O*NET-SOC 2019 crosswalk and pinned exposure ratings",
+    "version": "1016 official O*NET occupations; 923 ratings",
+    "test_procedure": "Count unrated detailed SOCs and children; primary requires every official child/member rated; compare alternative equal O*NET-child rule",
+    "evidence_observed": {
+      "rated_detailed_SOC": 798,
+      "fully_rated_detailed_SOC": 774,
+      "unrated_detailed_SOC": 69,
+      "partially_rated_detailed_SOC": 24,
+      "unrated_ONET_children": 93,
+      "internal_employment_weights": "not available in inspected ACS/O*NET files"
+    },
+    "validation_statistics": {
+      "rated_detailed_SOC": 798,
+      "fully_rated_detailed_SOC": 774,
+      "unrated_detailed_SOC": 69,
+      "partially_rated_detailed_SOC": 24,
+      "unrated_ONET_children": 93,
+      "internal_employment_weights": "not available in inspected ACS/O*NET files"
+    },
+    "remaining_uncertainty": "Equal internal shares are assumptions; OEWS has no age demographics or O*NET-child employment and 2019 uses hybrid SOC categories",
+    "primary_design_implication": "Occupation scores are provisional; employment weighting only occurs with PWGTP and fractional afactor"
+  },
+  {
+    "gate_id": "O04",
+    "status": "FAIL",
+    "source": "Delaware ACS 2015-2019 five-year PUMS",
+    "version": "Original archive pinned by source_manifest; 45217 rows",
+    "test_procedure": "Re-run original script, verify outputs; stream all person records, ESR 1/2; retain every employed PWGTP denominator; evaluate 98% target",
+    "evidence_observed": [
+      {
+        "age_group": "22-34",
+        "employment_weight": 123656.0,
+        "covered_weight": 102627.0,
+        "weighted_coverage_percent_after": 82.99395096072976,
+        "available_soc_diagnostic_coverage_percent": 88.43566021867115,
+        "exposure_lower": 0.2797889282215768,
+        "exposure_upper": 0.4498494186142792,
+        "weighted_coverage_percent_before": 71.17810700653426
+      },
+      {
+        "age_group": "25-34",
+        "employment_weight": 100473.0,
+        "covered_weight": 83381.0,
+        "weighted_coverage_percent_after": 82.98846456261882,
+        "available_soc_diagnostic_coverage_percent": 88.84277368049128,
+        "exposure_lower": 0.2821048596152417,
+        "exposure_upper": 0.4522202139890536,
+        "weighted_coverage_percent_before": 71.52966468603505
+      }
+    ],
+    "validation_statistics": [
+      {
+        "age_group": "22-34",
+        "employment_weight": 123656.0,
+        "covered_weight": 102627.0,
+        "weighted_coverage_percent_after": 82.99395096072976,
+        "available_soc_diagnostic_coverage_percent": 88.43566021867115,
+        "exposure_lower": 0.2797889282215768,
+        "exposure_upper": 0.4498494186142792,
+        "weighted_coverage_percent_before": 71.17810700653426
+      },
+      {
+        "age_group": "25-34",
+        "employment_weight": 100473.0,
+        "covered_weight": 83381.0,
+        "weighted_coverage_percent_after": 82.98846456261882,
+        "available_soc_diagnostic_coverage_percent": 88.84277368049128,
+        "exposure_lower": 0.2821048596152417,
+        "exposure_upper": 0.4522202139890536,
+        "weighted_coverage_percent_before": 71.52966468603505
+      }
+    ],
+    "remaining_uncertainty": "Delaware is not national validation; unscored employment can affect rankings",
+    "primary_design_implication": "Technical repair improves coverage but neither age band achieves prespecified 98%; target is project-specific, not statistical law"
+  },
+  {
+    "gate_id": "O05",
+    "status": "OPEN",
+    "source": "National ACS person PUMS https://www2.census.gov/programs-surveys/acs/data/pums/2019/5-Year/csv_pus.zip",
+    "version": "ACS 2015-2019 five-year baseline",
+    "test_procedure": "Recheck resources, attempt bounded streaming download with default and existing validated HTTP clients",
+    "evidence_observed": {
+      "download_status": 403,
+      "national_rows_observed": 0,
+      "national_geography_coverage": "not computed",
+      "available_processing_validation": "complete Delaware archive"
+    },
+    "validation_statistics": {
+      "download_status": 403,
+      "national_rows_observed": 0,
+      "national_geography_coverage": "not computed",
+      "available_processing_validation": "complete Delaware archive"
+    },
+    "remaining_uncertainty": "Cloudflare response blocks download; no national state/CZ/major-group/ranking validation",
+    "primary_design_implication": "Do not use DE rates as national estimates; National CSV rows have observed=False and blank numeric values"
+  },
+  {
+    "gate_id": "G01",
+    "status": "PASS",
+    "source": "Dorn cw_cty_czone and cw_puma2010_czone archives",
+    "version": "Pinned source-manifest hashes; county1990/PUMA2010",
+    "test_procedure": "Unique keys/pairs; published factor sums at tolerance 1e-6; PWGTP*afactor conservation",
+    "evidence_observed": {
+      "county_rows": 3141,
+      "CZs": 741,
+      "PUMAs": 2351,
+      "split_PUMAs": 553,
+      "fractional_allocation_error_DE": 0.0
+    },
+    "validation_statistics": {
+      "county_rows": 3141,
+      "CZs": 741,
+      "PUMAs": 2351,
+      "split_PUMAs": 553,
+      "fractional_allocation_error_DE": 0.0
+    },
+    "remaining_uncertainty": "Population allocation factors do not reveal true young-worker residence within PUMA",
+    "primary_design_implication": "Retain fractional mass; geographic arithmetic passes for observed DE sample only"
+  },
+  {
+    "gate_id": "G02",
+    "status": "PASS",
+    "source": "Official Census ACS22 COUSUB22-BLKGRP20 and COUSUB22-TRACT22 relationships; Dorn county map",
+    "version": "2022 CT official relationships, complete web extracts retrieved Phase 2",
+    "test_procedure": "Use all positive-area relationships; map old county to CZ only if unique; check region and tract join keys and sample inconsistencies",
+    "evidence_observed": {
+      "towns": 174,
+      "tracts": 884,
+      "ambiguous_tracts": 0,
+      "old_CT_counties": 8,
+      "new_CT_regions": 9,
+      "CT_CZ": 20901,
+      "samples": [
+        {
+          "year": 2018,
+          "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+          "rows": 41156,
+          "option_A_mapped_rows": 41016,
+          "option_A_coverage_percent": 99.65983088735543,
+          "option_A_unmapped_reasons": {
+            "missing_county_without_recovery": 138,
+            "inconsistent_identifiers": 2
+          },
+          "missing_county_rows": 138,
+          "county_state_inconsistent_rows": 2,
+          "tract_county_inconsistent_rows": 0,
+          "option_B_consistent_CT_exclusion_rows": 41156,
+          "option_B_CT_retention_percent": 0
+        },
+        {
+          "year": 2023,
+          "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+          "rows": 35534,
+          "option_A_mapped_rows": 35290,
+          "option_A_coverage_percent": 99.31333370856082,
+          "option_A_unmapped_reasons": {
+            "missing_county_without_recovery": 244
+          },
+          "missing_county_rows": 244,
+          "county_state_inconsistent_rows": 0,
+          "tract_county_inconsistent_rows": 0,
+          "option_B_consistent_CT_exclusion_rows": 35534,
+          "option_B_CT_retention_percent": 0
+        },
+        {
+          "year": 2024,
+          "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+          "rows": 35150,
+          "option_A_mapped_rows": 34791,
+          "option_A_coverage_percent": 98.97866287339971,
+          "option_A_unmapped_reasons": {
+            "missing_county_without_recovery": 359
+          },
+          "missing_county_rows": 359,
+          "county_state_inconsistent_rows": 0,
+          "tract_county_inconsistent_rows": 0,
+          "option_B_consistent_CT_exclusion_rows": 35150,
+          "option_B_CT_retention_percent": 0
+        },
+        {
+          "year": 2025,
+          "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+          "rows": 35676,
+          "option_A_mapped_rows": 35340,
+          "option_A_coverage_percent": 99.05819038008745,
+          "option_A_unmapped_reasons": {
+            "missing_county_without_recovery": 336
+          },
+          "missing_county_rows": 336,
+          "county_state_inconsistent_rows": 0,
+          "tract_county_inconsistent_rows": 0,
+          "option_B_consistent_CT_exclusion_rows": 35676,
+          "option_B_CT_retention_percent": 0
+        }
+      ]
+    },
+    "validation_statistics": {
+      "towns": 174,
+      "tracts": 884,
+      "ambiguous_tracts": 0,
+      "old_CT_counties": 8,
+      "new_CT_regions": 9,
+      "CT_CZ": 20901,
+      "samples": [
+        {
+          "year": 2018,
+          "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+          "rows": 41156,
+          "option_A_mapped_rows": 41016,
+          "option_A_coverage_percent": 99.65983088735543,
+          "option_A_unmapped_reasons": {
+            "missing_county_without_recovery": 138,
+            "inconsistent_identifiers": 2
+          },
+          "missing_county_rows": 138,
+          "county_state_inconsistent_rows": 2,
+          "tract_county_inconsistent_rows": 0,
+          "option_B_consistent_CT_exclusion_rows": 41156,
+          "option_B_CT_retention_percent": 0
+        },
+        {
+          "year": 2023,
+          "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+          "rows": 35534,
+          "option_A_mapped_rows": 35290,
+          "option_A_coverage_percent": 99.31333370856082,
+          "option_A_unmapped_reasons": {
+            "missing_county_without_recovery": 244
+          },
+          "missing_county_rows": 244,
+          "county_state_inconsistent_rows": 0,
+          "tract_county_inconsistent_rows": 0,
+          "option_B_consistent_CT_exclusion_rows": 35534,
+          "option_B_CT_retention_percent": 0
+        },
+        {
+          "year": 2024,
+          "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+          "rows": 35150,
+          "option_A_mapped_rows": 34791,
+          "option_A_coverage_percent": 98.97866287339971,
+          "option_A_unmapped_reasons": {
+            "missing_county_without_recovery": 359
+          },
+          "missing_county_rows": 359,
+          "county_state_inconsistent_rows": 0,
+          "tract_county_inconsistent_rows": 0,
+          "option_B_consistent_CT_exclusion_rows": 35150,
+          "option_B_CT_retention_percent": 0
+        },
+        {
+          "year": 2025,
+          "sample_scope": "CT recorded purchase originations, all ages; not national application universe",
+          "rows": 35676,
+          "option_A_mapped_rows": 35340,
+          "option_A_coverage_percent": 99.05819038008745,
+          "option_A_unmapped_reasons": {
+            "missing_county_without_recovery": 336
+          },
+          "missing_county_rows": 336,
+          "county_state_inconsistent_rows": 0,
+          "tract_county_inconsistent_rows": 0,
+          "option_B_consistent_CT_exclusion_rows": 35676,
+          "option_B_CT_retention_percent": 0
+        }
+      ]
+    },
+    "remaining_uncertainty": "Coverage observed only for four existing CT purchase-origination extracts, all ages; missing identifiers remain",
+    "primary_design_implication": "Option A is technically validated at CZ level; recommend retain CT via documented unique-CZ bridge provisionally"
+  },
+  {
+    "gate_id": "G03",
+    "status": "OPEN",
+    "source": "Dorn county-code changes September 2021; Census 2019 county population",
+    "version": "Pinned source-manifest hashes",
+    "test_procedure": "Compare genuine renames, Broomfield approximation, state exclusion and all county-state memberships",
+    "evidence_observed": {
+      "cross_state_CZs": 137,
+      "CT_affected_CZs": [
+        20901
+      ],
+      "CT_cross_state_CZs": [],
+      "population_inventory": [
+        {
+          "policy": "retain_CT",
+          "county_rows": 3108,
+          "mapped_rows": 3108,
+          "population": 326092106,
+          "mapped_population": 326092106,
+          "coverage_percent": 100.0,
+          "basis": "2019 county population inventory, not HMDA coverage; candidate Broomfield approximation included"
+        },
+        {
+          "policy": "exclude_CT",
+          "county_rows": 3100,
+          "mapped_rows": 3100,
+          "population": 322526819,
+          "mapped_population": 322526819,
+          "coverage_percent": 100.0,
+          "basis": "2019 county population inventory, not HMDA coverage; candidate Broomfield approximation included"
+        },
+        {
+          "policy": "drop_CT_affected_CZs",
+          "county_rows": 3100,
+          "mapped_rows": 3100,
+          "population": 322526819,
+          "mapped_population": 322526819,
+          "coverage_percent": 100.0,
+          "basis": "2019 county population inventory, not HMDA coverage; candidate Broomfield approximation included"
+        }
+      ]
+    },
+    "validation_statistics": {
+      "cross_state_CZs": 137,
+      "CT_affected_CZs": [
+        20901
+      ],
+      "CT_cross_state_CZs": [],
+      "population_inventory": [
+        {
+          "policy": "retain_CT",
+          "county_rows": 3108,
+          "mapped_rows": 3108,
+          "population": 326092106,
+          "mapped_population": 326092106,
+          "coverage_percent": 100.0,
+          "basis": "2019 county population inventory, not HMDA coverage; candidate Broomfield approximation included"
+        },
+        {
+          "policy": "exclude_CT",
+          "county_rows": 3100,
+          "mapped_rows": 3100,
+          "population": 322526819,
+          "mapped_population": 322526819,
+          "coverage_percent": 100.0,
+          "basis": "2019 county population inventory, not HMDA coverage; candidate Broomfield approximation included"
+        },
+        {
+          "policy": "drop_CT_affected_CZs",
+          "county_rows": 3100,
+          "mapped_rows": 3100,
+          "population": 322526819,
+          "mapped_population": 322526819,
+          "coverage_percent": 100.0,
+          "basis": "2019 county population inventory, not HMDA coverage; candidate Broomfield approximation included"
+        }
+      ]
+    },
+    "remaining_uncertainty": "Broomfield approximation needs acceptance; complete national application missing/mismatch shares unavailable; MI employment losses not computed",
+    "primary_design_implication": "CT exclusion removes one whole CZ, not a partial cross-state CZ; other state exclusions require full-component audits"
+  },
+  {
+    "gate_id": "D01",
+    "status": "OPEN",
+    "source": "Available Claude identification/research-plan files and current Phase 2 user request",
+    "version": "3f363bca62b6d8938ee8f95696465361d2092476",
+    "test_procedure": "Document competing primary windows/reference-year implications, preserve PPML DDD/dynamic companion and descriptive interpretation",
+    "evidence_observed": {
+      "current_provisional_window": "2018-2025; pre2018-2022/post2023-2025; reference2022",
+      "requested_crossreview_comparison": "2018-2019 vs2023-2025, attributed only to user instruction",
+      "regressions_run": 0
+    },
+    "validation_statistics": {
+      "current_provisional_window": "2018-2025; pre2018-2022/post2023-2025; reference2022",
+      "requested_crossreview_comparison": "2018-2019 vs2023-2025, attributed only to user instruction",
+      "regressions_run": 0
+    },
+    "remaining_uncertainty": "Full cross-review absent; restricted comparison cannot use omitted 2022 as its within-sample reference",
+    "primary_design_implication": "No primary pre-period/reference switch without author approval; no coefficients/significance tests produced"
+  },
+  {
+    "gate_id": "V01",
+    "status": "PASS",
+    "source": "Current system resource measurements and scripts",
+    "version": "Phase 2 runtime",
+    "test_procedure": "Check disk/RAM; stream ZIP chunks; pin derived schemas and no-regression scope",
+    "evidence_observed": {
+      "measured_at_utc": "2026-10-09T03:49:13.332321+00:00",
+      "disk_free_bytes": 61440000000,
+      "ram_bytes": 17179869184,
+      "ram_measurement": "sysctl -n hw.memsize, current Phase 2 run",
+      "raw_retention": "Existing 118 MB feasibility data retained; no expanded national person CSV or full HMDA downloaded",
+      "national_acquisition_status": "HTTP 403; archive absent",
+      "processing_memory_limit": "DuckDB 2 GB, 2 threads, pandas chunks 100000",
+      "national_expected_compressed_bytes": 2238752642,
+      "national_size_basis": "Prior pinned ZIP metadata, re-download failed; not a current successful HEAD"
+    },
+    "validation_statistics": {
+      "measured_at_utc": "2026-10-09T03:49:13.332321+00:00",
+      "disk_free_bytes": 61440000000,
+      "ram_bytes": 17179869184,
+      "ram_measurement": "sysctl -n hw.memsize, current Phase 2 run",
+      "raw_retention": "Existing 118 MB feasibility data retained; no expanded national person CSV or full HMDA downloaded",
+      "national_acquisition_status": "HTTP 403; archive absent",
+      "processing_memory_limit": "DuckDB 2 GB, 2 threads, pandas chunks 100000",
+      "national_expected_compressed_bytes": 2238752642,
+      "national_size_basis": "Prior pinned ZIP metadata, re-download failed; not a current successful HEAD"
+    },
+    "remaining_uncertainty": "National throughput unmeasured because download failed; no current author deadline",
+    "primary_design_implication": "Storage/RAM permit streaming architecture; access is the active technical dependency"
+  }
+]

@@ -1,5 +1,13 @@
 # Geography Audit
 
+<!-- PHASE2 BEGIN -->
+## Current Phase 2 update — 2026-10-09 (Asia/Shanghai)
+
+The official CT bridge now passes a bounded CZ validation: all old CT counties and all nine new regions have unique Dorn CZ 20901. 2024/2025 existing CT-originations linkage is 98.979%/99.058%; missing codes remain. CT exclusion removes a whole CT-only CZ. See [geographic resolution](geographic_design_resolution.md).
+
+The Day 1–2 evidence below is preserved historically; current Phase 2 findings supersede its occupation/CT/provenance conclusions where explicitly stated. No outcome estimation was authorized.
+
+<!-- PHASE2 END -->
 Date: 2026-10-09 (Asia/Shanghai). Scope: Day 1–2 feasibility only. Retrieval timestamps are UTC in the source manifest.
 
 **Evidence labels.** VERIFIED DATA FACT = directly downloaded/parsed or official metadata; TECHNICAL ASSUMPTION = diagnostic implementation rule; UNRESOLVED CHOICE = design/mapping policy not fixed; RECOMMENDATION = action supported by those facts. PASS is limited to the stated procedure and denominator; FAIL rejects the tested configuration; OPEN has an unresolved dependency.

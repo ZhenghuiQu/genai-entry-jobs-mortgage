@@ -1,0 +1,522 @@
+{
+  "original_commit": "3f363bca62b6d8938ee8f95696465361d2092476",
+  "remote_integrated": false,
+  "artifacts": [
+    {
+      "path": "docs/data_source_registry.md",
+      "bytes": 44630,
+      "sha256": "ce2acb30b7bfa57a0d2058f92b1ad7d791e682627303c6f98af8ffcb61a6d695",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "docs/design_decisions_pending.md",
+      "bytes": 7945,
+      "sha256": "4819798d211077b856ae883422b738548a5757713402f7f2533af9f6c6a325cc",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "docs/feasibility_gate_report.md",
+      "bytes": 23116,
+      "sha256": "f0e0cbe0dd5e1f73d0d7a05afcf92634eb047d30c2f686d2a89c89c115f539c2",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "docs/geographic_design_resolution.md",
+      "bytes": 5536,
+      "sha256": "3489e7b02bced898b95f3438d6ced999f14e48384e0f16705cf140f3950ff351",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "docs/geography_audit.md",
+      "bytes": 10554,
+      "sha256": "46496a381f0f96ae03f4639aa0d78311834aa92b6bc40dd506db1137164570ca",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "docs/national_exposure_coverage.md",
+      "bytes": 5697,
+      "sha256": "63b1c82b07a70a6c1bb2524a485eeb5656ac89e64d1b8cd29a355b4a98373aee",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "docs/occupation_crosswalk_audit.md",
+      "bytes": 11145,
+      "sha256": "b4ac96f35e2291c0df2272f5331c5adb111b22150e9bd9a4f020bd1a10c3e90f",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "docs/occupation_mapping_resolution.md",
+      "bytes": 6559,
+      "sha256": "863348753357695eb464053fb25002e72597acc5dc23cda25a010bddc7900133",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "docs/phase2_decision_register.md",
+      "bytes": 6305,
+      "sha256": "5e7195fb7602924382c7d639036cb1a226ba7a9dd5cd68b58550f70957331717",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "docs/research_provenance_integration.md",
+      "bytes": 4879,
+      "sha256": "f0da36715e52f615c46c6137e30559d4b1783c23e30f13a1c96b1113b7423fc8",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "audit/day_1_2_request.txt",
+      "bytes": 5889,
+      "sha256": "50bf650a53fe50fbecc9613f2cfd50577808295267bff0a5fd169576b27f564b",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "audit/interaction_audit.md",
+      "bytes": 4193,
+      "sha256": "64a1f9a30cad1ec570ef4f44bff8b42c7002d3ab042dbe38b89b5d355ab56b87",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "audit/phase2_controller_report.md",
+      "bytes": 2229,
+      "sha256": "f73e75aedd56c154cf8e2f5cb8c48281dcd141ebfaa4c8b1b86c2c9d6f452113",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "audit/phase2_ct_relationship_web_records.txt",
+      "bytes": 412392,
+      "sha256": "75c92d99bec3602b15f8c7485842d975e3a33f3beaedf2044609fa561eb19d8c",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "audit/phase2_ct_tract_web_records.txt",
+      "bytes": 141870,
+      "sha256": "d9ea60fe4e7c315de3e014192354f239f3ab515236128d6dac4345adb99919f0",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "audit/phase2_diff_review.json",
+      "bytes": 2982,
+      "sha256": "9487242371b5301d73f189b430f100bf6f5877edcc3f8e01513fea78642e799f",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "audit/phase2_integration_plan.md",
+      "bytes": 2039,
+      "sha256": "e1b655932d32f4cdd6e2e90114b24e2f1626e332013d89ab149ace08b7f55b16",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "audit/phase2_interaction_audit.md",
+      "bytes": 2574,
+      "sha256": "0526a67019b08f56399354243efcbf2dafd478fdd3e49d93b91c5ec37d5a88bb",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "audit/phase2_request.txt",
+      "bytes": 10884,
+      "sha256": "287ff24d6e173806dd0636c61b77dead4ce74493ce335f1ff0c93ef565498c00",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "audit/phase2_soc_official_web_extract.txt",
+      "bytes": 96262,
+      "sha256": "e5604967bd961d59bf60100276fd77936a95647b15996078f2e6c41e728c7249",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "audit/repository_access.md",
+      "bytes": 1577,
+      "sha256": "b5953988567c3b7b97a676e0cd0afbe0f58a4f1407e79e3892672ec5c31d5ec2",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "scripts/phase2/acquire_sources.py",
+      "bytes": 3948,
+      "sha256": "eef252006b1ae4ca86a4c159f2d4e22ac4c238c0b147f78eca070d033e206500",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "scripts/phase2/build_occupation_mapping.py",
+      "bytes": 8023,
+      "sha256": "d71686008a7b421fb3709bc06670ca9bb2fce6d9d64268023e53caf2b94a66a5",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "scripts/phase2/exposure_coverage.py",
+      "bytes": 9977,
+      "sha256": "4ac2e4e033709ac6c30fa4e73bd8a6685342011ca50f721a3bf67a32b0818fa6",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "scripts/phase2/geographic_resolution.py",
+      "bytes": 7042,
+      "sha256": "0a6fd691a62aedc386850e556ed5110d1f885251949c44178374a30cd8dadf41",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "scripts/phase2/render_phase2_reports.py",
+      "bytes": 41683,
+      "sha256": "0a5f5fd04daef36bf05ba383b02976a36cbed1d22d397fba77393900c84d42fc",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "scripts/phase2/validate_phase2.py",
+      "bytes": 9987,
+      "sha256": "8ed948a5e2151cfe676d598c6c3cf24236c0f6acffe0b51fbe55994b59be1668",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/acs_lookup_selected.json",
+      "bytes": 3993,
+      "sha256": "d7a7d72ba31ec1a8db546ad49b64e2f1ec678d059f4fc42e579e0e9f161a1a83",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/auxiliary_audit.json",
+      "bytes": 8920,
+      "sha256": "2e7cf8cd8f9b2cf9145c71724dcadc2d831d5019c95da05bf31d147a1475defb",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/compute_audit.json",
+      "bytes": 3052,
+      "sha256": "f6b2f2c726e0f966fa9748b626ddc5f56b7993a6669045dee53d9a747b47072a",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/exposure_coverage_by_geography.csv",
+      "bytes": 13876,
+      "sha256": "78105159a56c1c233e9fa6d2c51096dd90697d14e301a4992f767421c889297a",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/exposure_sensitivity.csv",
+      "bytes": 35242,
+      "sha256": "76a26b6996047e0c8b3a564a6769b945a99641be03c2037823922e451bb1d786",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/followup_source_acquisition.json",
+      "bytes": 16099,
+      "sha256": "357c3488269f5e309cc6db470e21677b94da32043f881f25ba776f283645f3d9",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/geography_audit.json",
+      "bytes": 10064,
+      "sha256": "1693de639263242a7361f1d20d9360fc9f2f4353a4ef11c1b20bea062624f12f",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/hmda_field_codes.json",
+      "bytes": 141010,
+      "sha256": "761427adda933b10124dfa0caef4555a15b01abc2d4d3f97138014c7c46f9e84",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/hmda_filter_funnel.json",
+      "bytes": 10099,
+      "sha256": "01a1ed14ead3061042505302d8086120815d6732f2687bd8b715568cf71d2013",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/hmda_schema_comparison.json",
+      "bytes": 11315,
+      "sha256": "3924e851e4410e84e4c1023db3167ff84837aa2c834173a24b16ee066a2dd04c",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/hmda_snapshot_probe.json",
+      "bytes": 263504,
+      "sha256": "ad6a92029e2daec5765b2dd2b4d9bbc0c49cee1d2db8e79295d158f1efa8b50c",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/local_artifact_manifest.json",
+      "bytes": 12837,
+      "sha256": "36d8e4d5d8e8695d5afe012db30d345915af9e17a7c677f1060b831366d77a13",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/occupation_ambiguous_groups.csv",
+      "bytes": 24011,
+      "sha256": "79dd1d81b37d58b0964a10029d98779c20b3206405b3f351a343d5b94bfd423e",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/occupation_audit.json",
+      "bytes": 28259,
+      "sha256": "3c02ed236246705f7fbc8e1003f723ce1969b39e5de7b843f6c11ce9bc9626ec",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/occupation_mapping_diagnostic.csv",
+      "bytes": 68734,
+      "sha256": "1e4e35d198cc4d33ee4e6b975d8ceca834b8cbf99eb47d8bb28ce7faf2810aab",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/occupation_mapping_final.csv",
+      "bytes": 451959,
+      "sha256": "1c2f8b3aa5f47f0b12d1094426fea1f946008d36828d99d01a79e6f899f026c2",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/occupation_unmatched_groups.csv",
+      "bytes": 8310,
+      "sha256": "eb0a4b8da05846c6420b27810784491eea27def42136484e4631d9c5f7241594",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/occupation_weighted_coverage.csv",
+      "bytes": 1149,
+      "sha256": "b3847a9e9b1dfcc5d248bef5746924ddd673e25c29cbfd357575f8a173dbfc52",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_audit.ipynb",
+      "bytes": 3342,
+      "sha256": "914f8deb31148ec202a70e62e82c89a20f82dcdc7afc796bd82ecf5adfda18f3",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_coverage_by_major_group.csv",
+      "bytes": 86984,
+      "sha256": "215685917ce7fafaaab52347418b5728d4992707b27039a9eb90a7398e24f102",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_ct_region_membership.csv",
+      "bytes": 419,
+      "sha256": "47f4ddd44911e7e9c4b3c174bb5e96da6f7c3b984650b5312f0e6bb9047e7958",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_ct_tract_bridge.csv",
+      "bytes": 136210,
+      "sha256": "6eda59383eb0e9926873a8ef72bd601f10791614400584db04a4bff6f198f4bf",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_exposure_rank_checks.csv",
+      "bytes": 735,
+      "sha256": "72b92896f98fb230dafb909dc20e72a99335493286d7c5db88d5415d2c88975d",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_gate_status.json",
+      "bytes": 25841,
+      "sha256": "ba0dc0f5eb393fc5c6df7c19eb9b62db85cdf33d3712c3fa96ee2d02678d035b",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_geography_summary.json",
+      "bytes": 5484,
+      "sha256": "069de3412e0ff7752b1c32a75ef232bc83d67a9f461f9c7ebf9ec364e99cb394",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_national_acquisition.json",
+      "bytes": 315,
+      "sha256": "6e5bab566ff26041b690350a299f0be78f907e41dcb60465f16887c189187d31",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_occupation_summary.json",
+      "bytes": 553,
+      "sha256": "742fb7c12fe39cea72232f1b8238d7a592b88d835e99f4697b09799685a99b18",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_partial_cz_population.csv",
+      "bytes": 3255,
+      "sha256": "7125160a5388c991686c1bbc25d7b493033c5cab4b4fcb338f61fc7e25d4b798",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_processing_log.json",
+      "bytes": 821,
+      "sha256": "3f93585f501fff4f9f4eb6d8ee93aac35ca6fadd72c506d7f4ba40cefd7ffc4e",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_research_document_status.json",
+      "bytes": 663,
+      "sha256": "fe511c2c2d9127d8f5053f83eaf82610f9af54c58a91d6cd7c59abf781389b97",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_resource_audit.json",
+      "bytes": 604,
+      "sha256": "09621063d98ee7b75bcb41e06f8bdd60caeaa8475460d98ad4c196ba470d0edf",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_small_acquisition.json",
+      "bytes": 12795,
+      "sha256": "895ae84a9f8da1b325887968be794990327a4e06f3385a64f5c60221b7acbc28",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_test_register.json",
+      "bytes": 24349,
+      "sha256": "66b7e7443a68bef66d8979d5f028679d997aa4a5568e4984d6005a696a0e7e87",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_unrated_onet_members.csv",
+      "bytes": 5597,
+      "sha256": "9bc1df1b30545069f913ae836cb9b12c5c6a7229939eec9a689607f078d4afd6",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_validation.json",
+      "bytes": 2528,
+      "sha256": "76a561a4c5428690e8b814348abba583e73d698d4c2b6f883f7f5c83edb06b03",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/phase2_web_source_manifest.json",
+      "bytes": 1909,
+      "sha256": "7946e5154558331f8de219de78fa52b9d8c296e56f92b7ecc6169269e68a1606",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/pums_resource_audit.json",
+      "bytes": 4576,
+      "sha256": "e02ced286ef3f4caf3d9e12a79b1d7eb36e8bfe7bbd14788375e9f9133d47603",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/qwi_download_sizes.json",
+      "bytes": 3464,
+      "sha256": "5e00f1ca3c532c7e8a844948913aad7c313c0a978849da01f1d178e9bea359af",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/qwi_sample_audit.json",
+      "bytes": 1635,
+      "sha256": "6bdadf81770a3c1b63c64e3e5358fe08b96062ab33c256be90f09763d87596a8",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/qwi_versions.json",
+      "bytes": 75738,
+      "sha256": "bd545d634bc219f2abb348e327fac055ffe3a9ae6a4a5be3bed1b5aad7713da3",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/research_document_manifest.json",
+      "bytes": 1768,
+      "sha256": "2cd30e66ad5f8850589c00e4bea8c1eb60bd243882419e02dcc1b11a8ae2ef32",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/small_source_acquisition.json",
+      "bytes": 29234,
+      "sha256": "ea0312bf5206b525c9c4bd3dfc9fa147208b5b2eabcd5f7e49ea4fd882259832",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/soc2018_official_hierarchy.csv",
+      "bytes": 188760,
+      "sha256": "7f67a75fcba995199b57950ce2c23f43c1a06281e812dbaabaf9ce18321faff5",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/source_manifest.jsonl",
+      "bytes": 173632,
+      "sha256": "f2f374cff0f5439c5649133d24292933c9bea5fe3acb35da05f1c1aeb1164209",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/test_register.json",
+      "bytes": 25500,
+      "sha256": "6c4602ee03a5e94797e14dd38e73d2d8fe0e77f2d1e87285904cb69422b58ef7",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/unmatched_employment_by_group.csv",
+      "bytes": 118905,
+      "sha256": "9a5969680b4382f8dd027d2fb8528c5036da708cc63b637f7ad3b062316f85d6",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "results/feasibility/validation.json",
+      "bytes": 265,
+      "sha256": "434d4f3d2229fe26ec1066f57b21a63505f62281cef5483fb47f2c2ba92fd461",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6071,
+      "sha256": "0117a43f18492f842ba683188d153b96f52305a8c1d4c535ce88468c4b124eb6",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "Makefile",
+      "bytes": 1964,
+      "sha256": "502a8640328fe78328cf0fddc9d0cf5c7b161c4e69dc9019c98ccfd3be010b3a",
+      "hash_scope": "local artifact bytes"
+    },
+    {
+      "path": "data/feasibility/exposure.csv",
+      "bytes": 126022,
+      "sha256": "40c74f53de40aec91c0017d80690cbba915f83a8bb414bcf2f884692f1749acb",
+      "hash_scope": "local bytes; original-source hashes validated separately"
+    },
+    {
+      "path": "data/feasibility/onet_soc2018.xlsx",
+      "bytes": 44847,
+      "sha256": "bfc6722a92c2d607e5a99dee88b7826cf5aa91f7c0453182e0c8268e32a20a19",
+      "hash_scope": "local bytes; original-source hashes validated separately"
+    },
+    {
+      "path": "data/feasibility/census_2018_pums.xlsx",
+      "bytes": 73419,
+      "sha256": "20cc7112cf96c7a3648b579cc0b2af239bea1c9094885a0d986959888695fe0a",
+      "hash_scope": "local bytes; original-source hashes validated separately"
+    },
+    {
+      "path": "data/feasibility/census_2018_soc.xlsx",
+      "bytes": 160312,
+      "sha256": "fca2818d691c32777a4cd733a9ab77c8c5bd47adcacd7ac3aa149bebd45b5f7f",
+      "hash_scope": "local bytes; original-source hashes validated separately"
+    },
+    {
+      "path": "data/feasibility/pums_de.zip",
+      "bytes": 6595972,
+      "sha256": "4115c1f8b1c8cce404caabf545c35e370a6268844012340b5dd59f3ad9346afc",
+      "hash_scope": "local bytes; original-source hashes validated separately"
+    },
+    {
+      "path": "data/feasibility/dorn_county.zip",
+      "bytes": 13000,
+      "sha256": "0843c69c6598ec01311d131e08996a9805e17e2cc7cedbd2d72d617193ed6b9a",
+      "hash_scope": "local bytes; original-source hashes validated separately"
+    },
+    {
+      "path": "data/feasibility/dorn_puma.zip",
+      "bytes": 27418,
+      "sha256": "295429e9221b5428eac3377d39fc3abd0c574917d07626aafd66a556061f23a7",
+      "hash_scope": "local bytes; original-source hashes validated separately"
+    },
+    {
+      "path": "data/feasibility/dorn_state.zip",
+      "bytes": 4114,
+      "sha256": "9a1d9f8bcbde2565afd78f0ccc40c1d226c9f5f29bb0c0b331abb71e5ef27304",
+      "hash_scope": "local bytes; original-source hashes validated separately"
+    },
+    {
+      "path": "data/feasibility/pop2019.csv",
+      "bytes": 3644730,
+      "sha256": "654032fbb805bc9a7c124ba04ad47e170f5d9dc9d4974a73edfc20598fde77d8",
+      "hash_scope": "local bytes; original-source hashes validated separately"
+    },
+    {
+      "path": "data/feasibility/county_changes.pdf",
+      "bytes": 63680,
+      "sha256": "80289731be1777d1999bc203e1ff80c0ecffb244f9e5709454ce39d2873c5703",
+      "hash_scope": "local bytes; original-source hashes validated separately"
+    }
+  ]
+}
