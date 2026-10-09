@@ -1,0 +1,187 @@
+# ROLE: Senior Empirical Research Engineer and Reproducibility Auditor
+
+Project: Generative AI, Entry-Level Employment, and US Mortgage Markets.
+
+Repository:
+https://github.com/ZhenghuiQu/genai-entry-jobs-mortgage
+
+We have completed two independent literature reviews (GPT and Claude) and a subsequent methodological cross-review.
+
+Your immediate assignment is **Day 1–2 Data Feasibility Validation**, not full empirical implementation.
+
+## 1. Read the research documents
+
+Inspect the original research assignment, both independent literature-review packages, and the cross-review documents.
+
+There are two different cross-review versions:
+
+- The complete GPT–Claude cross-review, which provisionally recommends a commuting-zone-level design.
+- An independent Claude-only audit, which recommends a simpler state-level design.
+
+Do not silently merge these into a single specification.
+
+Treat CZ as the provisional preferred geography and State as a pre-specified feasibility fallback. Do not finalize this choice until the geographic and exposure-construction checks are completed.
+
+If any required research documents are missing from the repository, explicitly identify them. Do not invent their contents.
+
+## 2. Conduct the critical feasibility checks
+
+### Gate A — HMDA Data
+
+Verify official programmatic access to HMDA static snapshot data for 2018–2025.
+
+Inspect schemas and a small reproducibly downloaded sample from early and late years.
+
+Check the availability, type, and observed codes of:
+
+- activity_year;
+- applicant_age;
+- action_taken;
+- loan_purpose;
+- lien_status;
+- occupancy_type;
+- construction_method;
+- total_units;
+- loan_type;
+- reverse_mortgage;
+- open-end_line_of_credit;
+- business_or_commercial_purpose;
+- county_code;
+- state_code;
+- lei.
+
+Verify the treatment of missing, exempt, and non-applicable values.
+
+Document year-specific schema differences.
+
+Do not launch a full national download until the acquisition procedure and resource requirements have been validated.
+
+### Gate B — Occupational AI Exposure
+
+Inspect the original Eloundou et al. occupation-level data, including `dv_rating_beta`.
+
+Verify:
+
+- The original occupational classification;
+- The availability of official occupation crosswalks;
+- The 2015–2019 ACS PUMS occupation coding;
+- Treatment of aggregated occupation codes containing X or Y;
+- Matching coverage under a documented mapping;
+- Whether employment-weighted exposure can be constructed for ages 22–34 and 25–34.
+
+Do not use undocumented prefix matching as a substitute for an occupational concordance.
+
+Report employment-weighted match coverage, ambiguous mappings, and unmatched occupational groups.
+
+### Gate C — Geographic Crosswalks
+
+Inspect the official Dorn commuting-zone crosswalk files.
+
+Verify:
+
+- County-to-1990-CZ mappings;
+- 2010 PUMA-to-CZ allocation factors;
+- Unique geographic identifiers;
+- Historical county-code changes;
+- Connecticut geographic reporting changes;
+- Coverage for the intended HMDA sample.
+
+Report unmatched geography, allocation errors, and coverage percentages.
+
+Do not silently drop unmatched observations or introduce arbitrary geographic matches.
+
+### Gate D — Auxiliary Data
+
+Verify the availability and coding of:
+
+- Census QWI age-specific employment and hiring;
+- ACS baseline affordability variables;
+- 2019 population weights;
+- Required regional characteristics.
+
+Check QWI coverage and missingness, including the previously identified Michigan limitation.
+
+Do not begin the full labor-market mechanism analysis.
+
+### Gate E — Computational Feasibility
+
+Estimate:
+
+- Required download size;
+- Expected local storage needs;
+- Peak memory considerations;
+- The feasibility of streaming HMDA aggregation using DuckDB or another suitable framework;
+- Expected bottlenecks on the current machine.
+
+Use small reproducible tests rather than speculative performance estimates.
+
+## 3. Design integrity
+
+Do not estimate the primary treatment coefficient or inspect treatment-effect statistical significance during this feasibility stage.
+
+Do not select between CZ and State based on regression results.
+
+Preserve the existing proposed age groups, treatment timing, and outcome definitions as provisional specifications.
+
+Report any internal inconsistencies between the available cross-review documents.
+
+Explicitly distinguish:
+
+- Verified data facts;
+- Technical assumptions;
+- Unresolved methodological choices;
+- Recommendations.
+
+## 4. Required deliverables
+
+Create:
+
+`docs/feasibility_gate_report.md`
+
+`docs/data_source_registry.md`
+
+`docs/geography_audit.md`
+
+`docs/occupation_crosswalk_audit.md`
+
+`docs/design_decisions_pending.md`
+
+Each document must use structured English Markdown.
+
+For each feasibility check, report:
+
+- Test ID;
+- Purpose;
+- Source and URL;
+- Procedure;
+- Observed evidence;
+- PASS / FAIL / OPEN status;
+- Limitations;
+- Implication for CZ versus State;
+- Next required action.
+
+Include reproducible scripts for the tests actually performed.
+
+Maintain a source manifest with versions, URLs, retrieval timestamps, and hashes.
+
+Exclude downloaded data and credentials from Git commits.
+
+## 5. Stopping rule
+
+Stop after completing the critical feasibility checks.
+
+Do not begin the national full-scale regression pipeline, robustness analysis, or paper writing without a subsequent implementation instruction.
+
+At the end, recommend one of:
+
+A. CZ primary design is technically feasible.
+
+B. CZ is not reliably feasible within the project deadline; use the pre-specified State alternative.
+
+C. A critical data dependency remains unresolved and needs further work.
+
+Explain the recommendation using observed feasibility evidence, not expected statistical significance.
+
+Commit the verified scripts, documentation, and results to the project repository with an informative commit message.
+
+Preserve all research and AI-interaction audit trails.

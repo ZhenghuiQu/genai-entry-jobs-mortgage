@@ -1,0 +1,108 @@
+OCCP,SOCP,rows,weight,label,members
+0060,112030,2,34,Public relations and fundraising managers,['11-2030']
+0230,119030,18,336,Education and childcare administrators,['11-9030']
+0335,119070,1,13,Entertainment and recreation managers,['11-9070']
+0540,131030,9,377,"Claims adjusters, appraisers, examiners, and investigators",['13-1030']
+0630,131070,28,811,Human resources workers,['13-1070']
+0810,132020,3,51,Property appraisers and assessors,['13-2020']
+0910,132070,11,281,Credit counselors and loan officers,['13-2070']
+1050,151230,31,731,Computer support specialists,['15-1230']
+1310,171020,1,6,"Surveyors, cartographers, and photogrammetrists",['17-1020']
+1410,172070,8,220,Electrical and electronics engineers,['17-2070']
+1430,172110,4,104,"Industrial engineers, including health and safety",['17-2110']
+1545,17301X,6,171,Other drafters,"['17-3012', '17-3013', '17-3019']"
+1600,191010,2,33,Agricultural and food scientists,['19-1010']
+1610,191020,6,165,Biological scientists,['19-1020']
+1650,1910XX,7,164,Other life scientists,"['19-1040', '19-1099']"
+1700,192010,1,24,Astronomers and physicists,['19-2010']
+1720,192030,10,220,Chemists and materials scientists,['19-2030']
+1935,1940XX,1,9,"Environmental science and geoscience technicians, and nuclear technicians","['19-4040', '19-4051']"
+1970,1940YY,12,238,"Other life, physical, and social science technicians","['19-4061', '19-4071', '19-4090']"
+1980,195010,6,156,Occupational health and safety specialists and technicians,['19-5010']
+2006,211019,13,444,"Counselors, all other",['21-1019']
+2014,211029,19,392,"Social workers, all other",['21-1029']
+2025,21109X,2,97,Other community and social service specialists,"['21-1091', '21-1094', '21-1099']"
+2100,2310XX,31,570,"Lawyers, and judges, magistrates, and other judicial workers","['23-1011', '23-1020']"
+2180,232099,3,58,"Legal support workers, all other",['23-2099']
+2205,251000,84,1592,Postsecondary teachers,['25-1000']
+2300,252010,41,924,Preschool and kindergarten teachers,['25-2010']
+2310,252020,140,2842,Elementary and middle school teachers,['25-2020']
+2320,252030,42,852,Secondary school teachers,['25-2030']
+2330,252050,17,273,Special education teachers,['25-2050']
+2360,2530XX,16,349,Other teachers and instructors,"['25-3011', '25-3021', '25-3031', '25-3099']"
+2400,254010,2,45,"Archivists, curators, and museum technicians",['25-4010']
+2545,259040,46,1371,Teaching assistants,['25-9040']
+2555,2590XX,2,18,Other educational instruction and library workers,"['25-9021', '25-9031', '25-9099']"
+2600,271010,6,180,Artists and related workers,['27-1010']
+2640,27102X,13,447,Other designers,"['27-1027', '27-1029']"
+2740,272030,1,25,Dancers and choreographers,['27-2030']
+2865,273099,1,8,"Media and communication workers, all other",['27-3099']
+2905,2740XX,1,9,Other media and communication equipment workers,"['27-4010', '27-4099']"
+2920,274030,3,67,"Television, video, and film camera operators and editors",['27-4030']
+3010,291020,4,36,Dentists,['29-1020']
+3090,291210,20,443,Physicians,"['29-1210', '29-1211', '29-1212', '29-1213', '29-1214', '29-1215', '29-1216', '29-1217', '29-1218', '29-1221', '29-1222', '29-1223', '29-1224', '29-1229']"
+3100,291240,1,8,Surgeons,['29-1240']
+3300,292010,8,196,Clinical laboratory technologists and technicians,['29-2010']
+3545,292090,9,262,Miscellaneous health technologists and technicians,['29-2090']
+3550,299000,3,72,Other healthcare practitioners and technical occupations,['29-9000']
+3620,312020,8,230,Physical therapist assistants and aides,['31-2020']
+3725,331090,2,46,"Miscellaneous first-line supervisors, protective service workers","['33-1090', '33-1091', '33-1099']"
+3750,332020,2,35,Fire inspectors,['33-2020']
+3870,333050,37,776,Police officers,['33-3050']
+3930,339030,35,799,Security guards and gambling surveillance officers,['33-9030']
+4020,352010,72,2186,Cooks,['35-2010']
+4220,37201X,56,1462,Janitors and building cleaners,"['37-2011', '37-2019']"
+4255,37301X,2,67,Other grounds maintenance workers,"['37-3012', '37-3019']"
+4330,391000,8,198,Supervisors of personal care and service workers,['39-1000']
+4400,393010,2,50,Gambling services workers,['39-3010']
+4435,3930XX,5,155,Other entertainment attendants and related workers,"['39-3021', '39-3090']"
+4530,396010,4,94,"Baggage porters, bellhops, and concierges",['39-6010']
+4540,397010,5,97,Tour and travel guides,['39-7010']
+4655,399099,7,190,"Personal care and service workers, all other",['39-9099']
+4720,412010,86,2558,Cashiers,['41-2010']
+4850,414010,34,920,"Sales representatives, wholesale and manufacturing",['41-4010']
+4920,419020,19,352,Real estate brokers and sales agents,['41-9020']
+4965,419099,4,148,"Sales and related workers, all other",['41-9099']
+5040,432099,1,8,"Communications equipment operators, all other",['43-2099']
+5165,4330XX,12,306,Other financial clerks,"['43-3041', '43-3099']"
+5420,434YYY,6,95,Other information and records clerks,"['43-4011', '43-4199']"
+5940,439XXX,27,653,Other office and administrative support workers,"['43-9031', '43-9199']"
+6050,4520XX,28,655,Other agricultural workers,"['45-2021', '45-2090']"
+6220,472XXX,1,2,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers","['47-2020', '47-2171']"
+6240,472040,4,123,"Carpet, floor, and tile installers and finishers",['47-2040']
+6305,472070,11,293,Construction equipment operators,['47-2070']
+6330,472080,3,124,"Drywall installers, ceiling tile installers, and tapers",['47-2080']
+6400,472130,6,215,Insulation workers,['47-2130']
+6410,472140,17,605,Painters and paperhangers,['47-2140']
+6600,473010,1,17,"Helpers, construction trades",['47-3010']
+6765,4740XX,3,79,Other construction and related workers,"['47-4071', '47-4090']"
+7020,492020,4,131,Radio and telecommunications equipment installers and repairers,['49-2020']
+7220,493040,11,278,Heavy vehicle and mobile equipment service technicians and mechanics,['49-3040']
+7260,493090,3,130,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",['49-3090']
+7300,499010,3,57,Control and valve installers and repairers,['49-9010']
+7430,499060,1,10,Precision instrument and equipment repairers,['49-9060']
+7640,4990XX,5,72,"Other installation, maintenance, and repair workers","['40-9095', '49-9081', '49-9092', '49-9097', '49-9099']"
+7750,5120XX,10,299,Other assemblers and fabricators,"['51-2011', '51-2051', '51-2061', '51-2092', '51-2099']"
+7810,513020,5,94,"Butchers and other meat, poultry, and fish processing workers",['51-3020']
+7855,513099,7,224,"Food processing workers, all other",['51-3099']
+7905,519160,7,149,Computer numerically controlled tool operators and programmers,['51-9160']
+8140,514120,16,398,"Welding, soldering, and brazing workers",['51-4120']
+8225,514XXX,10,408,Other metal workers and plastic workers,"['51-4081', '51-4191', '51-4192', '51-4193', '51-4194', '51-4199']"
+8350,516050,1,21,"Tailors, dressmakers, and sewers",['51-6050']
+8465,51609X,1,30,"Other textile, apparel, and furnishings workers","['51-6091', '51-6092', '51-6099']"
+8600,518010,2,30,"Power plant operators, distributors, and dispatchers",['51-8010']
+8630,518090,2,29,Miscellaneous plant and system operators,['51-8090']
+8640,519010,3,112,"Chemical processing machine setters, operators, and tenders",['51-9010']
+8650,519020,3,40,"Crushing, grinding, polishing, mixing, and blending workers",['51-9020']
+8760,519080,9,349,Dental and ophthalmic laboratory technicians and medical appliance technicians,['51-9080']
+8990,5191XX,35,888,"Miscellaneous production workers, including equipment operators and tenders","['51-9141', '51-9192', '51-9193', '51-9199']"
+9005,531000,8,349,Supervisors of transportation and material moving workers,['53-1000']
+9030,532010,2,29,Aircraft pilots and flight engineers,['53-2010']
+9040,532020,2,46,Air traffic controllers and airfield operations specialists,['53-2020']
+9130,533030,58,1528,Driver/sales workers and truck drivers,['53-3030']
+9150,533099,4,245,"Motor vehicle operators, all other",['53-3099']
+9210,534010,2,55,Locomotive engineers and operators,['53-4010']
+9310,535020,3,159,Ship and boat captains and operators,['53-5020']
+9365,536030,6,161,Transportation service attendants,['53-6030']
+9430,5360XX,1,28,Other transportation workers,"['53-6011', '53-6041', '53-6099']"
+9760,5371XX,2,29,Other material moving workers,"['53-7121', '53-7199']"

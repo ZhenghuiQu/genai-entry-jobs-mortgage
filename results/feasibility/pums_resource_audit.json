@@ -1,0 +1,122 @@
+{
+  "head": {
+    "id": "pums_us_size_head",
+    "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2019/5-Year/csv_pus.zip",
+    "method": "HEAD",
+    "requested_range": null,
+    "version": "retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T01:32:24.072871+00:00",
+    "http_backend": "urllib",
+    "status": 200,
+    "final_url": "https://www2.census.gov/programs-surveys/acs/data/pums/2019/5-Year/csv_pus.zip",
+    "headers": {
+      "date": "Fri, 09 Oct 2026 01:32:25 GMT",
+      "content-type": "application/zip",
+      "content-length": "2238752642",
+      "connection": "close",
+      "content-security-policy": "default-src 'self' 'unsafe-inline' 'unsafe-eval' census.gov *.census.gov http://www.census.gov assets.adobedtm.com www.googletagmanager.com https://dpm.demdex.net https://cm.everesttech.net https://uscensusbureau.demdex.net dap.digitalgov.gov www.google-analytics.com; frame-ancestors 'self';",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "cache-control": "public, max-age=14400",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "last-modified": "Thu, 14 Jan 2021 13:00:18 GMT",
+      "accept-ranges": "bytes",
+      "vary": "Accept-Encoding",
+      "x-xss-protection": "1; mode=block",
+      "server-timing": "cfEdge;dur=24,cfOrigin;dur=0",
+      "strict-transport-security": "max-age=31536000",
+      "age": "494122",
+      "expires": "Fri, 09 Oct 2026 05:32:25 GMT",
+      "cf-cache-status": "HIT",
+      "server": "cloudflare",
+      "cf-ray": "a479a1a0a8ff7526-SEA",
+      "redacted_header_names": [
+        "set-cookie"
+      ]
+    },
+    "bytes": 0,
+    "sha256": null,
+    "hash_scope": "metadata only; no object hash"
+  },
+  "tail": {
+    "id": "pums_us_directory.bin",
+    "url": "https://www2.census.gov/programs-surveys/acs/data/pums/2019/5-Year/csv_pus.zip",
+    "method": "GET",
+    "requested_range": "-65536",
+    "version": "retrieved vintage",
+    "retrieved_at_utc": "2026-10-09T01:32:25.240491+00:00",
+    "http_backend": "urllib",
+    "status": 206,
+    "final_url": "https://www2.census.gov/programs-surveys/acs/data/pums/2019/5-Year/csv_pus.zip",
+    "headers": {
+      "date": "Fri, 09 Oct 2026 01:32:26 GMT",
+      "content-type": "application/zip",
+      "content-length": "65536",
+      "connection": "close",
+      "content-security-policy": "default-src 'self' 'unsafe-inline' 'unsafe-eval' census.gov *.census.gov http://www.census.gov assets.adobedtm.com www.googletagmanager.com https://dpm.demdex.net https://cm.everesttech.net https://uscensusbureau.demdex.net dap.digitalgov.gov www.google-analytics.com; frame-ancestors 'self';",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "cache-control": "public, max-age=14400",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "last-modified": "Thu, 14 Jan 2021 13:00:18 GMT",
+      "age": "494123",
+      "server-timing": "cfEdge;dur=23,cfOrigin;dur=0",
+      "vary": "Accept-Encoding",
+      "x-xss-protection": "1; mode=block",
+      "strict-transport-security": "max-age=31536000",
+      "content-range": "bytes 2238687106-2238752641/2238752642",
+      "expires": "Fri, 09 Oct 2026 05:32:26 GMT",
+      "cf-cache-status": "HIT",
+      "server": "cloudflare",
+      "cf-ray": "a479a1a8290e76e0-SEA",
+      "redacted_header_names": [
+        "set-cookie"
+      ]
+    },
+    "bytes": 65536,
+    "sha256": "305f946686690ad85b2fcb8bc7baa94176b6f02555ba0542cfb36edf7c87f903",
+    "hash_scope": "response body only"
+  },
+  "zip_entries": [
+    {
+      "name": "psam_pusa.csv",
+      "compressed_bytes": 674720069,
+      "uncompressed_bytes": 3112283214,
+      "local_offset": 0,
+      "method": 8,
+      "crc32": 3163011408
+    },
+    {
+      "name": "psam_pusb.csv",
+      "compressed_bytes": 476954575,
+      "uncompressed_bytes": 2224944691,
+      "local_offset": 674720140,
+      "method": 8,
+      "crc32": 2976861938
+    },
+    {
+      "name": "psam_pusc.csv",
+      "compressed_bytes": 521588330,
+      "uncompressed_bytes": 2419344385,
+      "local_offset": 1151674786,
+      "method": 8,
+      "crc32": 1924913095
+    },
+    {
+      "name": "psam_pusd.csv",
+      "compressed_bytes": 565265271,
+      "uncompressed_bytes": 2627388922,
+      "local_offset": 1673263187,
+      "method": 8,
+      "crc32": 2460454782
+    },
+    {
+      "name": "ACS2015_2019_PUMS_README.pdf",
+      "compressed_bytes": 223575,
+      "uncompressed_bytes": 254914,
+      "local_offset": 2238528529,
+      "method": 8,
+      "crc32": 1002153728
+    }
+  ]
+}

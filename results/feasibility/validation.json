@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "downloaded_object_hashes_verified": 110,
+  "structured_tests_verified": 23,
+  "hmda_years_verified": 8,
+  "duckdb_count_checks": 3,
+  "regressions_run": 0,
+  "national_full_data_downloads": 0,
+  "remaining_dependency_recommendation": "C"
+}

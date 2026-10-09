@@ -1,0 +1,602 @@
+[
+  {
+    "source": "2018",
+    "stage": "all",
+    "retained": 4377
+  },
+  {
+    "source": "2018",
+    "stage": "home_purchase",
+    "retained": 3923
+  },
+  {
+    "source": "2018",
+    "stage": "actions_1_5",
+    "retained": 3923
+  },
+  {
+    "source": "2018",
+    "stage": "first_lien",
+    "retained": 3923
+  },
+  {
+    "source": "2018",
+    "stage": "principal_residence",
+    "retained": 3815
+  },
+  {
+    "source": "2018",
+    "stage": "site_built",
+    "retained": 3815
+  },
+  {
+    "source": "2018",
+    "stage": "one_four_units",
+    "retained": 3815
+  },
+  {
+    "source": "2018",
+    "stage": "reverse_no_or_exempt",
+    "retained": 3815
+  },
+  {
+    "source": "2018",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 3815
+  },
+  {
+    "source": "2018",
+    "stage": "business_no_or_exempt",
+    "retained": 3815
+  },
+  {
+    "source": "2019",
+    "stage": "all",
+    "retained": 5331
+  },
+  {
+    "source": "2019",
+    "stage": "home_purchase",
+    "retained": 2979
+  },
+  {
+    "source": "2019",
+    "stage": "actions_1_5",
+    "retained": 2871
+  },
+  {
+    "source": "2019",
+    "stage": "first_lien",
+    "retained": 2855
+  },
+  {
+    "source": "2019",
+    "stage": "principal_residence",
+    "retained": 2543
+  },
+  {
+    "source": "2019",
+    "stage": "site_built",
+    "retained": 2537
+  },
+  {
+    "source": "2019",
+    "stage": "one_four_units",
+    "retained": 2537
+  },
+  {
+    "source": "2019",
+    "stage": "reverse_no_or_exempt",
+    "retained": 2537
+  },
+  {
+    "source": "2019",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 2537
+  },
+  {
+    "source": "2019",
+    "stage": "business_no_or_exempt",
+    "retained": 2537
+  },
+  {
+    "source": "2020",
+    "stage": "all",
+    "retained": 5370
+  },
+  {
+    "source": "2020",
+    "stage": "home_purchase",
+    "retained": 1464
+  },
+  {
+    "source": "2020",
+    "stage": "actions_1_5",
+    "retained": 0
+  },
+  {
+    "source": "2020",
+    "stage": "first_lien",
+    "retained": 0
+  },
+  {
+    "source": "2020",
+    "stage": "principal_residence",
+    "retained": 0
+  },
+  {
+    "source": "2020",
+    "stage": "site_built",
+    "retained": 0
+  },
+  {
+    "source": "2020",
+    "stage": "one_four_units",
+    "retained": 0
+  },
+  {
+    "source": "2020",
+    "stage": "reverse_no_or_exempt",
+    "retained": 0
+  },
+  {
+    "source": "2020",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 0
+  },
+  {
+    "source": "2020",
+    "stage": "business_no_or_exempt",
+    "retained": 0
+  },
+  {
+    "source": "2021",
+    "stage": "all",
+    "retained": 5948
+  },
+  {
+    "source": "2021",
+    "stage": "home_purchase",
+    "retained": 1406
+  },
+  {
+    "source": "2021",
+    "stage": "actions_1_5",
+    "retained": 1172
+  },
+  {
+    "source": "2021",
+    "stage": "first_lien",
+    "retained": 1082
+  },
+  {
+    "source": "2021",
+    "stage": "principal_residence",
+    "retained": 949
+  },
+  {
+    "source": "2021",
+    "stage": "site_built",
+    "retained": 895
+  },
+  {
+    "source": "2021",
+    "stage": "one_four_units",
+    "retained": 895
+  },
+  {
+    "source": "2021",
+    "stage": "reverse_no_or_exempt",
+    "retained": 895
+  },
+  {
+    "source": "2021",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 831
+  },
+  {
+    "source": "2021",
+    "stage": "business_no_or_exempt",
+    "retained": 827
+  },
+  {
+    "source": "2022",
+    "stage": "all",
+    "retained": 4269
+  },
+  {
+    "source": "2022",
+    "stage": "home_purchase",
+    "retained": 1514
+  },
+  {
+    "source": "2022",
+    "stage": "actions_1_5",
+    "retained": 1514
+  },
+  {
+    "source": "2022",
+    "stage": "first_lien",
+    "retained": 1514
+  },
+  {
+    "source": "2022",
+    "stage": "principal_residence",
+    "retained": 1339
+  },
+  {
+    "source": "2022",
+    "stage": "site_built",
+    "retained": 1318
+  },
+  {
+    "source": "2022",
+    "stage": "one_four_units",
+    "retained": 1318
+  },
+  {
+    "source": "2022",
+    "stage": "reverse_no_or_exempt",
+    "retained": 1318
+  },
+  {
+    "source": "2022",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 1318
+  },
+  {
+    "source": "2022",
+    "stage": "business_no_or_exempt",
+    "retained": 1318
+  },
+  {
+    "source": "2023",
+    "stage": "all",
+    "retained": 4812
+  },
+  {
+    "source": "2023",
+    "stage": "home_purchase",
+    "retained": 4099
+  },
+  {
+    "source": "2023",
+    "stage": "actions_1_5",
+    "retained": 0
+  },
+  {
+    "source": "2023",
+    "stage": "first_lien",
+    "retained": 0
+  },
+  {
+    "source": "2023",
+    "stage": "principal_residence",
+    "retained": 0
+  },
+  {
+    "source": "2023",
+    "stage": "site_built",
+    "retained": 0
+  },
+  {
+    "source": "2023",
+    "stage": "one_four_units",
+    "retained": 0
+  },
+  {
+    "source": "2023",
+    "stage": "reverse_no_or_exempt",
+    "retained": 0
+  },
+  {
+    "source": "2023",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 0
+  },
+  {
+    "source": "2023",
+    "stage": "business_no_or_exempt",
+    "retained": 0
+  },
+  {
+    "source": "2024",
+    "stage": "all",
+    "retained": 5103
+  },
+  {
+    "source": "2024",
+    "stage": "home_purchase",
+    "retained": 194
+  },
+  {
+    "source": "2024",
+    "stage": "actions_1_5",
+    "retained": 194
+  },
+  {
+    "source": "2024",
+    "stage": "first_lien",
+    "retained": 87
+  },
+  {
+    "source": "2024",
+    "stage": "principal_residence",
+    "retained": 84
+  },
+  {
+    "source": "2024",
+    "stage": "site_built",
+    "retained": 83
+  },
+  {
+    "source": "2024",
+    "stage": "one_four_units",
+    "retained": 83
+  },
+  {
+    "source": "2024",
+    "stage": "reverse_no_or_exempt",
+    "retained": 83
+  },
+  {
+    "source": "2024",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 5
+  },
+  {
+    "source": "2024",
+    "stage": "business_no_or_exempt",
+    "retained": 5
+  },
+  {
+    "source": "2025",
+    "stage": "all",
+    "retained": 5030
+  },
+  {
+    "source": "2025",
+    "stage": "home_purchase",
+    "retained": 2378
+  },
+  {
+    "source": "2025",
+    "stage": "actions_1_5",
+    "retained": 2363
+  },
+  {
+    "source": "2025",
+    "stage": "first_lien",
+    "retained": 2291
+  },
+  {
+    "source": "2025",
+    "stage": "principal_residence",
+    "retained": 2082
+  },
+  {
+    "source": "2025",
+    "stage": "site_built",
+    "retained": 2024
+  },
+  {
+    "source": "2025",
+    "stage": "one_four_units",
+    "retained": 2024
+  },
+  {
+    "source": "2025",
+    "stage": "reverse_no_or_exempt",
+    "retained": 2024
+  },
+  {
+    "source": "2025",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 2021
+  },
+  {
+    "source": "2025",
+    "stage": "business_no_or_exempt",
+    "retained": 2021
+  },
+  {
+    "source": "ct_2018",
+    "stage": "all",
+    "retained": 41156
+  },
+  {
+    "source": "ct_2018",
+    "stage": "home_purchase",
+    "retained": 41156
+  },
+  {
+    "source": "ct_2018",
+    "stage": "actions_1_5",
+    "retained": 41156
+  },
+  {
+    "source": "ct_2018",
+    "stage": "first_lien",
+    "retained": 39858
+  },
+  {
+    "source": "ct_2018",
+    "stage": "principal_residence",
+    "retained": 36818
+  },
+  {
+    "source": "ct_2018",
+    "stage": "site_built",
+    "retained": 36746
+  },
+  {
+    "source": "ct_2018",
+    "stage": "one_four_units",
+    "retained": 36745
+  },
+  {
+    "source": "ct_2018",
+    "stage": "reverse_no_or_exempt",
+    "retained": 36740
+  },
+  {
+    "source": "ct_2018",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 36528
+  },
+  {
+    "source": "ct_2018",
+    "stage": "business_no_or_exempt",
+    "retained": 36460
+  },
+  {
+    "source": "ct_2023",
+    "stage": "all",
+    "retained": 35534
+  },
+  {
+    "source": "ct_2023",
+    "stage": "home_purchase",
+    "retained": 35534
+  },
+  {
+    "source": "ct_2023",
+    "stage": "actions_1_5",
+    "retained": 35534
+  },
+  {
+    "source": "ct_2023",
+    "stage": "first_lien",
+    "retained": 31631
+  },
+  {
+    "source": "ct_2023",
+    "stage": "principal_residence",
+    "retained": 28316
+  },
+  {
+    "source": "ct_2023",
+    "stage": "site_built",
+    "retained": 28170
+  },
+  {
+    "source": "ct_2023",
+    "stage": "one_four_units",
+    "retained": 28170
+  },
+  {
+    "source": "ct_2023",
+    "stage": "reverse_no_or_exempt",
+    "retained": 28168
+  },
+  {
+    "source": "ct_2023",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 27994
+  },
+  {
+    "source": "ct_2023",
+    "stage": "business_no_or_exempt",
+    "retained": 27904
+  },
+  {
+    "source": "ct_2024",
+    "stage": "all",
+    "retained": 35150
+  },
+  {
+    "source": "ct_2024",
+    "stage": "home_purchase",
+    "retained": 35150
+  },
+  {
+    "source": "ct_2024",
+    "stage": "actions_1_5",
+    "retained": 35150
+  },
+  {
+    "source": "ct_2024",
+    "stage": "first_lien",
+    "retained": 31661
+  },
+  {
+    "source": "ct_2024",
+    "stage": "principal_residence",
+    "retained": 28061
+  },
+  {
+    "source": "ct_2024",
+    "stage": "site_built",
+    "retained": 27980
+  },
+  {
+    "source": "ct_2024",
+    "stage": "one_four_units",
+    "retained": 27980
+  },
+  {
+    "source": "ct_2024",
+    "stage": "reverse_no_or_exempt",
+    "retained": 27979
+  },
+  {
+    "source": "ct_2024",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 27765
+  },
+  {
+    "source": "ct_2024",
+    "stage": "business_no_or_exempt",
+    "retained": 27681
+  },
+  {
+    "source": "ct_2025",
+    "stage": "all",
+    "retained": 35676
+  },
+  {
+    "source": "ct_2025",
+    "stage": "home_purchase",
+    "retained": 35676
+  },
+  {
+    "source": "ct_2025",
+    "stage": "actions_1_5",
+    "retained": 35676
+  },
+  {
+    "source": "ct_2025",
+    "stage": "first_lien",
+    "retained": 32630
+  },
+  {
+    "source": "ct_2025",
+    "stage": "principal_residence",
+    "retained": 28551
+  },
+  {
+    "source": "ct_2025",
+    "stage": "site_built",
+    "retained": 28446
+  },
+  {
+    "source": "ct_2025",
+    "stage": "one_four_units",
+    "retained": 28446
+  },
+  {
+    "source": "ct_2025",
+    "stage": "reverse_no_or_exempt",
+    "retained": 28442
+  },
+  {
+    "source": "ct_2025",
+    "stage": "closed_end_no_or_exempt",
+    "retained": 28196
+  },
+  {
+    "source": "ct_2025",
+    "stage": "business_no_or_exempt",
+    "retained": 28143
+  }
+]

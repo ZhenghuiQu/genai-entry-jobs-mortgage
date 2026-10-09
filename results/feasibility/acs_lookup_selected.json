@@ -1,0 +1,156 @@
+[
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B01003",
+    "Sequence Number": "0002",
+    "Line Number": "",
+    "Start Position": "130",
+    "Total Cells in Table": "1 CELL",
+    "Total Cells in Sequence": "124",
+    "Table Title": "TOTAL POPULATION",
+    "Subject Area": "Age-Sex"
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B01003",
+    "Sequence Number": "0002",
+    "Line Number": "",
+    "Start Position": "",
+    "Total Cells in Table": "",
+    "Total Cells in Sequence": "",
+    "Table Title": "Universe:  Total population",
+    "Subject Area": ""
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B01003",
+    "Sequence Number": "0002",
+    "Line Number": "1",
+    "Start Position": "",
+    "Total Cells in Table": "",
+    "Total Cells in Sequence": "",
+    "Table Title": "Total",
+    "Subject Area": ""
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B19013",
+    "Sequence Number": "0058",
+    "Line Number": "",
+    "Start Position": "177",
+    "Total Cells in Table": "1 CELL",
+    "Total Cells in Sequence": "",
+    "Table Title": "MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS)",
+    "Subject Area": "Income"
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B19013",
+    "Sequence Number": "0058",
+    "Line Number": "",
+    "Start Position": "",
+    "Total Cells in Table": "",
+    "Total Cells in Sequence": "",
+    "Table Title": "Universe:  Households",
+    "Subject Area": ""
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B19013",
+    "Sequence Number": "0058",
+    "Line Number": "1",
+    "Start Position": "",
+    "Total Cells in Table": "",
+    "Total Cells in Sequence": "",
+    "Table Title": "Median household income in the past 12 months (in 2019 inflation-adjusted dollars)",
+    "Subject Area": ""
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B25003",
+    "Sequence Number": "0111",
+    "Line Number": "",
+    "Start Position": "11",
+    "Total Cells in Table": "3 CELLS",
+    "Total Cells in Sequence": "",
+    "Table Title": "TENURE",
+    "Subject Area": "Housing"
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B25003",
+    "Sequence Number": "0111",
+    "Line Number": "",
+    "Start Position": "",
+    "Total Cells in Table": "",
+    "Total Cells in Sequence": "",
+    "Table Title": "Universe:  Occupied housing units",
+    "Subject Area": ""
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B25003",
+    "Sequence Number": "0111",
+    "Line Number": "1",
+    "Start Position": "",
+    "Total Cells in Table": "",
+    "Total Cells in Sequence": "",
+    "Table Title": "Total:",
+    "Subject Area": ""
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B25003",
+    "Sequence Number": "0111",
+    "Line Number": "2",
+    "Start Position": "",
+    "Total Cells in Table": "",
+    "Total Cells in Sequence": "",
+    "Table Title": "Owner occupied",
+    "Subject Area": ""
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B25003",
+    "Sequence Number": "0111",
+    "Line Number": "3",
+    "Start Position": "",
+    "Total Cells in Table": "",
+    "Total Cells in Sequence": "",
+    "Table Title": "Renter occupied",
+    "Subject Area": ""
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B25077",
+    "Sequence Number": "0114",
+    "Line Number": "",
+    "Start Position": "246",
+    "Total Cells in Table": "1 CELL",
+    "Total Cells in Sequence": "",
+    "Table Title": "MEDIAN VALUE (DOLLARS)",
+    "Subject Area": "Housing"
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B25077",
+    "Sequence Number": "0114",
+    "Line Number": "",
+    "Start Position": "",
+    "Total Cells in Table": "",
+    "Total Cells in Sequence": "",
+    "Table Title": "Universe:  Owner-occupied housing units",
+    "Subject Area": ""
+  },
+  {
+    "File ID": "ACSSF",
+    "Table ID": "B25077",
+    "Sequence Number": "0114",
+    "Line Number": "1",
+    "Start Position": "",
+    "Total Cells in Table": "",
+    "Total Cells in Sequence": "",
+    "Table Title": "Median value (dollars)",
+    "Subject Area": ""
+  }
+]

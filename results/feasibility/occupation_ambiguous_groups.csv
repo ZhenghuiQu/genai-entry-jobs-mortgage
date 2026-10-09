@@ -1,0 +1,155 @@
+OCCP,SOCP,weight,occp,socp,label,soc_members,excel_rows,n_members,n_scored_members,mapping_status,beta_equal_member_mean,beta_min,beta_max,n_onet_children
+0010,1110XX,89,0010,1110XX,Chief executives and legislators,"['11-1011', '11-1031']","[17, 19, 20]",2,2,covered,0.4538888888888889,0.4,0.5077777777777778,3
+0060,112030,34,0060,112030,Public relations and fundraising managers,['11-2030'],[25],1,0,unresolved_group_or_unscored_member,,,,0
+0102,113013,168,0102,113013,Facilities managers,['11-3013'],[27],1,1,covered,0.40016233766233766,0.40016233766233766,0.40016233766233766,2
+0120,113031,1818,0120,113031,Financial managers,['11-3031'],[29],1,1,covered,0.4850552306692657,0.4850552306692657,0.4850552306692657,3
+0140,113051,94,0140,113051,Industrial production managers,['11-3051'],[33],1,1,covered,0.40571870150289957,0.40571870150289957,0.40571870150289957,6
+0160,113071,99,0160,113071,"Transportation, storage, and distribution managers",['11-3071'],[35],1,1,covered,0.486525974025974,0.486525974025974,0.486525974025974,2
+0230,119030,336,0230,119030,Education and childcare administrators,['11-9030'],[38],1,0,unresolved_group_or_unscored_member,,,,0
+0300,119041,9,0300,119041,Architectural and engineering managers,['11-9041'],[39],1,1,covered,0.4426108374384236,0.4426108374384236,0.4426108374384236,2
+0335,119070,13,0335,119070,Entertainment and recreation managers,['11-9070'],[41],1,0,unresolved_group_or_unscored_member,,,,0
+0440,1191XX,2005,0440,1191XX,Other managers,"['11-9131', '11-9171', '11-9179', '11-9199']","[48, 50, 51, 52, 53]",4,4,covered,0.4739426174077801,0.4285714285714285,0.5238095238095237,10
+0540,131030,377,0540,131030,"Claims adjusters, appraisers, examiners, and investigators",['13-1030'],[61],1,0,unresolved_group_or_unscored_member,,,,0
+0565,131041,155,0565,131041,Compliance officers,['13-1041'],[62],1,1,covered,0.5263042749310427,0.5263042749310427,0.5263042749310427,7
+0630,131070,811,0630,131070,Human resources workers,['13-1070'],[64],1,0,unresolved_group_or_unscored_member,,,,0
+0700,131081,40,0700,131081,Logisticians,['13-1081'],[67],1,1,covered,0.5278605318327264,0.5278605318327264,0.5278605318327264,3
+0735,131161,371,0735,131161,Market research analysts and marketing specialists,['13-1161'],[72],1,1,covered,0.5245901639344263,0.5245901639344263,0.5245901639344263,2
+0750,131199,194,0750,131199,"Business operations specialists, all other",['13-1199'],[73],1,1,covered,0.5828407660281357,0.5828407660281357,0.5828407660281357,4
+0810,132020,51,0810,132020,Property appraisers and assessors,['13-2020'],[75],1,0,unresolved_group_or_unscored_member,,,,0
+0910,132070,281,0910,132070,Credit counselors and loan officers,['13-2070'],[82],1,0,unresolved_group_or_unscored_member,,,,0
+0960,1320XX,113,0960,1320XX,Other financial specialists,"['13-2054', '13-2099']","[85, 87, 88]",2,2,covered,0.5582821457821459,0.5333333333333333,0.5832309582309583,3
+1006,151211,718,1006,151211,Computer systems analysts,['15-1211'],[95],1,1,covered,0.6174242424242424,0.6174242424242424,0.6174242424242424,2
+1050,151230,731,1050,151230,Computer support specialists,['15-1230'],[102],1,0,unresolved_group_or_unscored_member,,,,0
+1065,15124X,99,1065,15124X,Database administrators and architects,"['15-1242', '15-1243']","[103, 105, 106]",2,2,covered,0.9233652417169333,0.9112466124661247,0.935483870967742,3
+1106,151241,27,1106,151241,Computer network architects,['15-1241'],[108],1,1,covered,0.6352227393617021,0.6352227393617021,0.6352227393617021,2
+1108,151299,590,1108,151299,"Computer occupations, all other",['15-1299'],[109],1,1,covered,0.7357861863332168,0.7357861863332168,0.7357861863332168,9
+1240,1520XX,311,1240,1520XX,Other mathematical science occupations,"['15-2021', '15-2041', '15-2051', '15-2099']","[112, 114, 115, 118, 119]",4,4,covered,0.8215566852737906,0.6948232323232323,1.0,7
+1310,171020,6,1310,171020,"Surveyors, cartographers, and photogrammetrists",['17-1020'],[125],1,0,unresolved_group_or_unscored_member,,,,0
+1360,172051,217,1360,172051,Civil engineers,['17-2051'],[132],1,1,covered,0.48214285714285715,0.48214285714285715,0.48214285714285715,3
+1410,172070,220,1410,172070,Electrical and electronics engineers,['17-2070'],[134],1,0,unresolved_group_or_unscored_member,,,,0
+1430,172110,104,1430,172110,"Industrial engineers, including health and safety",['17-2110'],[136],1,0,unresolved_group_or_unscored_member,,,,0
+1460,172141,109,1460,172141,Mechanical engineers,['17-2141'],[139],1,1,covered,0.5312935096519228,0.5312935096519228,0.5312935096519228,3
+1520,1721XX,8,1520,1721XX,"Petroleum, mining and geological engineers, including mining safety engineers","['17-2151', '17-2171']","[140, 142, 143]",2,2,covered,0.5046296296296295,0.4814814814814814,0.5277777777777778,2
+1530,1721YY,805,1530,1721YY,Other engineers,"['17-2161', '17-2199']","[144, 146, 147]",2,2,covered,0.5363248100138345,0.5226496200276688,0.55,9
+1545,17301X,171,1545,17301X,Other drafters,"['17-3012', '17-3013', '17-3019']","[149, 151, 152, 153]",3,2,unresolved_group_or_unscored_member,,0.5,0.5744680851063829,2
+1555,17302X,239,1555,17302X,"Other engineering technologists and technicians, except drafters","['17-3021', '17-3022', '17-3024', '17-3025', '17-3026', '17-3027', '17-3028', '17-3029']","[155, 157, 158, 159, 160, 161, 162, 163, 164]",8,8,covered,0.3972061122887828,0.26877394636015317,0.5909090909090909,12
+1600,191010,33,1600,191010,Agricultural and food scientists,['19-1010'],[169],1,0,unresolved_group_or_unscored_member,,,,0
+1610,191020,165,1610,191020,Biological scientists,['19-1020'],[170],1,0,unresolved_group_or_unscored_member,,,,0
+1650,1910XX,164,1650,1910XX,Other life scientists,"['19-1040', '19-1099']","[172, 174, 175]",2,0,unresolved_group_or_unscored_member,,,,0
+1700,192010,24,1700,192010,Astronomers and physicists,['19-2010'],[176],1,0,unresolved_group_or_unscored_member,,,,0
+1720,192030,220,1720,192030,Chemists and materials scientists,['19-2030'],[178],1,0,unresolved_group_or_unscored_member,,,,0
+1750,19204X,80,1750,19204X,"Geoscientists and hydrologists, except geographers","['19-2042', '19-2043']","[180, 182, 183]",2,2,covered,0.48333333333333334,0.4666666666666667,0.5,2
+1825,19303X,132,1825,19303X,Other psychologists,"['19-3032', '19-3039']","[188, 190, 191]",2,2,covered,0.4716269841269841,0.4543650793650793,0.4888888888888889,3
+1935,1940XX,9,1935,1940XX,"Environmental science and geoscience technicians, and nuclear technicians","['19-4040', '19-4051']","[201, 203, 204]",2,1,unresolved_group_or_unscored_member,,0.18506493506493504,0.18506493506493504,2
+1970,1940YY,238,1970,1940YY,"Other life, physical, and social science technicians","['19-4061', '19-4071', '19-4090']","[205, 207, 210, 211]",3,2,unresolved_group_or_unscored_member,,0.3269230769230769,0.6666666666666667,2
+1980,195010,156,1980,195010,Occupational health and safety specialists and technicians,['19-5010'],[212],1,0,unresolved_group_or_unscored_member,,,,0
+2006,211019,444,2006,211019,"Counselors, all other",['21-1019'],[223],1,0,unresolved_group_or_unscored_member,,,,0
+2014,211029,392,2014,211029,"Social workers, all other",['21-1029'],[227],1,0,unresolved_group_or_unscored_member,,,,0
+2025,21109X,97,2025,21109X,Other community and social service specialists,"['21-1091', '21-1094', '21-1099']","[230, 232, 233, 234]",3,2,unresolved_group_or_unscored_member,,0.3194444444444444,0.532258064516129,2
+2100,2310XX,570,2100,2310XX,"Lawyers, and judges, magistrates, and other judicial workers","['23-1011', '23-1020']","[241, 243, 244]",2,1,unresolved_group_or_unscored_member,,0.425,0.425,1
+2180,232099,58,2180,232099,"Legal support workers, all other",['23-2099'],[248],1,0,unresolved_group_or_unscored_member,,,,0
+2205,251000,1592,2205,251000,Postsecondary teachers,['25-1000'],[252],1,0,unresolved_group_or_unscored_member,,,,0
+2300,252010,924,2300,252010,Preschool and kindergarten teachers,['25-2010'],[253],1,0,unresolved_group_or_unscored_member,,,,0
+2310,252020,2842,2310,252020,Elementary and middle school teachers,['25-2020'],[254],1,0,unresolved_group_or_unscored_member,,,,0
+2320,252030,852,2320,252030,Secondary school teachers,['25-2030'],[255],1,0,unresolved_group_or_unscored_member,,,,0
+2330,252050,273,2330,252050,Special education teachers,['25-2050'],[256],1,0,unresolved_group_or_unscored_member,,,,0
+2360,2530XX,349,2360,2530XX,Other teachers and instructors,"['25-3011', '25-3021', '25-3031', '25-3099']","[258, 260, 261, 262, 263]",4,3,unresolved_group_or_unscored_member,,0.36,0.4044117647058823,3
+2400,254010,45,2400,254010,"Archivists, curators, and museum technicians",['25-4010'],[264],1,0,unresolved_group_or_unscored_member,,,,0
+2545,259040,1371,2545,259040,Teaching assistants,['25-9040'],[267],1,0,unresolved_group_or_unscored_member,,,,0
+2555,2590XX,18,2555,2590XX,Other educational instruction and library workers,"['25-9021', '25-9031', '25-9099']","[268, 270, 271, 272]",3,2,unresolved_group_or_unscored_member,,0.3703703703703703,0.4875,2
+2600,271010,180,2600,271010,Artists and related workers,['27-1010'],[276],1,0,unresolved_group_or_unscored_member,,,,0
+2640,27102X,447,2640,27102X,Other designers,"['27-1027', '27-1029']","[283, 285, 286]",2,1,unresolved_group_or_unscored_member,,0.3913043478260869,0.3913043478260869,1
+2710,272012,115,2710,272012,Producers and directors,['27-2012'],[288],1,1,covered,0.4695853791598472,0.4695853791598472,0.4695853791598472,4
+2740,272030,25,2740,272030,Dancers and choreographers,['27-2030'],[292],1,0,unresolved_group_or_unscored_member,,,,0
+2850,273043,175,2850,273043,Writers and authors,['27-3043'],[302],1,1,covered,0.8771367521367521,0.8771367521367521,0.8771367521367521,2
+2865,273099,8,2865,273099,"Media and communication workers, all other",['27-3099'],[305],1,0,unresolved_group_or_unscored_member,,,,0
+2905,2740XX,9,2905,2740XX,Other media and communication equipment workers,"['27-4010', '27-4099']","[306, 308, 309]",2,0,unresolved_group_or_unscored_member,,,,0
+2920,274030,67,2920,274030,"Television, video, and film camera operators and editors",['27-4030'],[311],1,0,unresolved_group_or_unscored_member,,,,0
+3010,291020,36,3010,291020,Dentists,['29-1020'],[316],1,0,unresolved_group_or_unscored_member,,,,0
+3090,291210,443,3090,291210,Physicians,"['29-1210', '29-1211', '29-1212', '29-1213', '29-1214', '29-1215', '29-1216', '29-1217', '29-1218', '29-1221', '29-1222', '29-1223', '29-1224', '29-1229']","[320, 322, 323, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336]",14,13,unresolved_group_or_unscored_member,,0.25,0.4888888888888889,18
+3100,291240,8,3100,291240,Surgeons,['29-1240'],[337],1,0,unresolved_group_or_unscored_member,,,,0
+3110,291071,138,3110,291071,Physician assistants,['29-1071'],[338],1,1,covered,0.2708333333333333,0.2708333333333333,0.2708333333333333,2
+3150,291122,119,3150,291122,Occupational therapists,['29-1122'],[341],1,1,covered,0.2890151515151515,0.2890151515151515,0.2890151515151515,2
+3245,29112X,227,3245,29112X,Other therapists,"['29-1128', '29-1129']","[347, 349, 350]",2,2,covered,0.3128014184397163,0.26,0.3656028368794326,3
+3255,291141,3001,3255,291141,Registered nurses,['29-1141'],[352],1,1,covered,0.38019000703729766,0.38019000703729766,0.38019000703729766,5
+3258,2911XX,95,3258,2911XX,"Nurse practitioners, and nurse midwives","['29-1161', '29-1171']","[354, 356, 357]",2,2,covered,0.4358626919602529,0.3902439024390244,0.4814814814814814,2
+3300,292010,196,3300,292010,Clinical laboratory technologists and technicians,['29-2010'],[360],1,0,unresolved_group_or_unscored_member,,,,0
+3430,29205X,85,3430,29205X,Dietetic technicians and ophthalmic medical technicians,"['29-2051', '29-2057']","[376, 378, 379]",2,2,covered,0.4362128146453089,0.3289473684210526,0.5434782608695652,2
+3545,292090,262,3545,292090,Miscellaneous health technologists and technicians,['29-2090'],[383],1,0,unresolved_group_or_unscored_member,,,,0
+3550,299000,72,3550,299000,Other healthcare practitioners and technical occupations,['29-9000'],[384],1,0,unresolved_group_or_unscored_member,,,,0
+3620,312020,230,3620,312020,Physical therapist assistants and aides,['31-2020'],[398],1,0,unresolved_group_or_unscored_member,,,,0
+3655,31909X,48,3655,31909X,Other healthcare support workers,"['31-9093', '31-9099']","[406, 408, 409]",2,2,covered,0.23812134502923976,0.1111111111111111,0.3651315789473684,3
+3725,331090,46,3725,331090,"Miscellaneous first-line supervisors, protective service workers","['33-1090', '33-1091', '33-1099']","[416, 418, 419]",3,1,unresolved_group_or_unscored_member,,0.4047619047619047,0.4047619047619047,1
+3750,332020,35,3750,332020,Fire inspectors,['33-2020'],[421],1,0,unresolved_group_or_unscored_member,,,,0
+3820,333021,63,3820,333021,Detectives and criminal investigators,['33-3021'],[424],1,1,covered,0.397410759175465,0.397410759175465,0.397410759175465,3
+3840,3330XX,30,3840,3330XX,Fish and game wardens and parking enforcement officers,"['33-3031', '33-3041']","[425, 427, 428]",2,2,covered,0.30230186480186483,0.2840909090909091,0.3205128205128205,2
+3870,333050,776,3870,333050,Police officers,['33-3050'],[429],1,0,unresolved_group_or_unscored_member,,,,0
+3930,339030,799,3930,339030,Security guards and gambling surveillance officers,['33-9030'],[432],1,0,unresolved_group_or_unscored_member,,,,0
+3960,33909X,53,3960,33909X,Other protective service workers,"['33-9092', '33-9099']","[436, 438, 439]",2,2,covered,0.22902439024390245,0.08,0.3780487804878049,2
+4020,352010,2186,4020,352010,Cooks,['35-2010'],[445],1,0,unresolved_group_or_unscored_member,,,,0
+4055,353023,557,4055,353023,Fast food and counter workers,['35-3023'],[448],1,1,covered,0.0970394736842105,0.0970394736842105,0.0970394736842105,2
+4220,37201X,1462,4220,37201X,Janitors and building cleaners,"['37-2011', '37-2019']","[460, 462, 463]",2,1,unresolved_group_or_unscored_member,,0.0,0.0,1
+4255,37301X,67,4255,37301X,Other grounds maintenance workers,"['37-3012', '37-3019']","[468, 470, 471]",2,1,unresolved_group_or_unscored_member,,0.0555555555555555,0.0555555555555555,1
+4330,391000,198,4330,391000,Supervisors of personal care and service workers,['39-1000'],[475],1,0,unresolved_group_or_unscored_member,,,,0
+4400,393010,50,4400,393010,Gambling services workers,['39-3010'],[478],1,0,unresolved_group_or_unscored_member,,,,0
+4435,3930XX,155,4435,3930XX,Other entertainment attendants and related workers,"['39-3021', '39-3090']","[480, 482, 483]",2,1,unresolved_group_or_unscored_member,,0.1818181818181818,0.1818181818181818,1
+4525,39509X,42,4525,39509X,Other personal appearance workers,"['39-5091', '39-5093']","[494, 496, 497]",2,2,covered,0.24216027874564455,0.1428571428571428,0.3414634146341463,2
+4530,396010,94,4530,396010,"Baggage porters, bellhops, and concierges",['39-6010'],[498],1,0,unresolved_group_or_unscored_member,,,,0
+4540,397010,97,4540,397010,Tour and travel guides,['39-7010'],[499],1,0,unresolved_group_or_unscored_member,,,,0
+4600,399011,598,4600,399011,Childcare workers,['39-9011'],[500],1,1,covered,0.1414312039312039,0.1414312039312039,0.1414312039312039,2
+4655,399099,190,4655,399099,"Personal care and service workers, all other",['39-9099'],[504],1,0,unresolved_group_or_unscored_member,,,,0
+4720,412010,2558,4720,412010,Cashiers,['41-2010'],[512],1,0,unresolved_group_or_unscored_member,,,,0
+4850,414010,920,4850,414010,"Sales representatives, wholesale and manufacturing",['41-4010'],[521],1,0,unresolved_group_or_unscored_member,,,,0
+4920,419020,352,4920,419020,Real estate brokers and sales agents,['41-9020'],[523],1,0,unresolved_group_or_unscored_member,,,,0
+4965,419099,148,4965,419099,"Sales and related workers, all other",['41-9099'],[527],1,0,unresolved_group_or_unscored_member,,,,0
+5040,432099,8,5040,432099,"Communications equipment operators, all other",['43-2099'],[534],1,0,unresolved_group_or_unscored_member,,,,0
+5165,4330XX,306,5165,4330XX,Other financial clerks,"['43-3041', '43-3099']","[541, 543, 544]",2,1,unresolved_group_or_unscored_member,,0.4193548387096774,0.4193548387096774,1
+5350,434XXX,222,5350,434XXX,Correspondence clerks and order clerks,"['43-4021', '43-4151']","[555, 557, 558]",2,2,covered,0.8392857142857142,0.7142857142857143,0.9642857142857142,2
+5420,434YYY,95,5420,434YYY,Other information and records clerks,"['43-4011', '43-4199']","[562, 564, 565]",2,1,unresolved_group_or_unscored_member,,0.7666666666666666,0.7666666666666666,1
+5940,439XXX,653,5940,439XXX,Other office and administrative support workers,"['43-9031', '43-9199']","[589, 591, 592]",2,1,unresolved_group_or_unscored_member,,0.6451612903225806,0.6451612903225806,1
+6050,4520XX,655,6050,4520XX,Other agricultural workers,"['45-2021', '45-2090']","[601, 603, 604]",2,1,unresolved_group_or_unscored_member,,0.1666666666666666,0.1666666666666666,1
+6200,471011,937,6200,471011,First-line supervisors of construction trades and extraction workers,['47-1011'],[611],1,1,covered,0.41666666666666663,0.41666666666666663,0.41666666666666663,2
+6220,472XXX,2,6220,472XXX,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers","['47-2020', '47-2171']","[613, 615, 616]",2,1,unresolved_group_or_unscored_member,,0.0714285714285714,0.0714285714285714,1
+6240,472040,123,6240,472040,"Carpet, floor, and tile installers and finishers",['47-2040'],[618],1,0,unresolved_group_or_unscored_member,,,,0
+6305,472070,293,6305,472070,Construction equipment operators,['47-2070'],[621],1,0,unresolved_group_or_unscored_member,,,,0
+6330,472080,124,6330,472080,"Drywall installers, ceiling tile installers, and tapers",['47-2080'],[622],1,0,unresolved_group_or_unscored_member,,,,0
+6400,472130,215,6400,472130,Insulation workers,['47-2130'],[625],1,0,unresolved_group_or_unscored_member,,,,0
+6410,472140,605,6410,472140,Painters and paperhangers,['47-2140'],[626],1,0,unresolved_group_or_unscored_member,,,,0
+6442,472152,460,6442,472152,"Plumbers, pipefitters, and steamfitters",['47-2152'],[628],1,1,covered,0.0753161698283649,0.0753161698283649,0.0753161698283649,2
+6600,473010,17,6600,473010,"Helpers, construction trades",['47-3010'],[634],1,0,unresolved_group_or_unscored_member,,,,0
+6765,4740XX,79,6765,4740XX,Other construction and related workers,"['47-4071', '47-4090']","[641, 643, 644]",2,1,unresolved_group_or_unscored_member,,0.078125,0.078125,1
+7020,492020,131,7020,492020,Radio and telecommunications equipment installers and repairers,['49-2020'],[665],1,0,unresolved_group_or_unscored_member,,,,0
+7100,49209X,27,7100,49209X,"Other electrical and electronic equipment mechanics, installers, and repairers","['49-2093', '49-2094', '49-2095', '49-2096']","[668, 670, 673, 674, 675]",4,4,covered,0.2635897435897436,0.1666666666666666,0.34,4
+7220,493040,278,7220,493040,Heavy vehicle and mobile equipment service technicians and mechanics,['49-3040'],[683],1,0,unresolved_group_or_unscored_member,,,,0
+7260,493090,130,7260,493090,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",['49-3090'],[685],1,0,unresolved_group_or_unscored_member,,,,0
+7300,499010,57,7300,499010,Control and valve installers and repairers,['49-9010'],[686],1,0,unresolved_group_or_unscored_member,,,,0
+7330,49904X,377,7330,49904X,Industrial and refractory machinery mechanics,"['49-9041', '49-9045']","[689, 691, 692]",2,2,covered,0.13709677419354835,0.0,0.2741935483870967,2
+7430,499060,10,7430,499060,Precision instrument and equipment repairers,['49-9060'],[698],1,0,unresolved_group_or_unscored_member,,,,0
+7640,4990XX,72,7640,4990XX,"Other installation, maintenance, and repair workers","['40-9095', '49-9081', '49-9092', '49-9097', '49-9099']","[703, 705, 706, 707, 710, 711]",5,4,unresolved_group_or_unscored_member,,0.0434782608695652,0.2096774193548387,4
+7750,5120XX,299,7750,5120XX,Other assemblers and fabricators,"['51-2011', '51-2051', '51-2061', '51-2092', '51-2099']","[721, 723, 726, 727, 728, 729]",5,4,unresolved_group_or_unscored_member,,0.0208333333333333,0.2352941176470588,4
+7810,513020,94,7810,513020,"Butchers and other meat, poultry, and fish processing workers",['51-3020'],[731],1,0,unresolved_group_or_unscored_member,,,,0
+7855,513099,224,7855,513099,"Food processing workers, all other",['51-3099'],[735],1,0,unresolved_group_or_unscored_member,,,,0
+7905,519160,149,7905,519160,Computer numerically controlled tool operators and programmers,['51-9160'],[736],1,0,unresolved_group_or_unscored_member,,,,0
+8025,51403X,3,8025,51403X,"Other machine tool setters, operators, and tenders, metal and plastic","['51-4032', '51-4034', '51-4035']","[740, 742, 743, 744]",3,3,covered,0.14432422107616763,0.0303030303030303,0.2413793103448275,3
+8140,514120,398,8140,514120,"Welding, soldering, and brazing workers",['51-4120'],[752],1,0,unresolved_group_or_unscored_member,,,,0
+8225,514XXX,408,8225,514XXX,Other metal workers and plastic workers,"['51-4081', '51-4191', '51-4192', '51-4193', '51-4194', '51-4199']","[753, 755, 756, 757, 758, 759, 760]",6,5,unresolved_group_or_unscored_member,,0.0333333333333333,0.1764705882352941,5
+8350,516050,21,8350,516050,"Tailors, dressmakers, and sewers",['51-6050'],[768],1,0,unresolved_group_or_unscored_member,,,,0
+8465,51609X,30,8465,51609X,"Other textile, apparel, and furnishings workers","['51-6091', '51-6092', '51-6099']","[771, 773, 774, 775]",3,2,unresolved_group_or_unscored_member,,0.0689655172413793,0.46875,2
+8600,518010,30,8600,518010,"Power plant operators, distributors, and dispatchers",['51-8010'],[784],1,0,unresolved_group_or_unscored_member,,,,0
+8630,518090,29,8630,518090,Miscellaneous plant and system operators,['51-8090'],[787],1,0,unresolved_group_or_unscored_member,,,,0
+8640,519010,112,8640,519010,"Chemical processing machine setters, operators, and tenders",['51-9010'],[788],1,0,unresolved_group_or_unscored_member,,,,0
+8650,519020,40,8650,519020,"Crushing, grinding, polishing, mixing, and blending workers",['51-9020'],[789],1,0,unresolved_group_or_unscored_member,,,,0
+8760,519080,349,8760,519080,Dental and ophthalmic laboratory technicians and medical appliance technicians,['51-9080'],[795],1,0,unresolved_group_or_unscored_member,,,,0
+8990,5191XX,888,8990,5191XX,"Miscellaneous production workers, including equipment operators and tenders","['51-9141', '51-9192', '51-9193', '51-9199']","[805, 809, 810, 813, 814]",4,3,unresolved_group_or_unscored_member,,0.08,0.234375,3
+9005,531000,349,9005,531000,Supervisors of transportation and material moving workers,['53-1000'],[820],1,0,unresolved_group_or_unscored_member,,,,0
+9030,532010,29,9030,532010,Aircraft pilots and flight engineers,['53-2010'],[821],1,0,unresolved_group_or_unscored_member,,,,0
+9040,532020,46,9040,532020,Air traffic controllers and airfield operations specialists,['53-2020'],[822],1,0,unresolved_group_or_unscored_member,,,,0
+9130,533030,1528,9130,533030,Driver/sales workers and truck drivers,['53-3030'],[827],1,0,unresolved_group_or_unscored_member,,,,0
+9150,533099,245,9150,533099,"Motor vehicle operators, all other",['53-3099'],[830],1,0,unresolved_group_or_unscored_member,,,,0
+9210,534010,55,9210,534010,Locomotive engineers and operators,['53-4010'],[831],1,0,unresolved_group_or_unscored_member,,,,0
+9300,5350XX,16,9300,5350XX,"Sailors and marine oilers, and ship engineers","['53-5011', '53-5031']","[838, 840, 841]",2,2,covered,0.10721409574468085,0.0425531914893617,0.171875,2
+9310,535020,159,9310,535020,Ship and boat captains and operators,['53-5020'],[842],1,0,unresolved_group_or_unscored_member,,,,0
+9365,536030,161,9365,536030,Transportation service attendants,['53-6030'],[844],1,0,unresolved_group_or_unscored_member,,,,0
+9430,5360XX,28,9430,5360XX,Other transportation workers,"['53-6011', '53-6041', '53-6099']","[847, 849, 850, 851]",3,2,unresolved_group_or_unscored_member,,0.2857142857142857,0.4629629629629629,2
+9620,537062,1954,9620,537062,"Laborers and freight, stock, and material movers, hand",['53-7062'],[863],1,1,covered,0.0417391304347826,0.0417391304347826,0.0417391304347826,2
+9760,5371XX,29,9760,5371XX,Other material moving workers,"['53-7121', '53-7199']","[869, 871, 872]",2,1,unresolved_group_or_unscored_member,,0.0714285714285714,0.0714285714285714,1

@@ -1,0 +1,102 @@
+{
+  "machine": {
+    "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+    "cpu_count": 8,
+    "python": "3.13.5",
+    "duckdb": "1.4.4",
+    "disk_total_bytes": 494384795648,
+    "disk_free_bytes": 61773881344,
+    "rss_before_bytes": 44990464,
+    "peak_rss_bytes": 137445376,
+    "physical_memory_bytes": 17179869184
+  },
+  "tests": [
+    {
+      "file": "hmda_2018_sample.csv",
+      "bytes": 1692858,
+      "rows": 4377,
+      "cells": 1018,
+      "duckdb_seconds": 0.29989662499974656,
+      "python_counter_seconds": 0.02688308300002973,
+      "rows_per_second": 14595.029203825481,
+      "gzip_bytes": 249734,
+      "gzip_duckdb_seconds": 0.09877070900074614,
+      "peak_process_rss_bytes": 109101056,
+      "memory_limit": "256MB",
+      "threads": 2,
+      "reference_agreement": true,
+      "scalar_probe": "county x age x action counts only; no treatment model"
+    },
+    {
+      "file": "hmda_2025_sample.csv",
+      "bytes": 1925786,
+      "rows": 5030,
+      "cells": 1764,
+      "duckdb_seconds": 0.10445900000013353,
+      "python_counter_seconds": 0.03109416700044676,
+      "rows_per_second": 48152.86380296164,
+      "gzip_bytes": 249899,
+      "gzip_duckdb_seconds": 0.10908216600000742,
+      "peak_process_rss_bytes": 110444544,
+      "memory_limit": "256MB",
+      "threads": 2,
+      "reference_agreement": true,
+      "scalar_probe": "county x age x action counts only; no treatment model"
+    },
+    {
+      "file": "hmda_ct_2025.csv",
+      "bytes": 13690851,
+      "rows": 35676,
+      "cells": 78,
+      "duckdb_seconds": 0.2664523329995063,
+      "python_counter_seconds": 0.2184149590002562,
+      "rows_per_second": 133892.6163580114,
+      "gzip_bytes": 1848079,
+      "gzip_duckdb_seconds": 0.327062415999535,
+      "peak_process_rss_bytes": 136380416,
+      "memory_limit": "256MB",
+      "threads": 2,
+      "reference_agreement": true,
+      "scalar_probe": "county x age x action counts only; no treatment model"
+    }
+  ],
+  "hmda_archive_sizes": {
+    "2018": {
+      "zip_bytes": 823719647,
+      "csv_bytes": 5856369323
+    },
+    "2019": {
+      "zip_bytes": 980129414,
+      "csv_bytes": 6816270981
+    },
+    "2020": {
+      "zip_bytes": 1460346740,
+      "csv_bytes": 10029803062
+    },
+    "2021": {
+      "zip_bytes": 1517879241,
+      "csv_bytes": 10206391218
+    },
+    "2022": {
+      "zip_bytes": 877742261,
+      "csv_bytes": 6058473013
+    },
+    "2023": {
+      "zip_bytes": 624535331,
+      "csv_bytes": 4339556230
+    },
+    "2024": {
+      "zip_bytes": 664242987,
+      "csv_bytes": 4625405352
+    },
+    "2025": {
+      "zip_bytes": 737139477,
+      "csv_bytes": 5114449258
+    }
+  },
+  "zipped_total_bytes": 7685735098,
+  "expanded_total_bytes": 53046718437,
+  "sequential_largest_csv_bytes": 10206391218,
+  "national_projection_status": "OPEN: prefix/one-state benchmarks validate parser and arithmetic only; no national timing or peak memory guarantee",
+  "peak_memory_notes": "DuckDB memory_limit does not bound whole-process RSS; observed RSS includes Python and reference Counter"
+}

@@ -1,0 +1,1311 @@
+{
+  "exposure_rows": 923,
+  "exposure_codes_unique": 923,
+  "beta_missing": 0,
+  "beta_min": 0.0,
+  "beta_max": 1.0,
+  "official_onet_soc_join_coverage_percent": 100.0,
+  "scored_soc_groups": 798,
+  "census_pums_groups": 529,
+  "sample_state": "Delaware only",
+  "sample_person_rows": 45217,
+  "assumption": "equal O*NET children within SOC, then equal explicit SOC members within PUMS group; not final methodology",
+  "unresolved_numeric_soc_groups": "No undocumented prefix matching: SOC broad/minor codes without explicit detailed members remain unscored",
+  "coverage": [
+    {
+      "age_group": "22-34",
+      "survey_year": "pooled",
+      "rows": 4898,
+      "weight": 123656,
+      "covered_weight": 88016,
+      "weighted_coverage_percent": 71.17810700653426,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 12406,
+      "ambiguous_member_weight": 25621,
+      "mean_exposure_covered_only": 0.35320514460672153
+    },
+    {
+      "age_group": "22-34",
+      "survey_year": "2015",
+      "rows": 980,
+      "weight": 24349,
+      "covered_weight": 17887,
+      "weighted_coverage_percent": 73.46092241981191,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 2507,
+      "ambiguous_member_weight": 5159,
+      "mean_exposure_covered_only": 0.35614952819492873
+    },
+    {
+      "age_group": "22-34",
+      "survey_year": "2016",
+      "rows": 970,
+      "weight": 23979,
+      "covered_weight": 17451,
+      "weighted_coverage_percent": 72.77617915676217,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 2378,
+      "ambiguous_member_weight": 5351,
+      "mean_exposure_covered_only": 0.34713531111872087
+    },
+    {
+      "age_group": "22-34",
+      "survey_year": "2017",
+      "rows": 950,
+      "weight": 24463,
+      "covered_weight": 16976,
+      "weighted_coverage_percent": 69.39459592036954,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 2125,
+      "ambiguous_member_weight": 4229,
+      "mean_exposure_covered_only": 0.3583022760074556
+    },
+    {
+      "age_group": "22-34",
+      "survey_year": "2018",
+      "rows": 978,
+      "weight": 25780,
+      "covered_weight": 17661,
+      "weighted_coverage_percent": 68.50659425911559,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 2481,
+      "ambiguous_member_weight": 5194,
+      "mean_exposure_covered_only": 0.3605505801022016
+    },
+    {
+      "age_group": "22-34",
+      "survey_year": "2019",
+      "rows": 1020,
+      "weight": 25085,
+      "covered_weight": 18041,
+      "weighted_coverage_percent": 71.919473789117,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 2915,
+      "ambiguous_member_weight": 5688,
+      "mean_exposure_covered_only": 0.34417027048734355
+    },
+    {
+      "age_group": "25-34",
+      "survey_year": "pooled",
+      "rows": 3928,
+      "weight": 100473,
+      "covered_weight": 71868,
+      "weighted_coverage_percent": 71.52966468603505,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 10799,
+      "ambiguous_member_weight": 21862,
+      "mean_exposure_covered_only": 0.3552926221579729
+    },
+    {
+      "age_group": "25-34",
+      "survey_year": "2015",
+      "rows": 773,
+      "weight": 19492,
+      "covered_weight": 14452,
+      "weighted_coverage_percent": 74.14323825159039,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 2096,
+      "ambiguous_member_weight": 4352,
+      "mean_exposure_covered_only": 0.3652124310204846
+    },
+    {
+      "age_group": "25-34",
+      "survey_year": "2016",
+      "rows": 779,
+      "weight": 19520,
+      "covered_weight": 14333,
+      "weighted_coverage_percent": 73.42725409836065,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 2119,
+      "ambiguous_member_weight": 4713,
+      "mean_exposure_covered_only": 0.3438531863870957
+    },
+    {
+      "age_group": "25-34",
+      "survey_year": "2017",
+      "rows": 766,
+      "weight": 20007,
+      "covered_weight": 14135,
+      "weighted_coverage_percent": 70.65027240465837,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 1718,
+      "ambiguous_member_weight": 3465,
+      "mean_exposure_covered_only": 0.35505377690614104
+    },
+    {
+      "age_group": "25-34",
+      "survey_year": "2018",
+      "rows": 772,
+      "weight": 20788,
+      "covered_weight": 14250,
+      "weighted_coverage_percent": 68.54916297864152,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 2315,
+      "ambiguous_member_weight": 4544,
+      "mean_exposure_covered_only": 0.3599950643234203
+    },
+    {
+      "age_group": "25-34",
+      "survey_year": "2019",
+      "rows": 838,
+      "weight": 20666,
+      "covered_weight": 14698,
+      "weighted_coverage_percent": 71.12164908545437,
+      "missing_socp_weight": 0,
+      "official_code_inconsistent_weight": 0,
+      "xy_group_weight": 2551,
+      "ambiguous_member_weight": 4788,
+      "mean_exposure_covered_only": 0.35236478381261854
+    }
+  ],
+  "unmatched_22_34": [
+    {
+      "OCCP": "0060",
+      "SOCP": "112030",
+      "rows": 2,
+      "weight": 34,
+      "label": "Public relations and fundraising managers",
+      "members": [
+        "11-2030"
+      ]
+    },
+    {
+      "OCCP": "0230",
+      "SOCP": "119030",
+      "rows": 18,
+      "weight": 336,
+      "label": "Education and childcare administrators",
+      "members": [
+        "11-9030"
+      ]
+    },
+    {
+      "OCCP": "0335",
+      "SOCP": "119070",
+      "rows": 1,
+      "weight": 13,
+      "label": "Entertainment and recreation managers",
+      "members": [
+        "11-9070"
+      ]
+    },
+    {
+      "OCCP": "0540",
+      "SOCP": "131030",
+      "rows": 9,
+      "weight": 377,
+      "label": "Claims adjusters, appraisers, examiners, and investigators",
+      "members": [
+        "13-1030"
+      ]
+    },
+    {
+      "OCCP": "0630",
+      "SOCP": "131070",
+      "rows": 28,
+      "weight": 811,
+      "label": "Human resources workers",
+      "members": [
+        "13-1070"
+      ]
+    },
+    {
+      "OCCP": "0810",
+      "SOCP": "132020",
+      "rows": 3,
+      "weight": 51,
+      "label": "Property appraisers and assessors",
+      "members": [
+        "13-2020"
+      ]
+    },
+    {
+      "OCCP": "0910",
+      "SOCP": "132070",
+      "rows": 11,
+      "weight": 281,
+      "label": "Credit counselors and loan officers",
+      "members": [
+        "13-2070"
+      ]
+    },
+    {
+      "OCCP": "1050",
+      "SOCP": "151230",
+      "rows": 31,
+      "weight": 731,
+      "label": "Computer support specialists",
+      "members": [
+        "15-1230"
+      ]
+    },
+    {
+      "OCCP": "1310",
+      "SOCP": "171020",
+      "rows": 1,
+      "weight": 6,
+      "label": "Surveyors, cartographers, and photogrammetrists",
+      "members": [
+        "17-1020"
+      ]
+    },
+    {
+      "OCCP": "1410",
+      "SOCP": "172070",
+      "rows": 8,
+      "weight": 220,
+      "label": "Electrical and electronics engineers",
+      "members": [
+        "17-2070"
+      ]
+    },
+    {
+      "OCCP": "1430",
+      "SOCP": "172110",
+      "rows": 4,
+      "weight": 104,
+      "label": "Industrial engineers, including health and safety",
+      "members": [
+        "17-2110"
+      ]
+    },
+    {
+      "OCCP": "1545",
+      "SOCP": "17301X",
+      "rows": 6,
+      "weight": 171,
+      "label": "Other drafters",
+      "members": [
+        "17-3012",
+        "17-3013",
+        "17-3019"
+      ]
+    },
+    {
+      "OCCP": "1600",
+      "SOCP": "191010",
+      "rows": 2,
+      "weight": 33,
+      "label": "Agricultural and food scientists",
+      "members": [
+        "19-1010"
+      ]
+    },
+    {
+      "OCCP": "1610",
+      "SOCP": "191020",
+      "rows": 6,
+      "weight": 165,
+      "label": "Biological scientists",
+      "members": [
+        "19-1020"
+      ]
+    },
+    {
+      "OCCP": "1650",
+      "SOCP": "1910XX",
+      "rows": 7,
+      "weight": 164,
+      "label": "Other life scientists",
+      "members": [
+        "19-1040",
+        "19-1099"
+      ]
+    },
+    {
+      "OCCP": "1700",
+      "SOCP": "192010",
+      "rows": 1,
+      "weight": 24,
+      "label": "Astronomers and physicists",
+      "members": [
+        "19-2010"
+      ]
+    },
+    {
+      "OCCP": "1720",
+      "SOCP": "192030",
+      "rows": 10,
+      "weight": 220,
+      "label": "Chemists and materials scientists",
+      "members": [
+        "19-2030"
+      ]
+    },
+    {
+      "OCCP": "1935",
+      "SOCP": "1940XX",
+      "rows": 1,
+      "weight": 9,
+      "label": "Environmental science and geoscience technicians, and nuclear technicians",
+      "members": [
+        "19-4040",
+        "19-4051"
+      ]
+    },
+    {
+      "OCCP": "1970",
+      "SOCP": "1940YY",
+      "rows": 12,
+      "weight": 238,
+      "label": "Other life, physical, and social science technicians",
+      "members": [
+        "19-4061",
+        "19-4071",
+        "19-4090"
+      ]
+    },
+    {
+      "OCCP": "1980",
+      "SOCP": "195010",
+      "rows": 6,
+      "weight": 156,
+      "label": "Occupational health and safety specialists and technicians",
+      "members": [
+        "19-5010"
+      ]
+    },
+    {
+      "OCCP": "2006",
+      "SOCP": "211019",
+      "rows": 13,
+      "weight": 444,
+      "label": "Counselors, all other",
+      "members": [
+        "21-1019"
+      ]
+    },
+    {
+      "OCCP": "2014",
+      "SOCP": "211029",
+      "rows": 19,
+      "weight": 392,
+      "label": "Social workers, all other",
+      "members": [
+        "21-1029"
+      ]
+    },
+    {
+      "OCCP": "2025",
+      "SOCP": "21109X",
+      "rows": 2,
+      "weight": 97,
+      "label": "Other community and social service specialists",
+      "members": [
+        "21-1091",
+        "21-1094",
+        "21-1099"
+      ]
+    },
+    {
+      "OCCP": "2100",
+      "SOCP": "2310XX",
+      "rows": 31,
+      "weight": 570,
+      "label": "Lawyers, and judges, magistrates, and other judicial workers",
+      "members": [
+        "23-1011",
+        "23-1020"
+      ]
+    },
+    {
+      "OCCP": "2180",
+      "SOCP": "232099",
+      "rows": 3,
+      "weight": 58,
+      "label": "Legal support workers, all other",
+      "members": [
+        "23-2099"
+      ]
+    },
+    {
+      "OCCP": "2205",
+      "SOCP": "251000",
+      "rows": 84,
+      "weight": 1592,
+      "label": "Postsecondary teachers",
+      "members": [
+        "25-1000"
+      ]
+    },
+    {
+      "OCCP": "2300",
+      "SOCP": "252010",
+      "rows": 41,
+      "weight": 924,
+      "label": "Preschool and kindergarten teachers",
+      "members": [
+        "25-2010"
+      ]
+    },
+    {
+      "OCCP": "2310",
+      "SOCP": "252020",
+      "rows": 140,
+      "weight": 2842,
+      "label": "Elementary and middle school teachers",
+      "members": [
+        "25-2020"
+      ]
+    },
+    {
+      "OCCP": "2320",
+      "SOCP": "252030",
+      "rows": 42,
+      "weight": 852,
+      "label": "Secondary school teachers",
+      "members": [
+        "25-2030"
+      ]
+    },
+    {
+      "OCCP": "2330",
+      "SOCP": "252050",
+      "rows": 17,
+      "weight": 273,
+      "label": "Special education teachers",
+      "members": [
+        "25-2050"
+      ]
+    },
+    {
+      "OCCP": "2360",
+      "SOCP": "2530XX",
+      "rows": 16,
+      "weight": 349,
+      "label": "Other teachers and instructors",
+      "members": [
+        "25-3011",
+        "25-3021",
+        "25-3031",
+        "25-3099"
+      ]
+    },
+    {
+      "OCCP": "2400",
+      "SOCP": "254010",
+      "rows": 2,
+      "weight": 45,
+      "label": "Archivists, curators, and museum technicians",
+      "members": [
+        "25-4010"
+      ]
+    },
+    {
+      "OCCP": "2545",
+      "SOCP": "259040",
+      "rows": 46,
+      "weight": 1371,
+      "label": "Teaching assistants",
+      "members": [
+        "25-9040"
+      ]
+    },
+    {
+      "OCCP": "2555",
+      "SOCP": "2590XX",
+      "rows": 2,
+      "weight": 18,
+      "label": "Other educational instruction and library workers",
+      "members": [
+        "25-9021",
+        "25-9031",
+        "25-9099"
+      ]
+    },
+    {
+      "OCCP": "2600",
+      "SOCP": "271010",
+      "rows": 6,
+      "weight": 180,
+      "label": "Artists and related workers",
+      "members": [
+        "27-1010"
+      ]
+    },
+    {
+      "OCCP": "2640",
+      "SOCP": "27102X",
+      "rows": 13,
+      "weight": 447,
+      "label": "Other designers",
+      "members": [
+        "27-1027",
+        "27-1029"
+      ]
+    },
+    {
+      "OCCP": "2740",
+      "SOCP": "272030",
+      "rows": 1,
+      "weight": 25,
+      "label": "Dancers and choreographers",
+      "members": [
+        "27-2030"
+      ]
+    },
+    {
+      "OCCP": "2865",
+      "SOCP": "273099",
+      "rows": 1,
+      "weight": 8,
+      "label": "Media and communication workers, all other",
+      "members": [
+        "27-3099"
+      ]
+    },
+    {
+      "OCCP": "2905",
+      "SOCP": "2740XX",
+      "rows": 1,
+      "weight": 9,
+      "label": "Other media and communication equipment workers",
+      "members": [
+        "27-4010",
+        "27-4099"
+      ]
+    },
+    {
+      "OCCP": "2920",
+      "SOCP": "274030",
+      "rows": 3,
+      "weight": 67,
+      "label": "Television, video, and film camera operators and editors",
+      "members": [
+        "27-4030"
+      ]
+    },
+    {
+      "OCCP": "3010",
+      "SOCP": "291020",
+      "rows": 4,
+      "weight": 36,
+      "label": "Dentists",
+      "members": [
+        "29-1020"
+      ]
+    },
+    {
+      "OCCP": "3090",
+      "SOCP": "291210",
+      "rows": 20,
+      "weight": 443,
+      "label": "Physicians",
+      "members": [
+        "29-1210",
+        "29-1211",
+        "29-1212",
+        "29-1213",
+        "29-1214",
+        "29-1215",
+        "29-1216",
+        "29-1217",
+        "29-1218",
+        "29-1221",
+        "29-1222",
+        "29-1223",
+        "29-1224",
+        "29-1229"
+      ]
+    },
+    {
+      "OCCP": "3100",
+      "SOCP": "291240",
+      "rows": 1,
+      "weight": 8,
+      "label": "Surgeons",
+      "members": [
+        "29-1240"
+      ]
+    },
+    {
+      "OCCP": "3300",
+      "SOCP": "292010",
+      "rows": 8,
+      "weight": 196,
+      "label": "Clinical laboratory technologists and technicians",
+      "members": [
+        "29-2010"
+      ]
+    },
+    {
+      "OCCP": "3545",
+      "SOCP": "292090",
+      "rows": 9,
+      "weight": 262,
+      "label": "Miscellaneous health technologists and technicians",
+      "members": [
+        "29-2090"
+      ]
+    },
+    {
+      "OCCP": "3550",
+      "SOCP": "299000",
+      "rows": 3,
+      "weight": 72,
+      "label": "Other healthcare practitioners and technical occupations",
+      "members": [
+        "29-9000"
+      ]
+    },
+    {
+      "OCCP": "3620",
+      "SOCP": "312020",
+      "rows": 8,
+      "weight": 230,
+      "label": "Physical therapist assistants and aides",
+      "members": [
+        "31-2020"
+      ]
+    },
+    {
+      "OCCP": "3725",
+      "SOCP": "331090",
+      "rows": 2,
+      "weight": 46,
+      "label": "Miscellaneous first-line supervisors, protective service workers",
+      "members": [
+        "33-1090",
+        "33-1091",
+        "33-1099"
+      ]
+    },
+    {
+      "OCCP": "3750",
+      "SOCP": "332020",
+      "rows": 2,
+      "weight": 35,
+      "label": "Fire inspectors",
+      "members": [
+        "33-2020"
+      ]
+    },
+    {
+      "OCCP": "3870",
+      "SOCP": "333050",
+      "rows": 37,
+      "weight": 776,
+      "label": "Police officers",
+      "members": [
+        "33-3050"
+      ]
+    },
+    {
+      "OCCP": "3930",
+      "SOCP": "339030",
+      "rows": 35,
+      "weight": 799,
+      "label": "Security guards and gambling surveillance officers",
+      "members": [
+        "33-9030"
+      ]
+    },
+    {
+      "OCCP": "4020",
+      "SOCP": "352010",
+      "rows": 72,
+      "weight": 2186,
+      "label": "Cooks",
+      "members": [
+        "35-2010"
+      ]
+    },
+    {
+      "OCCP": "4220",
+      "SOCP": "37201X",
+      "rows": 56,
+      "weight": 1462,
+      "label": "Janitors and building cleaners",
+      "members": [
+        "37-2011",
+        "37-2019"
+      ]
+    },
+    {
+      "OCCP": "4255",
+      "SOCP": "37301X",
+      "rows": 2,
+      "weight": 67,
+      "label": "Other grounds maintenance workers",
+      "members": [
+        "37-3012",
+        "37-3019"
+      ]
+    },
+    {
+      "OCCP": "4330",
+      "SOCP": "391000",
+      "rows": 8,
+      "weight": 198,
+      "label": "Supervisors of personal care and service workers",
+      "members": [
+        "39-1000"
+      ]
+    },
+    {
+      "OCCP": "4400",
+      "SOCP": "393010",
+      "rows": 2,
+      "weight": 50,
+      "label": "Gambling services workers",
+      "members": [
+        "39-3010"
+      ]
+    },
+    {
+      "OCCP": "4435",
+      "SOCP": "3930XX",
+      "rows": 5,
+      "weight": 155,
+      "label": "Other entertainment attendants and related workers",
+      "members": [
+        "39-3021",
+        "39-3090"
+      ]
+    },
+    {
+      "OCCP": "4530",
+      "SOCP": "396010",
+      "rows": 4,
+      "weight": 94,
+      "label": "Baggage porters, bellhops, and concierges",
+      "members": [
+        "39-6010"
+      ]
+    },
+    {
+      "OCCP": "4540",
+      "SOCP": "397010",
+      "rows": 5,
+      "weight": 97,
+      "label": "Tour and travel guides",
+      "members": [
+        "39-7010"
+      ]
+    },
+    {
+      "OCCP": "4655",
+      "SOCP": "399099",
+      "rows": 7,
+      "weight": 190,
+      "label": "Personal care and service workers, all other",
+      "members": [
+        "39-9099"
+      ]
+    },
+    {
+      "OCCP": "4720",
+      "SOCP": "412010",
+      "rows": 86,
+      "weight": 2558,
+      "label": "Cashiers",
+      "members": [
+        "41-2010"
+      ]
+    },
+    {
+      "OCCP": "4850",
+      "SOCP": "414010",
+      "rows": 34,
+      "weight": 920,
+      "label": "Sales representatives, wholesale and manufacturing",
+      "members": [
+        "41-4010"
+      ]
+    },
+    {
+      "OCCP": "4920",
+      "SOCP": "419020",
+      "rows": 19,
+      "weight": 352,
+      "label": "Real estate brokers and sales agents",
+      "members": [
+        "41-9020"
+      ]
+    },
+    {
+      "OCCP": "4965",
+      "SOCP": "419099",
+      "rows": 4,
+      "weight": 148,
+      "label": "Sales and related workers, all other",
+      "members": [
+        "41-9099"
+      ]
+    },
+    {
+      "OCCP": "5040",
+      "SOCP": "432099",
+      "rows": 1,
+      "weight": 8,
+      "label": "Communications equipment operators, all other",
+      "members": [
+        "43-2099"
+      ]
+    },
+    {
+      "OCCP": "5165",
+      "SOCP": "4330XX",
+      "rows": 12,
+      "weight": 306,
+      "label": "Other financial clerks",
+      "members": [
+        "43-3041",
+        "43-3099"
+      ]
+    },
+    {
+      "OCCP": "5420",
+      "SOCP": "434YYY",
+      "rows": 6,
+      "weight": 95,
+      "label": "Other information and records clerks",
+      "members": [
+        "43-4011",
+        "43-4199"
+      ]
+    },
+    {
+      "OCCP": "5940",
+      "SOCP": "439XXX",
+      "rows": 27,
+      "weight": 653,
+      "label": "Other office and administrative support workers",
+      "members": [
+        "43-9031",
+        "43-9199"
+      ]
+    },
+    {
+      "OCCP": "6050",
+      "SOCP": "4520XX",
+      "rows": 28,
+      "weight": 655,
+      "label": "Other agricultural workers",
+      "members": [
+        "45-2021",
+        "45-2090"
+      ]
+    },
+    {
+      "OCCP": "6220",
+      "SOCP": "472XXX",
+      "rows": 1,
+      "weight": 2,
+      "label": "Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",
+      "members": [
+        "47-2020",
+        "47-2171"
+      ]
+    },
+    {
+      "OCCP": "6240",
+      "SOCP": "472040",
+      "rows": 4,
+      "weight": 123,
+      "label": "Carpet, floor, and tile installers and finishers",
+      "members": [
+        "47-2040"
+      ]
+    },
+    {
+      "OCCP": "6305",
+      "SOCP": "472070",
+      "rows": 11,
+      "weight": 293,
+      "label": "Construction equipment operators",
+      "members": [
+        "47-2070"
+      ]
+    },
+    {
+      "OCCP": "6330",
+      "SOCP": "472080",
+      "rows": 3,
+      "weight": 124,
+      "label": "Drywall installers, ceiling tile installers, and tapers",
+      "members": [
+        "47-2080"
+      ]
+    },
+    {
+      "OCCP": "6400",
+      "SOCP": "472130",
+      "rows": 6,
+      "weight": 215,
+      "label": "Insulation workers",
+      "members": [
+        "47-2130"
+      ]
+    },
+    {
+      "OCCP": "6410",
+      "SOCP": "472140",
+      "rows": 17,
+      "weight": 605,
+      "label": "Painters and paperhangers",
+      "members": [
+        "47-2140"
+      ]
+    },
+    {
+      "OCCP": "6600",
+      "SOCP": "473010",
+      "rows": 1,
+      "weight": 17,
+      "label": "Helpers, construction trades",
+      "members": [
+        "47-3010"
+      ]
+    },
+    {
+      "OCCP": "6765",
+      "SOCP": "4740XX",
+      "rows": 3,
+      "weight": 79,
+      "label": "Other construction and related workers",
+      "members": [
+        "47-4071",
+        "47-4090"
+      ]
+    },
+    {
+      "OCCP": "7020",
+      "SOCP": "492020",
+      "rows": 4,
+      "weight": 131,
+      "label": "Radio and telecommunications equipment installers and repairers",
+      "members": [
+        "49-2020"
+      ]
+    },
+    {
+      "OCCP": "7220",
+      "SOCP": "493040",
+      "rows": 11,
+      "weight": 278,
+      "label": "Heavy vehicle and mobile equipment service technicians and mechanics",
+      "members": [
+        "49-3040"
+      ]
+    },
+    {
+      "OCCP": "7260",
+      "SOCP": "493090",
+      "rows": 3,
+      "weight": 130,
+      "label": "Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",
+      "members": [
+        "49-3090"
+      ]
+    },
+    {
+      "OCCP": "7300",
+      "SOCP": "499010",
+      "rows": 3,
+      "weight": 57,
+      "label": "Control and valve installers and repairers",
+      "members": [
+        "49-9010"
+      ]
+    },
+    {
+      "OCCP": "7430",
+      "SOCP": "499060",
+      "rows": 1,
+      "weight": 10,
+      "label": "Precision instrument and equipment repairers",
+      "members": [
+        "49-9060"
+      ]
+    },
+    {
+      "OCCP": "7640",
+      "SOCP": "4990XX",
+      "rows": 5,
+      "weight": 72,
+      "label": "Other installation, maintenance, and repair workers",
+      "members": [
+        "40-9095",
+        "49-9081",
+        "49-9092",
+        "49-9097",
+        "49-9099"
+      ]
+    },
+    {
+      "OCCP": "7750",
+      "SOCP": "5120XX",
+      "rows": 10,
+      "weight": 299,
+      "label": "Other assemblers and fabricators",
+      "members": [
+        "51-2011",
+        "51-2051",
+        "51-2061",
+        "51-2092",
+        "51-2099"
+      ]
+    },
+    {
+      "OCCP": "7810",
+      "SOCP": "513020",
+      "rows": 5,
+      "weight": 94,
+      "label": "Butchers and other meat, poultry, and fish processing workers",
+      "members": [
+        "51-3020"
+      ]
+    },
+    {
+      "OCCP": "7855",
+      "SOCP": "513099",
+      "rows": 7,
+      "weight": 224,
+      "label": "Food processing workers, all other",
+      "members": [
+        "51-3099"
+      ]
+    },
+    {
+      "OCCP": "7905",
+      "SOCP": "519160",
+      "rows": 7,
+      "weight": 149,
+      "label": "Computer numerically controlled tool operators and programmers",
+      "members": [
+        "51-9160"
+      ]
+    },
+    {
+      "OCCP": "8140",
+      "SOCP": "514120",
+      "rows": 16,
+      "weight": 398,
+      "label": "Welding, soldering, and brazing workers",
+      "members": [
+        "51-4120"
+      ]
+    },
+    {
+      "OCCP": "8225",
+      "SOCP": "514XXX",
+      "rows": 10,
+      "weight": 408,
+      "label": "Other metal workers and plastic workers",
+      "members": [
+        "51-4081",
+        "51-4191",
+        "51-4192",
+        "51-4193",
+        "51-4194",
+        "51-4199"
+      ]
+    },
+    {
+      "OCCP": "8350",
+      "SOCP": "516050",
+      "rows": 1,
+      "weight": 21,
+      "label": "Tailors, dressmakers, and sewers",
+      "members": [
+        "51-6050"
+      ]
+    },
+    {
+      "OCCP": "8465",
+      "SOCP": "51609X",
+      "rows": 1,
+      "weight": 30,
+      "label": "Other textile, apparel, and furnishings workers",
+      "members": [
+        "51-6091",
+        "51-6092",
+        "51-6099"
+      ]
+    },
+    {
+      "OCCP": "8600",
+      "SOCP": "518010",
+      "rows": 2,
+      "weight": 30,
+      "label": "Power plant operators, distributors, and dispatchers",
+      "members": [
+        "51-8010"
+      ]
+    },
+    {
+      "OCCP": "8630",
+      "SOCP": "518090",
+      "rows": 2,
+      "weight": 29,
+      "label": "Miscellaneous plant and system operators",
+      "members": [
+        "51-8090"
+      ]
+    },
+    {
+      "OCCP": "8640",
+      "SOCP": "519010",
+      "rows": 3,
+      "weight": 112,
+      "label": "Chemical processing machine setters, operators, and tenders",
+      "members": [
+        "51-9010"
+      ]
+    },
+    {
+      "OCCP": "8650",
+      "SOCP": "519020",
+      "rows": 3,
+      "weight": 40,
+      "label": "Crushing, grinding, polishing, mixing, and blending workers",
+      "members": [
+        "51-9020"
+      ]
+    },
+    {
+      "OCCP": "8760",
+      "SOCP": "519080",
+      "rows": 9,
+      "weight": 349,
+      "label": "Dental and ophthalmic laboratory technicians and medical appliance technicians",
+      "members": [
+        "51-9080"
+      ]
+    },
+    {
+      "OCCP": "8990",
+      "SOCP": "5191XX",
+      "rows": 35,
+      "weight": 888,
+      "label": "Miscellaneous production workers, including equipment operators and tenders",
+      "members": [
+        "51-9141",
+        "51-9192",
+        "51-9193",
+        "51-9199"
+      ]
+    },
+    {
+      "OCCP": "9005",
+      "SOCP": "531000",
+      "rows": 8,
+      "weight": 349,
+      "label": "Supervisors of transportation and material moving workers",
+      "members": [
+        "53-1000"
+      ]
+    },
+    {
+      "OCCP": "9030",
+      "SOCP": "532010",
+      "rows": 2,
+      "weight": 29,
+      "label": "Aircraft pilots and flight engineers",
+      "members": [
+        "53-2010"
+      ]
+    },
+    {
+      "OCCP": "9040",
+      "SOCP": "532020",
+      "rows": 2,
+      "weight": 46,
+      "label": "Air traffic controllers and airfield operations specialists",
+      "members": [
+        "53-2020"
+      ]
+    },
+    {
+      "OCCP": "9130",
+      "SOCP": "533030",
+      "rows": 58,
+      "weight": 1528,
+      "label": "Driver/sales workers and truck drivers",
+      "members": [
+        "53-3030"
+      ]
+    },
+    {
+      "OCCP": "9150",
+      "SOCP": "533099",
+      "rows": 4,
+      "weight": 245,
+      "label": "Motor vehicle operators, all other",
+      "members": [
+        "53-3099"
+      ]
+    },
+    {
+      "OCCP": "9210",
+      "SOCP": "534010",
+      "rows": 2,
+      "weight": 55,
+      "label": "Locomotive engineers and operators",
+      "members": [
+        "53-4010"
+      ]
+    },
+    {
+      "OCCP": "9310",
+      "SOCP": "535020",
+      "rows": 3,
+      "weight": 159,
+      "label": "Ship and boat captains and operators",
+      "members": [
+        "53-5020"
+      ]
+    },
+    {
+      "OCCP": "9365",
+      "SOCP": "536030",
+      "rows": 6,
+      "weight": 161,
+      "label": "Transportation service attendants",
+      "members": [
+        "53-6030"
+      ]
+    },
+    {
+      "OCCP": "9430",
+      "SOCP": "5360XX",
+      "rows": 1,
+      "weight": 28,
+      "label": "Other transportation workers",
+      "members": [
+        "53-6011",
+        "53-6041",
+        "53-6099"
+      ]
+    },
+    {
+      "OCCP": "9760",
+      "SOCP": "5371XX",
+      "rows": 2,
+      "weight": 29,
+      "label": "Other material moving workers",
+      "members": [
+        "53-7121",
+        "53-7199"
+      ]
+    }
+  ],
+  "cz_sample_covered_weight": {
+    "19800.0": 54394.0,
+    "19901.0": 33622.0
+  },
+  "national_weighted_coverage": "OPEN: no national PUMS downloaded; no national acceptance claim",
+  "telework_classification": "OPEN: separate 2010->2019 concordance needed for older telework scores"
+}

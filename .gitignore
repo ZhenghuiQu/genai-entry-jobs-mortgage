@@ -1,0 +1,11 @@
+.DS_Store
+data/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+credentials*
+*.duckdb
+*.duckdb.wal
+*.log

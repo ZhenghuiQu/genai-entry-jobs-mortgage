@@ -1,0 +1,356 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 4321,
+    "sha256": "51bdd5873c30c56fbc5d76de0a5184f65c8df7ff2d21bdbf345145cfd844bbb0",
+    "scope": "local handoff/reproduction artifact"
+  },
+  {
+    "path": "Makefile",
+    "bytes": 1523,
+    "sha256": "c3ce0794fd9cc8c09f744d4128ef61a70d9786b6a0ff2fca578a2cb8d3313e45",
+    "scope": "local handoff/reproduction artifact"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 95,
+    "sha256": "f2a3c06b667488ab3b5a0e40a8f76d087756599018b0c8e3e3f7015e1d860646",
+    "scope": "local handoff/reproduction artifact"
+  },
+  {
+    "path": "docs/design_decisions_pending.md",
+    "bytes": 7295,
+    "sha256": "eed38e00948a86e6598abab61da9dba1f82ca3549902ef390b6b7ee809da57f1",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "docs/data_source_registry.md",
+    "bytes": 43924,
+    "sha256": "55c602c76db342ad74f02d625f3a2b2e621f55d7dc815735d337daeeef6ff138",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "docs/geography_audit.md",
+    "bytes": 9938,
+    "sha256": "96793c7ee43c856e83749bacbbe196ef410e67da3bf30e144644620e6be47397",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "docs/occupation_crosswalk_audit.md",
+    "bytes": 10500,
+    "sha256": "f49db8c328d3d4b41b3bfaf22869dca6976c171b021c3c42e421bbc923c1f464",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "docs/feasibility_gate_report.md",
+    "bytes": 22301,
+    "sha256": "8b38e4eca09196184cdf95c22583f806caa4ca353d5121e54719ec2186d017f1",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/pums_resource_probe.py",
+    "bytes": 464,
+    "sha256": "17c82620f743c9b881150a03401b063e702af611665a98c361ea9a90afce1f6a",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/inspect_sources.py",
+    "bytes": 1087,
+    "sha256": "2b354b0522f2b87600df0023e4bd517abf4065cb2a5f407098e4dfba275ae421",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/final_source_probe.py",
+    "bytes": 863,
+    "sha256": "6030e044125b6eb9fcc6b003490b8f5eecf9ce48cba186ed3693bcbf0f584d32",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/test_zip_helpers.py",
+    "bytes": 1266,
+    "sha256": "1c2a7308b1fcb3265ad8ea8f8ecd7fce61b2202c575566c687948c62cebcda65",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/qwi_probe.py",
+    "bytes": 2370,
+    "sha256": "9dcf5c2ee246b5fbaf5401f62a5f0ad1be95eb5d8a28852f34dec7842e240c02",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/compute_probe.py",
+    "bytes": 3552,
+    "sha256": "ad2e1fcb90caac46228df2444b33ff7b2006ad66389870bc1eeecd24b58a0c8f",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/acquire_small_sources.py",
+    "bytes": 2811,
+    "sha256": "85aec19c847eee011f12db364241dff16816ee3896417550c531aeeb2cc827e6",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/hmda_analyze.py",
+    "bytes": 2188,
+    "sha256": "e6741d78768d5cc7501dccec8a883d14fcca2aee62f2d070c0e2db5aab9c46f4",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/geography_audit.py",
+    "bytes": 5827,
+    "sha256": "1a47cb8f76a3d8405a2f56e04e64b5d62055815b5f64e91626071508180662ac",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/render_reports.py",
+    "bytes": 46547,
+    "sha256": "f2e277605069cff910acf81978f1976468ff1623b49561a138b827d36ae7f05c",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/common.py",
+    "bytes": 5021,
+    "sha256": "4c1ece5f1418210a6504d50a920c8965a926bf5679f2317f9a6c0618425644d7",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/validate_artifacts.py",
+    "bytes": 3758,
+    "sha256": "e9d27d8e2b87b987c5c2bd51d870479756e431c754720fb0e1ec45a249f29e0b",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/acs_bulk_probe.py",
+    "bytes": 1079,
+    "sha256": "0929229aa21274fcbbc999842fb3f9fc857d481eaaff71367034543b6f330f27",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/requirements.lock.txt",
+    "bytes": 222,
+    "sha256": "fa7dca441a8a78e6061d840cf5700677bcdf75a1b1d9d1cf2d497ab02c090e6b",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/auxiliary_audit.py",
+    "bytes": 4364,
+    "sha256": "ea8d5012a79645fdba52e5181dfe66428a77087d22648e2cc614a601c27e81a8",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/acquire_followup_sources.py",
+    "bytes": 1794,
+    "sha256": "c15a8bc63348f98e4b8762b003f51e60ac2a734dd6afe0cacd6695a501bea837",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/hmda_probe.py",
+    "bytes": 5073,
+    "sha256": "317840cc05a0e67f487fa1017e2bc6cbffa64fbf3b95dddbb0b7f533b80b883f",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "scripts/feasibility/occupation_audit.py",
+    "bytes": 6283,
+    "sha256": "e5ee806a75ac26ad3877006f4b86c960f3874d6339c05547507bfffd9c0759fe",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "audit/interaction_audit.md",
+    "bytes": 4193,
+    "sha256": "64a1f9a30cad1ec570ef4f44bff8b42c7002d3ab042dbe38b89b5d355ab56b87",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "audit/repository_access.md",
+    "bytes": 1577,
+    "sha256": "b5953988567c3b7b97a676e0cd0afbe0f58a4f1407e79e3892672ec5c31d5ec2",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "audit/day_1_2_request.txt",
+    "bytes": 5889,
+    "sha256": "50bf650a53fe50fbecc9613f2cfd50577808295267bff0a5fd169576b27f564b",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/qwi_download_sizes.json",
+    "bytes": 3464,
+    "sha256": "5e00f1ca3c532c7e8a844948913aad7c313c0a978849da01f1d178e9bea359af",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/geography_audit.json",
+    "bytes": 10064,
+    "sha256": "1693de639263242a7361f1d20d9360fc9f2f4353a4ef11c1b20bea062624f12f",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/followup_source_acquisition.json",
+    "bytes": 16099,
+    "sha256": "357c3488269f5e309cc6db470e21677b94da32043f881f25ba776f283645f3d9",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/hmda_snapshot_probe.json",
+    "bytes": 263504,
+    "sha256": "ad6a92029e2daec5765b2dd2b4d9bbc0c49cee1d2db8e79295d158f1efa8b50c",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/acs_lookup_selected.json",
+    "bytes": 3993,
+    "sha256": "d7a7d72ba31ec1a8db546ad49b64e2f1ec678d059f4fc42e579e0e9f161a1a83",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/hmda_field_codes.json",
+    "bytes": 141010,
+    "sha256": "761427adda933b10124dfa0caef4555a15b01abc2d4d3f97138014c7c46f9e84",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/occupation_weighted_coverage.csv",
+    "bytes": 1149,
+    "sha256": "b3847a9e9b1dfcc5d248bef5746924ddd673e25c29cbfd357575f8a173dbfc52",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/test_register.json",
+    "bytes": 25500,
+    "sha256": "6c4602ee03a5e94797e14dd38e73d2d8fe0e77f2d1e87285904cb69422b58ef7",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/occupation_audit.json",
+    "bytes": 28259,
+    "sha256": "3c02ed236246705f7fbc8e1003f723ce1969b39e5de7b843f6c11ce9bc9626ec",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/research_document_manifest.json",
+    "bytes": 1768,
+    "sha256": "2cd30e66ad5f8850589c00e4bea8c1eb60bd243882419e02dcc1b11a8ae2ef32",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/compute_audit.json",
+    "bytes": 3052,
+    "sha256": "f6b2f2c726e0f966fa9748b626ddc5f56b7993a6669045dee53d9a747b47072a",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/qwi_sample_audit.json",
+    "bytes": 1635,
+    "sha256": "6bdadf81770a3c1b63c64e3e5358fe08b96062ab33c256be90f09763d87596a8",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/occupation_ambiguous_groups.csv",
+    "bytes": 24011,
+    "sha256": "79dd1d81b37d58b0964a10029d98779c20b3206405b3f351a343d5b94bfd423e",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/small_source_acquisition.json",
+    "bytes": 29234,
+    "sha256": "ea0312bf5206b525c9c4bd3dfc9fa147208b5b2eabcd5f7e49ea4fd882259832",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/occupation_mapping_diagnostic.csv",
+    "bytes": 68734,
+    "sha256": "1e4e35d198cc4d33ee4e6b975d8ceca834b8cbf99eb47d8bb28ce7faf2810aab",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/auxiliary_audit.json",
+    "bytes": 8920,
+    "sha256": "2e7cf8cd8f9b2cf9145c71724dcadc2d831d5019c95da05bf31d147a1475defb",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/source_manifest.jsonl",
+    "bytes": 156687,
+    "sha256": "5eb3283f5f53986984293e7960c1ca5d99a30da9f2ed531cd05aefa57bcd3cc1",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/occupation_unmatched_groups.csv",
+    "bytes": 8310,
+    "sha256": "eb0a4b8da05846c6420b27810784491eea27def42136484e4631d9c5f7241594",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/hmda_schema_comparison.json",
+    "bytes": 11315,
+    "sha256": "3924e851e4410e84e4c1023db3167ff84837aa2c834173a24b16ee066a2dd04c",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/qwi_versions.json",
+    "bytes": 75738,
+    "sha256": "bd545d634bc219f2abb348e327fac055ffe3a9ae6a4a5be3bed1b5aad7713da3",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/pums_resource_audit.json",
+    "bytes": 4576,
+    "sha256": "e02ced286ef3f4caf3d9e12a79b1d7eb36e8bfe7bbd14788375e9f9133d47603",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "results/feasibility/hmda_filter_funnel.json",
+    "bytes": 10099,
+    "sha256": "01a1ed14ead3061042505302d8086120815d6732f2687bd8b715568cf71d2013",
+    "scope": "local derived/document/code artifact"
+  },
+  {
+    "path": "data/feasibility/hmda_2025_sample.csv",
+    "bytes": 1925786,
+    "sha256": "560500364ac1af2036143dbb17cb4b816d13bc95b0c08e29cd7ee1d64496a0fe",
+    "scope": "derived bounded prefix CSV; ignored raw sample"
+  },
+  {
+    "path": "data/feasibility/hmda_2020_sample.csv",
+    "bytes": 2198074,
+    "sha256": "e9f7b634af0a991f20662facc41d5ccabf6683db4d850291937f75e6b7c06b79",
+    "scope": "derived bounded prefix CSV; ignored raw sample"
+  },
+  {
+    "path": "data/feasibility/hmda_2018_sample.csv",
+    "bytes": 1692858,
+    "sha256": "19a7b5e5f8d1d7ea6f2408644c2c5d6ab1d3d8ab2a333985994dbf0c1cdabc85",
+    "scope": "derived bounded prefix CSV; ignored raw sample"
+  },
+  {
+    "path": "data/feasibility/hmda_2022_sample.csv",
+    "bytes": 1589600,
+    "sha256": "bd7528cbe22835fcba1102af8f63ad5847c8e6048b2e6fa29b957bd7203bc012",
+    "scope": "derived bounded prefix CSV; ignored raw sample"
+  },
+  {
+    "path": "data/feasibility/hmda_2021_sample.csv",
+    "bytes": 2307239,
+    "sha256": "e31f057929fc3f424d826f36ff304409b87374e8d7e1baa061d9a17ced9f8817",
+    "scope": "derived bounded prefix CSV; ignored raw sample"
+  },
+  {
+    "path": "data/feasibility/hmda_2024_sample.csv",
+    "bytes": 1917097,
+    "sha256": "c4d2292605efcaa6007dd2295001e623e28502972e6a5d1041e50b6c386facf5",
+    "scope": "derived bounded prefix CSV; ignored raw sample"
+  },
+  {
+    "path": "data/feasibility/hmda_2019_sample.csv",
+    "bytes": 2138938,
+    "sha256": "36f3945063aa814e79f5882e802ec470fc4b3fde4a09ecf3c6f4fcfb8e049d1f",
+    "scope": "derived bounded prefix CSV; ignored raw sample"
+  },
+  {
+    "path": "data/feasibility/hmda_2023_sample.csv",
+    "bytes": 1889250,
+    "sha256": "a8257ff1000b297261175afee88f3b1be252dc550488c03b52637a7fd7b496b1",
+    "scope": "derived bounded prefix CSV; ignored raw sample"
+  }
+]

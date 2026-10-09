@@ -1,0 +1,398 @@
+{
+  "county": {
+    "rows": 3141,
+    "czs": 741,
+    "duplicate_fips": 0,
+    "missing": 0
+  },
+  "puma": {
+    "rows": 4077,
+    "pumas": 2351,
+    "czs": 741,
+    "duplicate_pairs": 0,
+    "afactor_min": 1.1900012708565555e-07,
+    "afactor_max": 1.0000000730651664,
+    "sum_min": 0.9999999366700649,
+    "sum_max": 1.0000000730651664,
+    "max_absolute_sum_error": 7.306516636162996e-08,
+    "sums_outside_tolerance": 0,
+    "tolerance": 1e-06,
+    "negative_weights": 0,
+    "weights_above_one_tolerance": 0,
+    "split_pumas": 553,
+    "weighted_allocation": "PWGTP * afactor; unnormalized published weights"
+  },
+  "dominant_state": {
+    "rows": 741,
+    "duplicate_cz": 0
+  },
+  "population2019_nation_raw": {
+    "rows": 3142,
+    "matched_rows": 3131,
+    "row_coverage_percent": 99.64990451941439,
+    "weight_total": 328239523.0,
+    "matched_weight": 325411649.0,
+    "weighted_coverage_percent": 99.13847242582058,
+    "unmatched": [
+      {
+        "fips": "02068",
+        "pop": 2097
+      },
+      {
+        "fips": "02105",
+        "pop": 2148
+      },
+      {
+        "fips": "02158",
+        "pop": 8314
+      },
+      {
+        "fips": "02195",
+        "pop": 3266
+      },
+      {
+        "fips": "02198",
+        "pop": 6203
+      },
+      {
+        "fips": "02230",
+        "pop": 1183
+      },
+      {
+        "fips": "02275",
+        "pop": 2502
+      },
+      {
+        "fips": "02282",
+        "pop": 579
+      },
+      {
+        "fips": "08014",
+        "pop": 70465
+      },
+      {
+        "fips": "12086",
+        "pop": 2716940
+      },
+      {
+        "fips": "46102",
+        "pop": 14177
+      }
+    ]
+  },
+  "population2019_provisional_target_raw": {
+    "rows": 3100,
+    "matched_rows": 3097,
+    "row_coverage_percent": 99.90322580645162,
+    "weight_total": 322526819.0,
+    "matched_weight": 319725237.0,
+    "weighted_coverage_percent": 99.13136463854809,
+    "unmatched": [
+      {
+        "fips": "08014",
+        "pop": 70465
+      },
+      {
+        "fips": "12086",
+        "pop": 2716940
+      },
+      {
+        "fips": "46102",
+        "pop": 14177
+      }
+    ]
+  },
+  "population2019_provisional_target_documented_candidates": {
+    "rows": 3100,
+    "matched_rows": 3100,
+    "row_coverage_percent": 100.0,
+    "weight_total": 322526819.0,
+    "matched_weight": 322526819.0,
+    "weighted_coverage_percent": 100.0,
+    "unmatched": []
+  },
+  "candidate_changes": [
+    {
+      "fips": "12086",
+      "old": "12025",
+      "cz": 7000,
+      "kind": "renaming"
+    },
+    {
+      "fips": "46102",
+      "old": "46113",
+      "cz": 27704,
+      "kind": "renaming"
+    },
+    {
+      "fips": "08014",
+      "old": null,
+      "cz": 28900,
+      "kind": "Dorn recommended approximation across source counties"
+    }
+  ],
+  "ct_planning_region_lookup": {
+    "09110": null,
+    "09120": null,
+    "09130": null,
+    "09140": null,
+    "09150": null,
+    "09160": null,
+    "09170": null,
+    "09180": null,
+    "09190": null
+  },
+  "hmda_samples": {
+    "hmda_2018_sample.csv": {
+      "rows": 4377,
+      "matched_rows": 4320,
+      "row_coverage_percent": 98.69773817683345,
+      "weight_total": 4377.0,
+      "matched_weight": 4320.0,
+      "weighted_coverage_percent": 98.69773817683345,
+      "unmatched": {
+        "12086": 55,
+        "08014": 2
+      },
+      "state_county_inconsistent_rows": 0,
+      "provisional_purchase_documented_candidates": {
+        "rows": 3717,
+        "matched_rows": 3717,
+        "row_coverage_percent": 100.0,
+        "weight_total": 3717.0,
+        "matched_weight": 3717.0,
+        "weighted_coverage_percent": 100.0,
+        "unmatched": {}
+      }
+    },
+    "hmda_2019_sample.csv": {
+      "rows": 5331,
+      "matched_rows": 5150,
+      "row_coverage_percent": 96.60476458450572,
+      "weight_total": 5331.0,
+      "matched_weight": 5150.0,
+      "weighted_coverage_percent": 96.60476458450572,
+      "unmatched": {
+        "NA": 177,
+        "12086": 3,
+        "08014": 1
+      },
+      "state_county_inconsistent_rows": 1,
+      "provisional_purchase_documented_candidates": {
+        "rows": 2533,
+        "matched_rows": 2468,
+        "row_coverage_percent": 97.43387287801026,
+        "weight_total": 2533.0,
+        "matched_weight": 2468.0,
+        "weighted_coverage_percent": 97.43387287801026,
+        "unmatched": {
+          "NA": 65
+        }
+      }
+    },
+    "hmda_2020_sample.csv": {
+      "rows": 5370,
+      "matched_rows": 5339,
+      "row_coverage_percent": 99.42271880819366,
+      "weight_total": 5370.0,
+      "matched_weight": 5339.0,
+      "weighted_coverage_percent": 99.42271880819366,
+      "unmatched": {
+        "12086": 31
+      },
+      "state_county_inconsistent_rows": 0
+    },
+    "hmda_2021_sample.csv": {
+      "rows": 5948,
+      "matched_rows": 5701,
+      "row_coverage_percent": 95.84734364492266,
+      "weight_total": 5948.0,
+      "matched_weight": 5701.0,
+      "weighted_coverage_percent": 95.84734364492266,
+      "unmatched": {
+        "NA": 247
+      },
+      "state_county_inconsistent_rows": 0,
+      "provisional_purchase_documented_candidates": {
+        "rows": 827,
+        "matched_rows": 816,
+        "row_coverage_percent": 98.66989117291415,
+        "weight_total": 827.0,
+        "matched_weight": 816.0,
+        "weighted_coverage_percent": 98.66989117291415,
+        "unmatched": {
+          "NA": 11
+        }
+      }
+    },
+    "hmda_2022_sample.csv": {
+      "rows": 4269,
+      "matched_rows": 4232,
+      "row_coverage_percent": 99.13328648395408,
+      "weight_total": 4269.0,
+      "matched_weight": 4232.0,
+      "weighted_coverage_percent": 99.1332864839541,
+      "unmatched": {
+        "12086": 37
+      },
+      "state_county_inconsistent_rows": 0,
+      "provisional_purchase_documented_candidates": {
+        "rows": 1298,
+        "matched_rows": 1298,
+        "row_coverage_percent": 100.0,
+        "weight_total": 1298.0,
+        "matched_weight": 1298.0,
+        "weighted_coverage_percent": 100.0,
+        "unmatched": {}
+      }
+    },
+    "hmda_2023_sample.csv": {
+      "rows": 4812,
+      "matched_rows": 4797,
+      "row_coverage_percent": 99.68827930174564,
+      "weight_total": 4812.0,
+      "matched_weight": 4797.0,
+      "weighted_coverage_percent": 99.68827930174564,
+      "unmatched": {
+        "12086": 14,
+        "08014": 1
+      },
+      "state_county_inconsistent_rows": 0
+    },
+    "hmda_2024_sample.csv": {
+      "rows": 5103,
+      "matched_rows": 4447,
+      "row_coverage_percent": 87.1448167744464,
+      "weight_total": 5103.0,
+      "matched_weight": 4447.0,
+      "weighted_coverage_percent": 87.1448167744464,
+      "unmatched": {
+        "09110": 207,
+        "09120": 120,
+        "09190": 106,
+        "09170": 90,
+        "09140": 61,
+        "09180": 38,
+        "09130": 13,
+        "09160": 10,
+        "09150": 7,
+        "12086": 4
+      },
+      "state_county_inconsistent_rows": 0,
+      "provisional_purchase_documented_candidates": {
+        "rows": 5,
+        "matched_rows": 5,
+        "row_coverage_percent": 100.0,
+        "weight_total": 5.0,
+        "matched_weight": 5.0,
+        "weighted_coverage_percent": 100.0,
+        "unmatched": {}
+      }
+    },
+    "hmda_2025_sample.csv": {
+      "rows": 5030,
+      "matched_rows": 5012,
+      "row_coverage_percent": 99.64214711729622,
+      "weight_total": 5030.0,
+      "matched_weight": 5012.0,
+      "weighted_coverage_percent": 99.64214711729622,
+      "unmatched": {
+        "09110": 6,
+        "09170": 3,
+        "09120": 3,
+        "09180": 2,
+        "12086": 1,
+        "09160": 1,
+        "09150": 1,
+        "09140": 1
+      },
+      "state_county_inconsistent_rows": 0,
+      "provisional_purchase_documented_candidates": {
+        "rows": 2021,
+        "matched_rows": 2021,
+        "row_coverage_percent": 100.0,
+        "weight_total": 2021.0,
+        "matched_weight": 2021.0,
+        "weighted_coverage_percent": 100.0,
+        "unmatched": {}
+      }
+    },
+    "hmda_ct_2018.csv": {
+      "rows": 41156,
+      "matched_rows": 41018,
+      "row_coverage_percent": 99.6646904461075,
+      "weight_total": 41156.0,
+      "matched_weight": 41018.0,
+      "weighted_coverage_percent": 99.6646904461075,
+      "unmatched": {
+        "NA": 138
+      },
+      "state_county_inconsistent_rows": 2
+    },
+    "hmda_ct_2023.csv": {
+      "rows": 35534,
+      "matched_rows": 35290,
+      "row_coverage_percent": 99.31333370856082,
+      "weight_total": 35534.0,
+      "matched_weight": 35290.0,
+      "weighted_coverage_percent": 99.31333370856082,
+      "unmatched": {
+        "NA": 244
+      },
+      "state_county_inconsistent_rows": 0
+    },
+    "hmda_ct_2024.csv": {
+      "rows": 35150,
+      "matched_rows": 0,
+      "row_coverage_percent": 0.0,
+      "weight_total": 35150.0,
+      "matched_weight": 0.0,
+      "weighted_coverage_percent": 0.0,
+      "unmatched": {
+        "09110": 10032,
+        "09190": 5268,
+        "09170": 4980,
+        "09140": 4776,
+        "09180": 2871,
+        "09120": 2655,
+        "09130": 1790,
+        "09160": 1294,
+        "09150": 1125,
+        "NA": 359
+      },
+      "state_county_inconsistent_rows": 0
+    },
+    "hmda_ct_2025.csv": {
+      "rows": 35676,
+      "matched_rows": 0,
+      "row_coverage_percent": 0.0,
+      "weight_total": 35676.0,
+      "matched_weight": 0.0,
+      "weighted_coverage_percent": 0.0,
+      "unmatched": {
+        "09110": 9882,
+        "09190": 5525,
+        "09170": 5028,
+        "09140": 4835,
+        "09180": 3069,
+        "09120": 2574,
+        "09130": 1946,
+        "09160": 1285,
+        "09150": 1196,
+        "NA": 336
+      },
+      "state_county_inconsistent_rows": 0
+    }
+  },
+  "pums_de_young_geography": {
+    "rows": 4898,
+    "matched_rows": 4898,
+    "row_coverage_percent": 100.0,
+    "weight_total": 123656.0,
+    "matched_weight": 123656.0,
+    "weighted_coverage_percent": 100.0,
+    "unmatched": []
+  },
+  "pums_de_allocation_weight_error": 0.0,
+  "national_hmda_geography_coverage": "OPEN: limited prefixes and CT extracts are not the complete intended HMDA universe"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "path": "literature/00_executive_summary.md",
+    "bytes": 10125,
+    "sha256": "fa69830486ae986a2ef264cfce50aadde905337751ef6adc05381e55d2771c73",
+    "scope": "unchanged local independent Claude review"
+  },
+  {
+    "path": "literature/01_literature_review.md",
+    "bytes": 21934,
+    "sha256": "29f68e651efb96ca2349201a12349fbd3cee11b960979d65cc321b353dc9f22e",
+    "scope": "unchanged local independent Claude review"
+  },
+  {
+    "path": "literature/02_evidence_matrix.md",
+    "bytes": 73218,
+    "sha256": "0e44b0bd1a49175f251253862c18b2a31026731eae20cfc16e1a7549963671b2",
+    "scope": "unchanged local independent Claude review"
+  },
+  {
+    "path": "literature/03_hmda_methods_audit.md",
+    "bytes": 31035,
+    "sha256": "e79e3c75fb26cec7f3204b032fb64849df76f46bbd8180683ad886d6a00258fe",
+    "scope": "unchanged local independent Claude review"
+  },
+  {
+    "path": "literature/04_data_feasibility.md",
+    "bytes": 22108,
+    "sha256": "d3947ca5afcd3b9526563cad00e16c5a5498e3915982f571a3ea8404d35d25bf",
+    "scope": "unchanged local independent Claude review"
+  },
+  {
+    "path": "literature/05_identification_designs.md",
+    "bytes": 32472,
+    "sha256": "f7598f7c8e83e18c77c8ef3a7ce5858d073757872331f6408d34f9c74bc70472",
+    "scope": "unchanged local independent Claude review"
+  },
+  {
+    "path": "literature/06_mechanisms_and_contribution.md",
+    "bytes": 22713,
+    "sha256": "515a4e1cac3e129c844025510c458f7fb7729a7c3b5efeca1ffa5d8a79b2b8bc",
+    "scope": "unchanged local independent Claude review"
+  },
+  {
+    "path": "literature/07_recommended_research_plan.md",
+    "bytes": 40550,
+    "sha256": "fcfeb65bca6d730f4934d3e85c2c7ebb07e68d73f7d3832f1f08fc6dbac98287",
+    "scope": "unchanged local independent Claude review"
+  }
+]

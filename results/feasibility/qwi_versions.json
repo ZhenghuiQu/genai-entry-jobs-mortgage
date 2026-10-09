@@ -1,0 +1,1736 @@
+{
+  "al": {
+    "retrieval": {
+      "id": "qwi_version_al.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/al/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:51.964439+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/al/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:53 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 06 Aug 2026 13:48:30 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "0bbf97f7a70414843530508fdaabb64cb7ca49d70771164dd23c64496a6bc30a",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F AL 01 2001:1-2025:4 V4.14.0 R2026Q3 qwipu_al_20260805_0918\nQWI_FA AL 01 2001:1-2025:3 V4.14.0 R2026Q3 qwipu_al_20260805_0918\nQWI_FS AL 01 2001:1-2025:3 V4.14.0 R2026Q3 qwipu_al_20260805_0918\n"
+  },
+  "ak": {
+    "retrieval": {
+      "id": "qwi_version_ak.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ak/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:51.964821+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ak/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:53 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 06 Aug 2026 13:24:54 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "c3a8caaae50819e21eefaa722d557b61a07895a97a6e3610cc63125b57ed98d5",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F AK 02 2000:1-2016:2 V4.14.0 R2026Q3 qwipu_ak_20260805_0701\nQWI_FA AK 02 2000:1-2016:1 V4.14.0 R2026Q3 qwipu_ak_20260805_0701\nQWI_FS AK 02 2000:1-2016:1 V4.14.0 R2026Q3 qwipu_ak_20260805_0701\n"
+  },
+  "az": {
+    "retrieval": {
+      "id": "qwi_version_az.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/az/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:51.964941+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/az/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:53 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 06 Aug 2026 14:20:53 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "ebe279e91e50d66c01bb16b991ae4b6714d8f2448054c96342f33a934cfafe1f",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F AZ 04 2004:1-2025:4 V4.14.0 R2026Q3 qwipu_az_20260804_1638\nQWI_FA AZ 04 2004:1-2025:3 V4.14.0 R2026Q3 qwipu_az_20260804_1638\nQWI_FS AZ 04 2004:1-2025:3 V4.14.0 R2026Q3 qwipu_az_20260804_1638\n"
+  },
+  "ar": {
+    "retrieval": {
+      "id": "qwi_version_ar.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ar/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:51.965105+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ar/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:53 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 06 Aug 2026 14:08:34 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "f5d091c5d48d205483cb106e00152c9346559e07990d5bd8c555f8d3e5af12bc",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F AR 05 2002:3-2025:4 V4.14.0 R2026Q3 qwipu_ar_20260804_1640\nQWI_FA AR 05 2002:3-2025:3 V4.14.0 R2026Q3 qwipu_ar_20260804_1640\nQWI_FS AR 05 2002:3-2025:3 V4.14.0 R2026Q3 qwipu_ar_20260804_1640\n"
+  },
+  "ca": {
+    "retrieval": {
+      "id": "qwi_version_ca.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ca/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:51.965195+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ca/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:53 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 06 Aug 2026 12:39:01 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "3ad6c292a946ed58b5f66b22abf96afc4b34f84144d94632ca2e755f9aae0b93",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F CA 06 1991:3-2025:4 V4.14.0 R2026Q3 qwipu_ca_20260805_1428\nQWI_FA CA 06 1991:3-2025:3 V4.14.0 R2026Q3 qwipu_ca_20260805_1428\nQWI_FS CA 06 1991:3-2025:3 V4.14.0 R2026Q3 qwipu_ca_20260805_1428\n"
+  },
+  "co": {
+    "retrieval": {
+      "id": "qwi_version_co.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/co/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:51.965258+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/co/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:53 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 06 Aug 2026 14:33:43 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "044184b2755778cc583109056b8ce7cda781dbf6618d23f7767b29034fbdc15a",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F CO 08 1993:2-2025:4 V4.14.0 R2026Q3 qwipu_co_20260805_1431\nQWI_FA CO 08 1993:2-2025:3 V4.14.0 R2026Q3 qwipu_co_20260805_1431\nQWI_FS CO 08 1993:2-2025:3 V4.14.0 R2026Q3 qwipu_co_20260805_1431\n"
+  },
+  "ct": {
+    "retrieval": {
+      "id": "qwi_version_ct.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ct/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:53.485824+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ct/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:54 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 25 Aug 2026 14:49:26 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "48567ffc2163f23266bc6aaeb02ea3c6b31dcc07fff02563dd73d1dfdcd2d828",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F CT 09 1996:1-2025:4 V4.14.0 R2026Q3 qwipu_ct_20260824_1422\nQWI_FA CT 09 1996:1-2025:3 V4.14.0 R2026Q3 qwipu_ct_20260824_1422\nQWI_FS CT 09 1996:1-2025:3 V4.14.0 R2026Q3 qwipu_ct_20260824_1422\n"
+  },
+  "de": {
+    "retrieval": {
+      "id": "qwi_version_de.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/de/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:53.496372+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/de/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:54 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Fri, 31 Jul 2026 15:47:40 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "61535931afd776898a8dae94ab8a305e1b94ef0aad2ea10e48c081f0901169af",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F DE 10 1998:3-2025:4 V4.14.0 R2026Q3 qwipu_de_20260730_1447\nQWI_FA DE 10 1998:3-2025:3 V4.14.0 R2026Q3 qwipu_de_20260730_1447\nQWI_FS DE 10 1998:3-2025:3 V4.14.0 R2026Q3 qwipu_de_20260730_1447\n"
+  },
+  "dc": {
+    "retrieval": {
+      "id": "qwi_version_dc.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/dc/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:53.496571+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/dc/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:54 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Fri, 31 Jul 2026 15:33:10 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "697b3d839060c559c4867b6020ab2fce224fe950d35a0cb1570c30722fdedb0e",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F DC 11 2005:2-2025:4 V4.14.0 R2026Q3 qwipu_dc_20260730_1327\nQWI_FA DC 11 2005:2-2025:3 V4.14.0 R2026Q3 qwipu_dc_20260730_1327\nQWI_FS DC 11 2005:2-2025:3 V4.14.0 R2026Q3 qwipu_dc_20260730_1327\n"
+  },
+  "fl": {
+    "retrieval": {
+      "id": "qwi_version_fl.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/fl/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:53.497243+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/fl/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:54 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 25 Aug 2026 12:45:08 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "70398868c3f98dd94bb8af758151d0d0e494321a34a8de9478f6564080c49d89",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F FL 12 1997:4-2025:4 V4.14.0 R2026Q3 qwipu_fl_20260824_1520\nQWI_FA FL 12 1997:4-2025:3 V4.14.0 R2026Q3 qwipu_fl_20260824_1520\nQWI_FS FL 12 1997:4-2025:3 V4.14.0 R2026Q3 qwipu_fl_20260824_1520\n"
+  },
+  "ga": {
+    "retrieval": {
+      "id": "qwi_version_ga.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ga/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:53.498131+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ga/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:54 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 25 Aug 2026 13:21:30 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "b2aa6418643853557a40b616cc092025876b9cd3166a7e7a7b6ac5fbb62f2e1c",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F GA 13 1998:1-2025:4 V4.14.0 R2026Q3 qwipu_ga_20260824_1549\nQWI_FA GA 13 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_ga_20260824_1549\nQWI_FS GA 13 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_ga_20260824_1549\n"
+  },
+  "hi": {
+    "retrieval": {
+      "id": "qwi_version_hi.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/hi/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:53.498892+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/hi/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:54 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 06 Aug 2026 14:50:05 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "c7112ae9b576370f9850848540eefac41ced818373bd9ab4b0916fe103cb7dac",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F HI 15 1995:4-2025:4 V4.14.0 R2026Q3 qwipu_hi_20260805_1537\nQWI_FA HI 15 1995:4-2025:3 V4.14.0 R2026Q3 qwipu_hi_20260805_1537\nQWI_FS HI 15 1995:4-2025:3 V4.14.0 R2026Q3 qwipu_hi_20260805_1537\n"
+  },
+  "id": {
+    "retrieval": {
+      "id": "qwi_version_id.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/id/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:55.021915+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/id/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:56 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Mon, 10 Aug 2026 17:17:03 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "ad2dbfd84dfd04fd95c039cd37d711484a9399f4029270cf7ba82d23f29ca1d3",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F ID 16 1991:1-2025:4 V4.14.0 R2026Q3 qwipu_id_20260810_1117\nQWI_FA ID 16 1991:1-2025:3 V4.14.0 R2026Q3 qwipu_id_20260810_1117\nQWI_FS ID 16 1991:1-2025:3 V4.14.0 R2026Q3 qwipu_id_20260810_1117\n"
+  },
+  "il": {
+    "retrieval": {
+      "id": "qwi_version_il.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/il/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:55.041388+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/il/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:57 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 11 Aug 2026 19:47:44 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "51873fa1464a496bedb3c908cfa65969b99e216ba51bc8d42790d2c62327b8ed",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F IL 17 1993:2-2025:4 V4.14.0 R2026Q3 qwipu_il_20260811_0952\nQWI_FA IL 17 1993:2-2025:3 V4.14.0 R2026Q3 qwipu_il_20260811_0952\nQWI_FS IL 17 1993:2-2025:3 V4.14.0 R2026Q3 qwipu_il_20260811_0952\n"
+  },
+  "in": {
+    "retrieval": {
+      "id": "qwi_version_in.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/in/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:55.041613+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/in/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:56 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Mon, 17 Aug 2026 18:53:25 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "48f63badce6b03a8de36f971dafce4c3c94d5ce71f5ffd9c5a2c02e8251788b2",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F IN 18 1998:1-2025:4 V4.14.0 R2026Q3 qwipu_in_20260817_1137\nQWI_FA IN 18 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_in_20260817_1137\nQWI_FS IN 18 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_in_20260817_1137\n"
+  },
+  "ia": {
+    "retrieval": {
+      "id": "qwi_version_ia.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ia/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:55.042403+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ia/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:56 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Fri, 31 Jul 2026 15:56:25 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "b0847af8cbbbf0b28aad474102202e2d628ddbdc7ed6a16762e3e5ff7d49e25c",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F IA 19 1998:4-2025:4 V4.14.0 R2026Q3 qwipu_ia_20260730_1544\nQWI_FA IA 19 1998:4-2025:3 V4.14.0 R2026Q3 qwipu_ia_20260730_1544\nQWI_FS IA 19 1998:4-2025:3 V4.14.0 R2026Q3 qwipu_ia_20260730_1544\n"
+  },
+  "ks": {
+    "retrieval": {
+      "id": "qwi_version_ks.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ks/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:55.057177+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ks/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:56 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 06 Aug 2026 15:05:33 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "c7dc76d34fde4ecc3acd688d082035ae65ce0176124ea2fe81ffe6cc6b3bcd52",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F KS 20 1993:1-2025:4 V4.14.0 R2026Q3 qwipu_ks_20260806_0821\nQWI_FA KS 20 1993:1-2025:3 V4.14.0 R2026Q3 qwipu_ks_20260806_0821\nQWI_FS KS 20 1993:1-2025:3 V4.14.0 R2026Q3 qwipu_ks_20260806_0821\n"
+  },
+  "ky": {
+    "retrieval": {
+      "id": "qwi_version_ky.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ky/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:55.058196+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ky/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:56 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Mon, 10 Aug 2026 13:29:18 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "cabb9e6ca895dbded9fcf8e83ef71b1073ae370296781a6c7d6672aa0dbe78bf",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F KY 21 2001:1-2025:4 V4.14.0 R2026Q3 qwipu_ky_20260806_1154\nQWI_FA KY 21 2001:1-2025:3 V4.14.0 R2026Q3 qwipu_ky_20260806_1154\nQWI_FS KY 21 2001:1-2025:3 V4.14.0 R2026Q3 qwipu_ky_20260806_1154\n"
+  },
+  "la": {
+    "retrieval": {
+      "id": "qwi_version_la.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/la/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:57.011732+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/la/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:58 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Mon, 17 Aug 2026 19:32:53 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "632e0bd83fa441759b0ea40c6053b91cabbef80750381f762388164e57b71e4b",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F LA 22 1995:1-2025:4 V4.14.0 R2026Q3 qwipu_la_20260817_1059\nQWI_FA LA 22 1995:1-2025:3 V4.14.0 R2026Q3 qwipu_la_20260817_1059\nQWI_FS LA 22 1995:1-2025:3 V4.14.0 R2026Q3 qwipu_la_20260817_1059\n"
+  },
+  "me": {
+    "retrieval": {
+      "id": "qwi_version_me.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/me/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:57.012025+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/me/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:58 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Wed, 19 Aug 2026 16:04:18 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "f50cc4520381f8c9163473ad1c2151c6b394c982382dbf825651f0f87ed51f38",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F ME 23 1996:2-2025:4 V4.14.0 R2026Q3 qwipu_me_20260819_1013\nQWI_FA ME 23 1996:2-2025:3 V4.14.0 R2026Q3 qwipu_me_20260819_1013\nQWI_FS ME 23 1996:2-2025:3 V4.14.0 R2026Q3 qwipu_me_20260819_1013\n"
+  },
+  "md": {
+    "retrieval": {
+      "id": "qwi_version_md.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/md/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:57.016149+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/md/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:58 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 11 Aug 2026 15:52:14 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "a812c9f974207379d40752bf5e1d78edfb2ce69d9cfb21bdfe6626d9d20b1336",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F MD 24 1990:1-2025:4 V4.14.0 R2026Q3 qwipu_md_20260811_0950\nQWI_FA MD 24 1990:1-2025:3 V4.14.0 R2026Q3 qwipu_md_20260811_0950\nQWI_FS MD 24 1990:1-2025:3 V4.14.0 R2026Q3 qwipu_md_20260811_0950\n"
+  },
+  "ma": {
+    "retrieval": {
+      "id": "qwi_version_ma.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ma/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:57.020002+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ma/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:58 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Fri, 31 Jul 2026 16:08:26 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "70f2f190774d06191eae69b0b32ccf5dd433cf4a2b490bc4ca7b1eb3a5793950",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F MA 25 2010:1-2025:4 V4.14.0 R2026Q3 qwipu_ma_20260730_1733\nQWI_FA MA 25 2010:1-2025:3 V4.14.0 R2026Q3 qwipu_ma_20260730_1733\nQWI_FS MA 25 2010:1-2025:3 V4.14.0 R2026Q3 qwipu_ma_20260730_1733\n"
+  },
+  "mi": {
+    "retrieval": {
+      "id": "qwi_version_mi.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/mi/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:57.045223+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/mi/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:58 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Mon, 10 Aug 2026 13:46:25 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "4101f4f05a2fd421cfd4a6bd55a5b7572c8536311a25f5d4d1a8f4c5926b6325",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F MI 26 2000:3-2021:4 V4.14.0 R2026Q3 qwipu_mi_20260806_1206\nQWI_FA MI 26 2000:3-2021:3 V4.14.0 R2026Q3 qwipu_mi_20260806_1206\nQWI_FS MI 26 2000:3-2021:3 V4.14.0 R2026Q3 qwipu_mi_20260806_1206\n"
+  },
+  "mn": {
+    "retrieval": {
+      "id": "qwi_version_mn.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/mn/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:57.299250+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/mn/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:58 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 18 Aug 2026 13:04:50 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "2b01cfbcad64c6ca45dacb898dae6a73eb475a4dd6a033be382afb7f5c98fca7",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F MN 27 1994:3-2025:4 V4.14.0 R2026Q3 qwipu_mn_20260817_1244\nQWI_FA MN 27 1994:3-2025:3 V4.14.0 R2026Q3 qwipu_mn_20260817_1244\nQWI_FS MN 27 1994:3-2025:3 V4.14.0 R2026Q3 qwipu_mn_20260817_1244\n"
+  },
+  "ms": {
+    "retrieval": {
+      "id": "qwi_version_ms.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ms/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:58.477747+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ms/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:59 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 11 Aug 2026 21:52:27 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "3946be60d4ea82c6cd73af2c67ed12888d9fa928751e77a0d3e2c6784b0b6702",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F MS 28 2003:3-2025:4 V4.14.0 R2026Q3 qwipu_ms_20260811_1544\nQWI_FA MS 28 2003:3-2025:3 V4.14.0 R2026Q3 qwipu_ms_20260811_1544\nQWI_FS MS 28 2003:3-2025:3 V4.14.0 R2026Q3 qwipu_ms_20260811_1544\n"
+  },
+  "mo": {
+    "retrieval": {
+      "id": "qwi_version_mo.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/mo/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:58.493746+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/mo/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:59 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 25 Aug 2026 20:41:11 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "46031969db06a28618c459eccb6004f6df2548ab4154164c7da86f06a6fe8133",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F MO 29 1995:1-2025:4 V4.14.0 R2026Q3 qwipu_mo_20260825_1047\nQWI_FA MO 29 1995:1-2025:3 V4.14.0 R2026Q3 qwipu_mo_20260825_1047\nQWI_FS MO 29 1995:1-2025:3 V4.14.0 R2026Q3 qwipu_mo_20260825_1047\n"
+  },
+  "mt": {
+    "retrieval": {
+      "id": "qwi_version_mt.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/mt/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:58.494461+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/mt/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:59 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 25 Aug 2026 16:37:12 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "245f4ae86f258b1b0a18b2a9c0da0bca7a2be4088ca19a4c1f4c320625e79aa6",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F MT 30 1993:1-2025:4 V4.14.0 R2026Q3 qwipu_mt_20260824_1624\nQWI_FA MT 30 1993:1-2025:3 V4.14.0 R2026Q3 qwipu_mt_20260824_1624\nQWI_FS MT 30 1993:1-2025:3 V4.14.0 R2026Q3 qwipu_mt_20260824_1624\n"
+  },
+  "ne": {
+    "retrieval": {
+      "id": "qwi_version_ne.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ne/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:58.498475+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ne/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:59 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Fri, 31 Jul 2026 16:43:32 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "d29cf5d597d30a7c643fcddb335518d988070524f871160fb67769ca106d990b",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F NE 31 1999:1-2025:4 V4.14.0 R2026Q3 qwipu_ne_20260730_1949\nQWI_FA NE 31 1999:1-2025:3 V4.14.0 R2026Q3 qwipu_ne_20260730_1949\nQWI_FS NE 31 1999:1-2025:3 V4.14.0 R2026Q3 qwipu_ne_20260730_1949\n"
+  },
+  "nv": {
+    "retrieval": {
+      "id": "qwi_version_nv.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/nv/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:58.503206+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/nv/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:22:59 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Wed, 19 Aug 2026 15:29:12 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "170e823b0a3302f0462a1ea302414122fe7cb6d80e853180d72d9ba12e5b72fb",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F NV 32 1998:1-2025:4 V4.14.0 R2026Q3 qwipu_nv_20260819_0902\nQWI_FA NV 32 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_nv_20260819_0902\nQWI_FS NV 32 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_nv_20260819_0902\n"
+  },
+  "nh": {
+    "retrieval": {
+      "id": "qwi_version_nh.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/nh/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:58.722449+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/nh/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:00 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 11 Aug 2026 14:13:07 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "ad72ec2eca3223cba2eff49915cc9b024deefb1e9c72642575b6da16b9c9785c",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F NH 33 2003:1-2025:4 V4.14.0 R2026Q3 qwipu_nh_20260810_1357\nQWI_FA NH 33 2003:1-2025:3 V4.14.0 R2026Q3 qwipu_nh_20260810_1357\nQWI_FS NH 33 2003:1-2025:3 V4.14.0 R2026Q3 qwipu_nh_20260810_1357\n"
+  },
+  "nj": {
+    "retrieval": {
+      "id": "qwi_version_nj.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/nj/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:59.914911+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/nj/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:01 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 11 Aug 2026 14:40:07 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "b4587408303b5a46e76eaf9caa5e55f08ea8ef28bcd6e00b08b86ff647c65ad6",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F NJ 34 1996:1-2025:4 V4.14.0 R2026Q3 qwipu_nj_20260810_1538\nQWI_FA NJ 34 1996:1-2025:3 V4.14.0 R2026Q3 qwipu_nj_20260810_1538\nQWI_FS NJ 34 1996:1-2025:3 V4.14.0 R2026Q3 qwipu_nj_20260810_1538\n"
+  },
+  "nm": {
+    "retrieval": {
+      "id": "qwi_version_nm.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/nm/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:59.921148+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/nm/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:01 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 25 Aug 2026 21:51:14 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "38b1950d7f14e3202377bfbe16ebdd35fde4a955d64f5d7bfb83ce78bb71d11a",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F NM 35 1995:3-2025:4 V4.14.0 R2026Q3 qwipu_nm_20260825_1049\nQWI_FA NM 35 1995:3-2025:3 V4.14.0 R2026Q3 qwipu_nm_20260825_1049\nQWI_FS NM 35 1995:3-2025:3 V4.14.0 R2026Q3 qwipu_nm_20260825_1049\n"
+  },
+  "ny": {
+    "retrieval": {
+      "id": "qwi_version_ny.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ny/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:59.929120+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ny/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:01 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Wed, 26 Aug 2026 13:08:20 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "d22701fdf52ae09bb72033f6fba6ec67e4c6ba7ae5327bb3771be1cfcad3e433",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F NY 36 2000:1-2025:4 V4.14.0 R2026Q3 qwipu_ny_20260825_1103\nQWI_FA NY 36 2000:1-2025:3 V4.14.0 R2026Q3 qwipu_ny_20260825_1103\nQWI_FS NY 36 2000:1-2025:3 V4.14.0 R2026Q3 qwipu_ny_20260825_1103\n"
+  },
+  "nc": {
+    "retrieval": {
+      "id": "qwi_version_nc.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/nc/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:59.950476+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/nc/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:01 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 18 Aug 2026 15:51:25 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "cb230a3a5d939d34b6b1967d6ce89be0f8af66842b6b48cc78f18206e73f23ec",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F NC 37 1992:4-2025:4 V4.14.0 R2026Q3 qwipu_nc_20260818_0823\nQWI_FA NC 37 1992:4-2025:3 V4.14.0 R2026Q3 qwipu_nc_20260818_0823\nQWI_FS NC 37 1992:4-2025:3 V4.14.0 R2026Q3 qwipu_nc_20260818_0823\n"
+  },
+  "nd": {
+    "retrieval": {
+      "id": "qwi_version_nd.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/nd/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:22:59.959267+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/nd/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:01 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Fri, 31 Jul 2026 16:18:40 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "004ccdcf7f87fa08f538c3789686abdcf838220d2d82092ddb815d33b6783bad",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F ND 38 1998:1-2025:4 V4.14.0 R2026Q3 qwipu_nd_20260730_1838\nQWI_FA ND 38 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_nd_20260730_1838\nQWI_FS ND 38 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_nd_20260730_1838\n"
+  },
+  "oh": {
+    "retrieval": {
+      "id": "qwi_version_oh.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/oh/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:00.244567+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/oh/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:01 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 11 Aug 2026 16:11:23 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "678ee7a53aeab39a83fe134521a37514e1acd203b9088f97dd0e0202226bbdf8",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F OH 39 2000:1-2025:4 V4.14.0 R2026Q3 qwipu_oh_20260811_0954\nQWI_FA OH 39 2000:1-2025:3 V4.14.0 R2026Q3 qwipu_oh_20260811_0954\nQWI_FS OH 39 2000:1-2025:3 V4.14.0 R2026Q3 qwipu_oh_20260811_0954\n"
+  },
+  "ok": {
+    "retrieval": {
+      "id": "qwi_version_ok.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ok/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:01.348547+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ok/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:02 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Wed, 12 Aug 2026 14:15:15 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "f13b4fe9f0d197a0412e6d66b4cd72af5efaa5049f2575d4470570c8193362c5",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F OK 40 2000:1-2025:4 V4.14.0 R2026Q3 qwipu_ok_20260811_1550\nQWI_FA OK 40 2000:1-2025:3 V4.14.0 R2026Q3 qwipu_ok_20260811_1550\nQWI_FS OK 40 2000:1-2025:3 V4.14.0 R2026Q3 qwipu_ok_20260811_1550\n"
+  },
+  "or": {
+    "retrieval": {
+      "id": "qwi_version_or.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/or/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:01.374315+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/or/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:03 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Wed, 12 Aug 2026 14:34:31 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "90b8f71a07e553ddd60ef5d549730f5e511a64fb7ae0b1f8eac6ddc6d8bd24cd",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F OR 41 1991:1-2025:4 V4.14.0 R2026Q3 qwipu_or_20260811_1649\nQWI_FA OR 41 1991:1-2025:3 V4.14.0 R2026Q3 qwipu_or_20260811_1649\nQWI_FS OR 41 1991:1-2025:3 V4.14.0 R2026Q3 qwipu_or_20260811_1649\n"
+  },
+  "pa": {
+    "retrieval": {
+      "id": "qwi_version_pa.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/pa/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:01.382487+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/pa/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:02 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Wed, 12 Aug 2026 16:00:25 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "f184c0ce4f7e0333696ee267a79b3603c056dd704572fa5b4c9158d843d9b9a6",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F PA 42 1997:1-2025:4 V4.14.0 R2026Q3 qwipu_pa_20260812_0936\nQWI_FA PA 42 1997:1-2025:3 V4.14.0 R2026Q3 qwipu_pa_20260812_0936\nQWI_FS PA 42 1997:1-2025:3 V4.14.0 R2026Q3 qwipu_pa_20260812_0936\n"
+  },
+  "ri": {
+    "retrieval": {
+      "id": "qwi_version_ri.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ri/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:01.386391+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ri/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:02 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 11 Aug 2026 15:06:13 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "474c0aeb23fb66097ed9970a0f9b5a95609a289bbe6dc9ad5b4d25883f266c7e",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F RI 44 1995:1-2025:4 V4.14.0 R2026Q3 qwipu_ri_20260811_1000\nQWI_FA RI 44 1995:1-2025:3 V4.14.0 R2026Q3 qwipu_ri_20260811_1000\nQWI_FS RI 44 1995:1-2025:3 V4.14.0 R2026Q3 qwipu_ri_20260811_1000\n"
+  },
+  "sc": {
+    "retrieval": {
+      "id": "qwi_version_sc.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/sc/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:01.387425+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/sc/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:02 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 27 Aug 2026 17:31:24 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "4496dca22ccbb7d9462b5491a089ec378e58216f8723b421ddb706321ca4117d",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F SC 45 1998:1-2025:4 V4.14.0 R2026Q3 qwipu_sc_20260827_1144\nQWI_FA SC 45 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_sc_20260827_1144\nQWI_FS SC 45 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_sc_20260827_1144\n"
+  },
+  "sd": {
+    "retrieval": {
+      "id": "qwi_version_sd.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/sd/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:01.860551+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/sd/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:03 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Mon, 10 Aug 2026 17:48:59 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "e0157a944198db66bfbe1836a3fee67b77b9c63eb65062e18fbd652dfe629a5a",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F SD 46 1998:1-2025:4 V4.14.0 R2026Q3 qwipu_sd_20260810_1119\nQWI_FA SD 46 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_sd_20260810_1119\nQWI_FS SD 46 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_sd_20260810_1119\n"
+  },
+  "tn": {
+    "retrieval": {
+      "id": "qwi_version_tn.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/tn/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:02.925098+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/tn/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:04 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Wed, 26 Aug 2026 14:10:30 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "13e2a1b27f97763ba7620d7e9f7afdb409af4d1aa29d584499482cc01f3ea91c",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F TN 47 1998:1-2025:4 V4.14.0 R2026Q3 qwipu_tn_20260825_0839\nQWI_FA TN 47 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_tn_20260825_0839\nQWI_FS TN 47 1998:1-2025:3 V4.14.0 R2026Q3 qwipu_tn_20260825_0839\n"
+  },
+  "tx": {
+    "retrieval": {
+      "id": "qwi_version_tx.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/tx/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:02.933665+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/tx/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:04 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Tue, 18 Aug 2026 12:33:10 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "04719d772ea4d5006ba73eb4a67a00d0a677ccbdf287658a2d761c9603e09305",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F TX 48 1995:1-2025:4 V4.14.0 R2026Q3 qwipu_tx_20260817_1629\nQWI_FA TX 48 1995:1-2025:3 V4.14.0 R2026Q3 qwipu_tx_20260817_1629\nQWI_FS TX 48 1995:1-2025:3 V4.14.0 R2026Q3 qwipu_tx_20260817_1629\n"
+  },
+  "ut": {
+    "retrieval": {
+      "id": "qwi_version_ut.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/ut/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:02.943017+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/ut/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:04 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 27 Aug 2026 17:20:13 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "6769cef606f1c852bee1126429ee10c93a8bcc129c44868b96d93b375be898cb",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F UT 49 1999:3-2025:4 V4.14.0 R2026Q3 qwipu_ut_20260827_1157\nQWI_FA UT 49 1999:3-2025:3 V4.14.0 R2026Q3 qwipu_ut_20260827_1157\nQWI_FS UT 49 1999:3-2025:3 V4.14.0 R2026Q3 qwipu_ut_20260827_1157\n"
+  },
+  "vt": {
+    "retrieval": {
+      "id": "qwi_version_vt.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/vt/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:02.948463+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/vt/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:04 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 27 Aug 2026 17:02:00 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "8505453559ea5ad9a0575683238fd4afa876b1f74352b2f98c81dd166f26335a",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F VT 50 2000:1-2025:4 V4.14.0 R2026Q3 qwipu_vt_20260827_1148\nQWI_FA VT 50 2000:1-2025:3 V4.14.0 R2026Q3 qwipu_vt_20260827_1148\nQWI_FS VT 50 2000:1-2025:3 V4.14.0 R2026Q3 qwipu_vt_20260827_1148\n"
+  },
+  "va": {
+    "retrieval": {
+      "id": "qwi_version_va.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/va/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:03.381900+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/va/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:04 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 27 Aug 2026 18:42:34 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "93736bbef63e6e4bf23954389bdfa84a3f6d67aadf9ab3d110ecce1be4d33b6d",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F VA 51 1998:3-2025:4 V4.14.0 R2026Q3 qwipu_va_20260827_1146\nQWI_FA VA 51 1998:3-2025:3 V4.14.0 R2026Q3 qwipu_va_20260827_1146\nQWI_FS VA 51 1998:3-2025:3 V4.14.0 R2026Q3 qwipu_va_20260827_1146\n"
+  },
+  "wa": {
+    "retrieval": {
+      "id": "qwi_version_wa.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/wa/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:03.442161+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/wa/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:04 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Mon, 10 Aug 2026 16:30:41 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "e0925291569e98bb0ed345411e1e1a510e1de9975f5d837d7c6f14c613d21479",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F WA 53 1990:1-2025:4 V4.14.0 R2026Q3 qwipu_wa_20260810_1027\nQWI_FA WA 53 1993:1-2025:3 V4.14.0 R2026Q3 qwipu_wa_20260810_1027\nQWI_FS WA 53 1993:1-2025:3 V4.14.0 R2026Q3 qwipu_wa_20260810_1027\n"
+  },
+  "wv": {
+    "retrieval": {
+      "id": "qwi_version_wv.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/wv/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:05.015128+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/wv/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:06 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 27 Aug 2026 17:53:47 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "bf91ae413f42d25003c971a13fef3935394d1bc19dd470b266f76fe6f3f1a58a",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F WV 54 1997:1-2025:4 V4.14.0 R2026Q3 qwipu_wv_20260827_1225\nQWI_FA WV 54 1997:1-2025:3 V4.14.0 R2026Q3 qwipu_wv_20260827_1225\nQWI_FS WV 54 1997:1-2025:3 V4.14.0 R2026Q3 qwipu_wv_20260827_1225\n"
+  },
+  "wi": {
+    "retrieval": {
+      "id": "qwi_version_wi.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/wi/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:05.016768+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/wi/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:06 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Thu, 27 Aug 2026 20:51:41 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "f21c8a5803416626460069dabd9b091a5d6d75a15aae9c8ac18de22a626ec743",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F WI 55 1990:1-2025:4 V4.14.0 R2026Q3 qwipu_wi_20260827_1205\nQWI_FA WI 55 1990:1-2025:3 V4.14.0 R2026Q3 qwipu_wi_20260827_1205\nQWI_FS WI 55 1990:1-2025:3 V4.14.0 R2026Q3 qwipu_wi_20260827_1205\n"
+  },
+  "wy": {
+    "retrieval": {
+      "id": "qwi_version_wy.txt",
+      "url": "https://lehd.ces.census.gov/data/qwi/latest_release/wy/version_qwi.txt",
+      "method": "GET",
+      "requested_range": null,
+      "version": "retrieved vintage",
+      "retrieved_at_utc": "2026-10-09T01:23:05.020179+00:00",
+      "status": 200,
+      "final_url": "https://lehd.ces.census.gov/data/qwi/latest_release/wy/version_qwi.txt",
+      "headers": {
+        "date": "Fri, 09 Oct 2026 01:23:06 GMT",
+        "x-lehd-web": "web1",
+        "x-frame-options": "SAMEORIGIN",
+        "content-security-policy": "frame-ancestors 'self';",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1;mode=block",
+        "last-modified": "Mon, 10 Aug 2026 15:01:40 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "197",
+        "connection": "close",
+        "content-type": "text/plain; charset=UTF-8",
+        "strict-transport-security": "max-age=31536000",
+        "redacted_header_names": [
+          "set-cookie"
+        ]
+      },
+      "bytes": 197,
+      "sha256": "95eaf165ebf5e972c058828325469e3ce89e3dfcc2f93bfe91574e62ab66e66a",
+      "hash_scope": "response body only"
+    },
+    "text": "QWI_F WY 56 2001:1-2025:4 V4.14.0 R2026Q3 qwipu_wy_20260810_0949\nQWI_FA WY 56 2001:1-2025:3 V4.14.0 R2026Q3 qwipu_wy_20260810_0949\nQWI_FS WY 56 2001:1-2025:3 V4.14.0 R2026Q3 qwipu_wy_20260810_0949\n"
+  }
+}
